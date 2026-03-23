@@ -3,7 +3,7 @@
 ---
 
 *Where Helios strives for improvement, Volkanus strives for change and novelty. I find this much more relatable, if less easy to parse. If Helios would teach mortals to put fire behind glass and have a lantern, for example, Volkanus is just as likely to teach them to put fire into bread, so they could cut open a loaf and eat toast in the morning. He leaves people in such confused danger, they're easy pickings. But above all else, if you can steal from him- he does make such incredible toys...
--Reyvan
+-Reyvan*
 
 Volkanus is a [[6. Religions and Deities/Deities/Major Gods\|Major God]]
 
