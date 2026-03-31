@@ -1,7 +1,7 @@
 [
 {
 		"title": "1. Irithiel VR 372 Landing Page",
-		"date":"Tue Mar 31 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Table of Contents to come.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/vr-372/1-introduction/2-foreword-vr-372-players/\">2. Foreword- VR 372 Players</a>",
 		"tags": [ "note","gardenEntry"]
@@ -9,15 +9,15 @@
 
 {
 		"title": "2. Foreword- VR 372 Players",
-		"date":"Tue Mar 31 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vr-372/1-introduction/2-foreword-vr-372-players/",
-		"content": "",
+		"content": "Kind people, come and read the collected knowledge of our land.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "VR- Players",
-		"date":"Tue Mar 31 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/calendar-and-timekeeping/vr-players/",
 		"content": "Vale Reckoning (VR) is the calendar system used in the Shining Vale during the time of the Revannian Monarchy. VR 1 began at the coronation of King Aeonath the Civilizer, leader of the heroes who pacified the Vale, in the settlement of Haut-Revanne.",
 		"tags": [ "note"]
@@ -25,7 +25,7 @@
 
 {
 		"title": "Shining Vale History- Players",
-		"date":"Tue Mar 31 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/history-and-myth/shining-vale-history-players/",
 		"content": "",
 		"tags": [ "note"]
@@ -33,7 +33,7 @@
 
 {
 		"title": "Other recognized Deities",
-		"date":"Tue Mar 31 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/religions-and-deities/other-recognized-deities/",
 		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lady Saoirse</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Fates</a>",
 		"tags": [ "note"]
@@ -41,7 +41,7 @@
 
 {
 		"title": "Saints",
-		"date":"Tue Mar 31 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/religions-and-deities/saints/",
 		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Aeonath</a>\nPatron of Civilization and the Monarchy. Aeonath was the first of the Revannian Kings, and the leader of the adventurers who cleared the Vale for settlement. Aeonath's symbol is a Silver griffon rampant on a white field, or simply a griffon rampant. Aeonath reigned until his death in VR 42, and was sanctified shortly afterwards. The Cathedral to St. Aeonath is in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Haut-Revanne</a>.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Kor</a>\nPatron of Strength and endurance. A member of Aeonath's group, Kor was a stalwart warrior renowned for his preference to fight without armor, and the effectiveness with which he used his great axe. Kor went off to great adventure after the Vale was settled, but his axe now hangs in the Cathedral to St. Kor in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Corwyn City</a>. Kor was sanctified in absentia in VR 20, the first of the Saints.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Isolde</a>\nPatron of Art, Progress and Invention. A member of Aeonath's group, Isolde was a clever hero, whose peerless intellect guided the heroes through the most harrowing of troubles. Having started schools, both academic and trade focused, Isolde was canonized in VR 65, despite her great humility protesting the honour. Isolde left the Vale in VR 220, her great skill being needed elsewhere, and is presumed\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Lucia</a>\nPatron of Healing\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Annabella</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Agatha</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Elyse</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Domingo</a>",
 		"tags": [ "note"]
@@ -49,15 +49,79 @@
 
 {
 		"title": "The Shining Vale- Players",
-		"date":"Tue Mar 31 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/the-shining-vale-players/",
 		"content": "&quot;The Shining Vale&quot; refers to a wide valley running in a roughly East-West axis, some 700 miles southeast and inland of the site of fallen <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cimmeria</a>. It is so named due to the high volume and quality of gems found in the Barrier Range of mountains which forms most of the natural southern border of the Vale.",
 		"tags": [ "note"]
 },
 
 {
+		"title": "The Shining Vale- Players",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/the-shining-vale/1-shining-vale-general/the-shining-vale-players/",
+		"content": "&quot;The Shining Vale&quot; refers to a wide valley running in a roughly East-West axis, some 700 miles southeast and inland of the site of fallen <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cimmeria</a>. It is so named due to the high volume and quality of gems found in the Barrier Range of mountains which forms most of the natural southern border of the Vale.\n\nThe Vale is divided into 4 Duchies, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/vr-372/4-geography-lands-and-countries/the-shining-vale/2-duchy-revanne/duchy-revanne-players/\">Duchy Revanne</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/vr-372/4-geography-lands-and-countries/the-shining-vale/5-duchy-corwyn/duchy-corwyn-players/\">Duchy Corwyn</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Duchy Truscia</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/vr-372/4-geography-lands-and-countries/the-shining-vale/4-duchy-redhill/duchy-redhill-players/\">Duchy Redhill</a>. Each is ruled by a Duke, who in turn owe allegiance to the King in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Haut-Revanne</a>.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Duchy Revanne-Players",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/the-shining-vale/2-duchy-revanne/duchy-revanne-players/",
+		"content": "Duchy Revanne was founded in VR -56, starting from <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bas-Revanne</a> in the northwest and moving east and south. <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Haut-Revanne</a> was founded in VR -16, and was decided to be the capital at the coronation of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Aeonath</a> which marks the beginning of VR 1.\nThe Capital of Duchy Revanne is <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bas-Revanne</a>.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Duchy Redhill-Players",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/the-shining-vale/4-duchy-redhill/duchy-redhill-players/",
+		"content": "Duchy Redhill was founded by <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ephraim Redhill</a> at the site of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ironhelm</a> in VR 32, after an exhaustive search for the best location to begin a proper Dwarven delve. Finding iron, precious metals and gem veins in plentiful supply, the mining continues to this day. Many of the work camps and temporary settlements in the hills leading up to the Barrier Range, which were founded in the search for Ironhelm, have now become vital towns in their own right, for the purpose of trading, quarrying and lumber harvesting.\nThe Capital of Duchy Redhill is <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ironhelm</a>, and the current Duke is Rugan Redhill, son of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ephraim Redhill</a>. He has been the Duke since VR 154, when Ephraim officially abdicated in Rugan's favor in order to explore and found lands to the east, which became <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/vr-372/4-geography-lands-and-countries/the-shining-vale/5-duchy-corwyn/duchy-corwyn-players/\">Duchy Corwyn</a> only a few years later in VR 156.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Duchy Corwyn-Players",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/the-shining-vale/5-duchy-corwyn/duchy-corwyn-players/",
+		"content": "Duchy Corwyn was founded at <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Corwyn City</a> by Duke <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ephraim Redhill</a> in VR 156, having successfully established <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/vr-372/4-geography-lands-and-countries/the-shining-vale/4-duchy-redhill/duchy-redhill-players/\">Duchy Redhill</a>, settling his people and ensuring prosperity for the Vale with their mining, quarrying and lumber industries. Duke Redhill wished to memorialize his fallen brother, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Corwyn</a> by writing his name across the land.\nThe capital of Duchy Corwyn is <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Corwyn City</a>, and the current Duke is Glinda Redhill, daughter of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ephraim Redhill</a>. She has been the Duke since VR 277 when Ephraim passed away.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "VR- Players",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/the-shining-vale/6-calendar-and-timekeeping/vr-players/",
+		"content": "Vale Reckoning (VR) is the calendar system used in the Shining Vale during the time of the Revannian Monarchy. VR 1 began at the coronation of King Aeonath the Civilizer, leader of the heroes who pacified the Vale, in the settlement of Haut-Revanne.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Shining Vale History- Players",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/the-shining-vale/7-history-and-myth/shining-vale-history-players/",
+		"content": "",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Other recognized Deities",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/the-shining-vale/8-religions-and-deities/other-recognized-deities/",
+		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lady Saoirse</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Fates</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Saints",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/the-shining-vale/8-religions-and-deities/saints/",
+		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Aeonath</a>\nPatron of Civilization and the Monarchy. Aeonath was the first of the Revannian Kings, and the leader of the adventurers who cleared the Vale for settlement. Aeonath's symbol is a Silver griffon rampant on a white field, or simply a griffon rampant. Aeonath reigned until his death in VR 42, and was sanctified shortly afterwards. The Cathedral to St. Aeonath is in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Haut-Revanne</a>.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Kor</a>\nPatron of Strength and endurance. A member of Aeonath's group, Kor was a stalwart warrior renowned for his preference to fight without armor, and the effectiveness with which he used his great axe. Kor went off to great adventure after the Vale was settled, but his axe now hangs in the Cathedral to St. Kor in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Corwyn City</a>. Kor was sanctified in absentia in VR 20, the first of the Saints.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Isolde</a>\nPatron of Art, Progress and Invention. A member of Aeonath's group, Isolde was a clever hero, whose peerless intellect guided the heroes through the most harrowing of troubles. Having started schools, both academic and trade focused, Isolde was canonized in VR 65, despite her great humility protesting the honour. Isolde left the Vale in VR 220, her great skill being needed elsewhere, and is presumed helping\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Lucia</a>\nPatron of Healing\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Annabella</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Agatha</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Elyse</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Domingo</a>",
+		"tags": [ "note"]
+},
+
+{
 		"title": "Piety - Optional Rule",
-		"date":"Tue Mar 31 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 05:01:02 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vr-372/50-appendix-1-rules/piety-optional-rule/",
 		"content": "Piety is an Optional Rule from the Mythic Odysseys of Theros sourcebook for 5th Edition Dungeons and Dragons, published in 2020.\nSome of the Deities presented in this text are adapted from Deities found in that book, but made more suitable to the world of Irithiel; but most of the Deities have been created herein, drawing of course on the mythology of cultures found in the original and most popular campaign setting, Terra.",
 		"tags": [ "note"]
