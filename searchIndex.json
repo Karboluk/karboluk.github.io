@@ -1,7 +1,7 @@
 [
 {
 		"title": "1. Irithiel Landing Page",
-		"date":"Tue Mar 31 2026 02:53:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 02:56:19 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Table of Contents to come.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/1-introduction/1a-foreword/\">1a. Foreword</a>",
 		"tags": [ "note","gardenEntry"]
@@ -9,15 +9,23 @@
 
 {
 		"title": "1a. Foreword",
-		"date":"Tue Mar 31 2026 02:53:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 02:56:19 GMT+0000 (Coordinated Universal Time)",
 		"url":"/1-introduction/1a-foreword/",
 		"content": "Dear Reader and appreciator of the Fine Art of Cataloguing,\nI thank you for taking the time to peruse this tome. I intend for this to be a reference for all who should wish to visit the world known as <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Irithiel</a>, though depending on the manner of your travel, arrival and the specific timing involved, you may find the information contained herein to be confusing, overwhelming, or common knowledge; nonetheless I commit this to words specifically because I know that there are those who will find great utility in what I have compiled.\nAlthough I have seen many ages of this world, and have amassed the knowledge of a multitude of creatures, I (your humble scribe and editor) am but one being; there will be entries in this repository that are incomplete, and others that are missing- alluded to, but not yet written. Rest assured that this is an ongoing project, and will be brought to completeness before existence fades away in the end.\nRegardless of the opinions you may develop about my art, please know that I treasure every moment that your eyes gaze upon my work. Spending even a second of your insignificant lifespan here fills me with great energy.\nIn reading more than three words of the above or of any given article, you have already agreed to our exchange. I won't take more than I need to, as I hope to do business with you again in the future; each donation of your life allows me to add more articles, after all. So do come back.\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Reyvan the Knowlegeable</a>.",
 		"tags": [ "note"]
 },
 
 {
+		"title": "VR- Players",
+		"date":"Tue Mar 31 2026 02:56:19 GMT+0000 (Coordinated Universal Time)",
+		"url":"/4-geography-and-politics/continent-1/the-shining-vale/calendar-and-timekeeping/vr-players/",
+		"content": "Vale Reckoning (VR) is the calendar system used in the Shining Vale during the time of the Revannian Monarchy. VR 1 began at the coronation of King Aeonath the Civilizer, leader of the heroes who pacified the Vale, in the settlement of Haut-Revanne.",
+		"tags": [ "note"]
+},
+
+{
 		"title": "Piety - Optional Rule",
-		"date":"Tue Mar 31 2026 02:53:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 02:56:19 GMT+0000 (Coordinated Universal Time)",
 		"url":"/50-appendix-1-rules/piety-optional-rule/",
 		"content": "Piety is an Optional Rule from the Mythic Odysseys of Theros sourcebook for 5th Edition Dungeons and Dragons, published in 2020.\nSome of the Deities presented in this text are adapted from Deities found in that book, but made more suitable to the world of Irithiel; but most of the Deities have been created herein, drawing of course on the mythology of cultures found in the original and most popular campaign setting, Terra.",
 		"tags": [ "note"]
