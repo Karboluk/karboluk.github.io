@@ -1,15 +1,7 @@
 [
 {
-		"title": "1. Irithiel Landing Page",
-		"date":"Tue Mar 31 2026 02:56:19 GMT+0000 (Coordinated Universal Time)",
-		"url":"/",
-		"content": "Table of Contents to come.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/1-introduction/1a-foreword/\">1a. Foreword</a>",
-		"tags": [ "note","gardenEntry"]
-},
-
-{
 		"title": "1a. Foreword",
-		"date":"Tue Mar 31 2026 02:56:19 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
 		"url":"/1-introduction/1a-foreword/",
 		"content": "Dear Reader and appreciator of the Fine Art of Cataloguing,\nI thank you for taking the time to peruse this tome. I intend for this to be a reference for all who should wish to visit the world known as <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Irithiel</a>, though depending on the manner of your travel, arrival and the specific timing involved, you may find the information contained herein to be confusing, overwhelming, or common knowledge; nonetheless I commit this to words specifically because I know that there are those who will find great utility in what I have compiled.\nAlthough I have seen many ages of this world, and have amassed the knowledge of a multitude of creatures, I (your humble scribe and editor) am but one being; there will be entries in this repository that are incomplete, and others that are missing- alluded to, but not yet written. Rest assured that this is an ongoing project, and will be brought to completeness before existence fades away in the end.\nRegardless of the opinions you may develop about my art, please know that I treasure every moment that your eyes gaze upon my work. Spending even a second of your insignificant lifespan here fills me with great energy.\nIn reading more than three words of the above or of any given article, you have already agreed to our exchange. I won't take more than I need to, as I hope to do business with you again in the future; each donation of your life allows me to add more articles, after all. So do come back.\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Reyvan the Knowlegeable</a>.",
 		"tags": [ "note"]
@@ -17,7 +9,7 @@
 
 {
 		"title": "VR- Players",
-		"date":"Tue Mar 31 2026 02:56:19 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
 		"url":"/4-geography-and-politics/continent-1/the-shining-vale/calendar-and-timekeeping/vr-players/",
 		"content": "Vale Reckoning (VR) is the calendar system used in the Shining Vale during the time of the Revannian Monarchy. VR 1 began at the coronation of King Aeonath the Civilizer, leader of the heroes who pacified the Vale, in the settlement of Haut-Revanne.",
 		"tags": [ "note"]
@@ -25,8 +17,72 @@
 
 {
 		"title": "Piety - Optional Rule",
-		"date":"Tue Mar 31 2026 02:56:19 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
 		"url":"/50-appendix-1-rules/piety-optional-rule/",
+		"content": "Piety is an Optional Rule from the Mythic Odysseys of Theros sourcebook for 5th Edition Dungeons and Dragons, published in 2020.\nSome of the Deities presented in this text are adapted from Deities found in that book, but made more suitable to the world of Irithiel; but most of the Deities have been created herein, drawing of course on the mythology of cultures found in the original and most popular campaign setting, Terra.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "1. Irithiel VR 372 Landing Page",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "Table of Contents to come.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/vr-372/1-introduction/2-foreword-vr-372-players/\">2. Foreword- VR 372 Players</a>",
+		"tags": [ "note","gardenEntry"]
+},
+
+{
+		"title": "2. Foreword- VR 372 Players",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/1-introduction/2-foreword-vr-372-players/",
+		"content": "",
+		"tags": [ "note"]
+},
+
+{
+		"title": "VR- Players",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/calendar-and-timekeeping/vr-players/",
+		"content": "Vale Reckoning (VR) is the calendar system used in the Shining Vale during the time of the Revannian Monarchy. VR 1 began at the coronation of King Aeonath the Civilizer, leader of the heroes who pacified the Vale, in the settlement of Haut-Revanne.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Shining Vale History- Players",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/history-and-myth/shining-vale-history-players/",
+		"content": "",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Other recognized Deities",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/religions-and-deities/other-recognized-deities/",
+		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lady Saoirse</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Fates</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Saints",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/religions-and-deities/saints/",
+		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Aeonath</a>\nPatron of Civilization and the Monarchy. Aeonath was the first of the Revannian Kings, and the leader of the adventurers who cleared the Vale for settlement. Aeonath's symbol is a Silver griffon rampant on a white field, or simply a griffon rampant. Aeonath reigned until his death in VR 42, and was sanctified shortly afterwards. The Cathedral to St. Aeonath is in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Haut-Revanne</a>.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Kor</a>\nPatron of Strength and endurance. A member of Aeonath's group, Kor was a stalwart warrior renowned for his preference to fight without armor, and the effectiveness with which he used his great axe. Kor went off to great adventure after the Vale was settled, but his axe now hangs in the Cathedral to St. Kor in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Corwyn City</a>. Kor was sanctified in absentia in VR 20, the first of the Saints.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Isolde</a>\nPatron of Art, Progress and Invention. A member of Aeonath's group, Isolde was a clever hero, whose peerless intellect guided the heroes through the most harrowing of troubles. Having started schools, both academic and trade focused, Isolde was canonized in VR 65, despite her great humility protesting the honour. Isolde left the Vale in VR 220, her great skill being needed elsewhere, and is presumed\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Lucia</a>\nPatron of Healing\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Annabella</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Agatha</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Elyse</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">St. Domingo</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "The Shining Vale- Players",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/4-geography-lands-and-countries/continent-1/the-shining-vale/the-shining-vale-players/",
+		"content": "&quot;The Shining Vale&quot; refers to a wide valley running in a roughly East-West axis, some 700 miles southeast and inland of the site of fallen <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cimmeria</a>. It is so named due to the high volume and quality of gems found in the Barrier Range of mountains which forms most of the natural southern border of the Vale.",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Piety - Optional Rule",
+		"date":"Tue Mar 31 2026 03:45:35 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vr-372/50-appendix-1-rules/piety-optional-rule/",
 		"content": "Piety is an Optional Rule from the Mythic Odysseys of Theros sourcebook for 5th Edition Dungeons and Dragons, published in 2020.\nSome of the Deities presented in this text are adapted from Deities found in that book, but made more suitable to the world of Irithiel; but most of the Deities have been created herein, drawing of course on the mythology of cultures found in the original and most popular campaign setting, Terra.",
 		"tags": [ "note"]
 }
