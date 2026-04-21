@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Saints</title>
+<title>Chiriki, the Huntress-VR372</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -292,7 +292,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/vr-372/4-geography-lands-and-countries/the-shining-vale/8-religions-and-deities/saints/">Saints </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/vr-372/4-geography-lands-and-countries/the-shining-vale/8-religions-and-deities/saints/">Saints </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -539,7 +539,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/chiriki-the-huntress-vr-372/">Chiriki, the Huntress-VR372 </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/chiriki-the-huntress-vr-372/">Chiriki, the Huntress-VR372 </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -662,28 +662,55 @@ CTRL + K
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-04-21T22:29:00.390Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-04-21T22:29:00.390Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-04-21T22:29:00.390Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1 data-note-icon="">Saints</h1>
+<h1 data-note-icon="">Chiriki, the Huntress-VR372</h1>
 <div class="header-meta">
 </div>
 </header>
-<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner-vr-372/">St. Aeonath</a><br>
-Patron of Civilization and the Monarchy. Aeonath was the first of the Revannian Kings, and the leader of the adventurers who cleared the Vale for settlement. Aeonath's symbol is a Silver griffon rampant on a white field, or simply a griffon rampant. Aeonath reigned until his death in VR 42, and was sanctified shortly afterwards. The Cathedral to St. Aeonath is in <a class="internal-link is-unresolved" href="/404" target="">Haut-Revanne</a>.</p>
-<p><picture src="/img/user/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Image%20Storage/Griffon.jpg" alt="Griffon.jpg203" width="203px"><source media="(max-width:480px)" srcset="/img/optimized/SqYtTOt6fb-428.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/SqYtTOt6fb-428.jpeg">
-<img class="" src="/img/user/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Image%20Storage/Griffon.jpg" alt="Griffon.jpg203" width="203px"></picture></p>
-<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/kor-the-tireless-vr-372/">St. Kor</a><br>
-Patron of Strength and endurance. A member of Aeonath's group, Kor was a stalwart warrior renowned for his preference to fight without armor, and the effectiveness with which he used his great axe. Kor went off to great adventure after the Vale was settled, but his axe now hangs in the Cathedral to St. Kor in <a class="internal-link is-unresolved" href="/404" target="">Corwyn City</a>. Kor was sanctified in absentia in VR 20, the first of the Saints.</p>
-<p><picture src="/img/user/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Image%20Storage/Axe%20of%20Kor.png" alt="Axe of Kor.png403" width="403px"><source media="(max-width:480px)" srcset="/img/optimized/06Vq3Pk7N6-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/06Vq3Pk7N6-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/06Vq3Pk7N6-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/06Vq3Pk7N6-700.jpeg"><img class="" src="/img/user/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Image%20Storage/Axe%20of%20Kor.png" alt="Axe of Kor.png403" width="403px"></picture></p>
-<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/major-deities/volkanus-the-maker-and-reshaper-of-all-things-vr-372/">St. Isolde</a><br>
-Patron of Art, Progress and Invention. A member of Aeonath's group, Isolde was a clever hero, whose peerless intellect guided the heroes through the most harrowing of troubles. Having started schools, both academic and trade focused, Isolde was canonized in VR 65, despite her great humility protesting the honour. Isolde left the Vale in VR 220, her great skill being needed elsewhere, and is presumed helping</p>
-<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesclepius-the-mender-vr-372/">St. Lucia</a><br>
-Patron of Healing</p>
-<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-helios/parvati-the-accepting-vr-372/">St. Annabella</a></p>
-<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesthenes-the-glorious-vr-372/">St. Agatha</a></p>
-<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/lady-saoirse-the-midwife-vr-372/">St. Elyse</a></p>
-<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-helios/themis-the-righteous-vr-372/">St. Domingo</a></p>
+<p><em>One should not insult, rebuke or ignore the Huntress. She comes from an age before mortals were gifted civilization by <a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/major-deities/helios-the-radiant-truth-vr-372/">Helios</a>, and she hasn't learned many niceties since then.<br>
+-Reyvan</em></p>
+<p>Chiriki is a <a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-gods-vr-372/">Minor God</a>.</p>
+<h6 id="regional-names" tabindex="-1">Regional Names:</h6>
+<p>Atalanta (<a class="internal-link is-unresolved" href="/404" target="">Thracia</a>), Siki of Spear and Bow (Goliath of <a class="internal-link" target="" data-note-icon="" href="/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/2-subdurni/the-wastes-of-subdurni-vr-372/">The Wastes of Subdurni</a>), She Who Stalks and Pounces</p>
+<h6 id="domains" tabindex="-1">Domains:</h6>
+<p>Nature, Trickery, War</p>
+<h6 id="regional-worship" tabindex="-1">Regional Worship:</h6>
+<p>Worship of Chiriki is often cult-like and can sometimes be confused with worship of Baphomet by those too lazy to pay attention to detail.</p>
+<p>In <a class="internal-link is-unresolved" href="/404" target="">Thracia</a>, Chiriki (as Atalanta) has temples where mainly women, but still some men, serve in a state of celibacy. These Vestal Priestesses and Priests do not participate in hunts outside of ritual, but serve as advisors and strategists in war.</p>
+<h2 id="nature" tabindex="-1">Nature:</h2>
+<p>Chiriki is a quiet goddess, but aggressively quiet rather than bashfully. She watches and waits for her moment to act; which means that, while other gods may dabble and interfere more, Chiriki's plans almost always work- and swiftly and efficiently.</p>
+<h2 id="associated-major-deity" tabindex="-1">Associated Major Deity:</h2>
+<p><a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/elder-gods/the-earth-mother-irithiel-vr-372/">Earth Mother</a></p>
+<h2 id="relations-to-other-deities" tabindex="-1">Relations to other Deities:</h2>
+<h2 id="origins" tabindex="-1">Origins:</h2>
+<p>Chiriki's <a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/ascent-to-godhood-vr-372/">ascent</a> is known to have happened (from <a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/the-winds-vr-372/">The Winds</a>). It occurred after the world existed and the <a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/elder-gods/the-earth-mother-irithiel-vr-372/">Earth Mother</a> had created the plants and beasts upon it, but before there were mortals; meaning she almost certainly predates <a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/major-deities/helios-the-radiant-truth-vr-372/">Helios</a>. Unlike his ascent, <a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/the-winds-vr-372/">The Winds</a> tell us that Chiriki was elevated by the <a class="internal-link" target="" data-note-icon="" href="/vr-372/5-religions-and-deities/deities/elder-gods/the-earth-mother-irithiel-vr-372/">Earth Mother</a> directly due to her predatory prowess; it was a celebration rather than a catastrophe.</p>
+<p><em>It's never been clear, but I like to think that, rather than some prosaic hunter like a panther, Chiriki was a goose. It both humbles her in the mind and adds lore to why geese are so very pissy.<br>
+-Reyvan</em></p>
+<h2 id="activity" tabindex="-1">Activity:</h2>
+<p>Chiriki stays out of mortal affairs for the most part, but will interfere in the natural world to correct an imbalance, remove an unnatural threat, or sometimes to create a new hunting ground by altering the terrain.</p>
+<p>When she does choose to interact with mortals, it is often to punish rather than to aid. She seems to have no qualms about poor hunters starving, or wild beasts destroying farms and villages. There are a few records, however, of times when mortals living in harmony with the land began to gain magical powers which let them thrive, and also to fend off more powerful and civilized peoples.</p>
+<p>An exception to this behaviour is, of course, in <a class="internal-link is-unresolved" href="/404" target="">Thracia</a>, where worship of Chiriki (as Atalanta) is a very civilized and urban affair. For those of us outside that archipelago, it seems that she perhaps tolerates this as a way to learn how to hunt humans- given the tactical and military purposes that the Vestals are put to. The <a class="internal-link is-unresolved" href="/404" target="">Thracians</a> simply have a different view of her, it seems, noting her keen eye and quick mind, and associating her to the owl, hawk or cat, but without the common hatred of civilization.</p>
+<p>Aside from any actions she may choose to take, The Huntress is always stalking something, somewhere in the world. I think the only beast she hasn't yet challenged is <a class="internal-link is-unresolved" href="/404" target="">The Torrasque</a>, and it's doubtful that this exception is from lack of courage.</p>
+<p><em>I can not state this with certainty, but a rumour has surfaced that Chiriki's unwillingness to deal with mortals is due to the fact that she was an early patron of the humans who would go on to become the <a class="internal-link is-unresolved" href="/404" target="">Yuan-Ti</a>. Perhaps she feels her attempt to guide them failed, and has simply moved to easier targets since then.<br>
+-Reyvan</em></p>
+<h2 id="desired-behaviour-in-followers" tabindex="-1">Desired Behaviour in Followers:</h2>
+<h3 id="vr-372-50-appendix-1-rules-piety-optional-rule-vr-372-piety-benefits" tabindex="-1"><a class="internal-link" target="" data-note-icon="" href="/vr-372/50-appendix-1-rules/piety-optional-rule-vr-372/">Piety</a> Benefits:</h3>
+<p>You increase your piety score to Chiriki when you reinforce the goddess’s influence in the world in a concrete way through acts such as these:</p>
+<ul>
+<li>Hunting a worthy quarry to completion, for food and glory</li>
+<li>Punishing those who hunt for profit, or who hunt excessively</li>
+<li>Proving your worth in a contest of hunting skills, such as archery</li>
+<li>Slaying an aberration, a fiend, or an undead in the name of Chiriki</li>
+</ul>
+<p>Your piety score to Chiriki decreases if you diminish Chiriki’s influence in the world by encouraging civilization, failing to punish those who exploit nature, or offend her sensibilities through acts such as these:</p>
+<ul>
+<li>Killing an animal and not making use of it.</li>
+<li>Dedicating a building or making an animal sacrifice to any god, including Chiriki, except as Atalanta.</li>
+<li>Protecting a city or farm from natural dangers</li>
+</ul>
+<p>-<strong>Chiriki’s Devotee</strong> <em>Piety 3+ Chiriki trait</em>. As a devotee of Chiriki, you have proven yourself a predator of the wilds. You can cast <em>hunter’s mark</em> with this trait a number of times equal to your Wisdom modifier (minimum of once) or with spell slots. You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell.</p>
+<p>-<strong>Chiriki’s Votary</strong> <em>Piety 10+ Chiriki trait</em>. You can cast <em>speak with animals</em> with this trait a number of times equal to your Wisdom modifier (minimum of once), or with spell slots. If you can already speak with animals, you instead gain <em>beast bond.</em> You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell. In addition, you have advantage on saving throws against being poisoned and resistance to poison damage.</p>
+<p>-<strong>Chiriki’s Disciple</strong> <em>Piety 25+ Chiriki trait</em>. You can now hide when only partially obscured, or , if you already had this ability, you can hide when unobscured as long as you are in a natural environment. You lose the benefit of hiding when you make an attack, dash, or cast a spell requiring verbal components other than <em>hunter's mark, speak with animals</em> or <em>beast bond</em>.</p>
+<p>-<strong>Champion of the Hunt</strong> <em>Piety 50+ Chiriki trait</em>. You can increase your Dexterity or Wisdom score by 2 and also increase your maximum for that score by 2.</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -716,10 +743,46 @@ Patron of Healing</p>
 <span id="full-graph-close" x-on:click="fullGraph = closefullGraph(fullGraph); showFullGraph = false;"><i icon-name="x" aria-hidden="true"></i></span><div id="full-graph-container"></div>
 </div>
 </div>
+<div class="toc">
+<div class="toc-title-container">
+<div class="toc-title">
+On this page
+</div>
+</div>
+<div class="toc-container">
+<nav class="toc">
+<ol>
+<li><a href="#regional-names">Regional Names:</a>
+</li>
+<li><a href="#domains">Domains:</a>
+</li>
+<li><a href="#regional-worship">Regional Worship:</a>
+</li>
+<li><a href="#nature">Nature:</a>
+</li>
+<li><a href="#associated-major-deity">Associated Major Deity:</a>
+</li>
+<li><a href="#relations-to-other-deities">Relations to other Deities:</a>
+</li>
+<li><a href="#origins">Origins:</a>
+</li>
+<li><a href="#activity">Activity:</a>
+</li>
+<li><a href="#desired-behaviour-in-followers">Desired Behaviour in Followers:</a>
+<ol>
+<li><a href="#vr-372-50-appendix-1-rules-piety-optional-rule-vr-372-piety-benefits">[[VR372/50. Appendix 1, Rules/Piety - Optional Rule-VR372|Piety]] Benefits:</a>
+</li>
+</ol>
+</li>
+</ol>
+</nav>
+</div>
+</div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card">
-<span class="no-backlinks-message">No other pages mentions this page</span>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/vr-372/5-religions-and-deities/deities/elder-gods/the-earth-mother-irithiel-vr-372/" data-note-icon="" class="backlink">The Earth Mother Irithiel-VR372</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-astere/trikar-the-shrike-vr-372/" data-note-icon="" class="backlink">Trikar, the Shrike-VR372</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/vr-372/5-religions-and-deities/deities/minor-gods-vr-372/" data-note-icon="" class="backlink">Minor Gods-VR372</a>
 </div></div>
 </div>
 </div>
