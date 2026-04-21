@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/the-enclave-vr-372/","dg-note-properties":{"aliases":"The Enclave","Players":true}}
+---
+
+
+When [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]] was first being pacified and settled, there was a long-standing settlement of Elves that already lived there. King Fraiinuk, who had previously united the [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/Sea Kingdom of Kilar-VR372\|Sea Kingdom of Kilar]]to their own and relocated the Kilari Elves into their own forest in the past to avoid a war with Cimmeria, advised that pacifism was still to be the chosen path. The Elves, negotiating with Aeonath and his troupe, agreed to retreat to their most sacred space. 
+
+The Enclave is a dense forest in the Northwest corner of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne-VR372\|Duchy Revanne]]. Several clear rivers stream from it, but no roads lead in; a small path is maintained on the Eastern side for foot travel, for emissaries of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne-VR372\|Duchy Revanne]] and [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]. 
