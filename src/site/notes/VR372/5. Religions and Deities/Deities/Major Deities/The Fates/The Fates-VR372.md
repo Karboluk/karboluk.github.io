@@ -5,10 +5,10 @@
 *The Grey Sisters are an oddity in terms of philosophy, epistemology and morality. But they're decent enough to bring their own contrasting flavours, so one shouldn't complain.
 -Reyvan*
 
-The Fates are [[ZZZ. Private DM Info/6. Religions and Deities/Deities/Major Gods\|ZZZ. Private DM Info/6. Religions and Deities/Deities/Major Gods]]
+The Fates are [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major Gods]]
 
 ###### Regional Names: 
-*Most often simply referred to as "The Fates" collectively, there are some references that name them as "The Grey Sisters", "Maiden-Mother-Crone", or "The Moirai". I believe I even came across a [[Bassaria\|Bassarian]] reference calling them "Those stupid bitch gods", but I couldn't find a second piece of writing from that author, so they may simply have been in a bad mood.*
+*Most often simply referred to as "The Fates" collectively, there are some references that name them as "The Grey Sisters", "Maiden-Mother-Crone", or "The Moirai". I believe I even came across a [[Bassaria-VR372\|Bassarian]] reference calling them "Those stupid bitch gods", but I couldn't find a second piece of writing from that author, so they may simply have been in a bad mood.*
 ###### Domains: 
 Each of the Fates has their own Domain list. 
 
@@ -19,9 +19,9 @@ The Fates are more widely recognized than most other Ascended Gods, but are not 
 
 ## Nature:
 
-The Fates, deemed to be in control of the destinies of all living things and possibly of the Gods themselves, are always depicted as three sisters; [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Clotho-VR372\|VR372/6. Religions and Deities/Deities/Major Deities/The Fates/Clotho]] , [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Lachesis-VR372\|VR372/6. Religions and Deities/Deities/Major Deities/The Fates/Lachesis]]  and [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Atropos-VR372\|VR372/6. Religions and Deities/Deities/Major Deities/The Fates/Atropos]] . Clotho spins the strands of Fate, Lachesis weaves its tapestry, and Atropos cuts the threads at their end; as such, they represent the beginning and end of life and everything in between.
+The Fates, deemed to be in control of the destinies of all living things and possibly of the Gods themselves, are always depicted as three sisters; [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Clotho-VR372\|Clotho]] , [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Lachesis-VR372\|Lachesis]]  and [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Atropos-VR372\|Atropos]] . Clotho spins the strands of Fate, Lachesis weaves its tapestry, and Atropos cuts the threads at their end; as such, they represent the beginning and end of life and everything in between.
 
-The Fates, like [[ZZZ. Private DM Info/6. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel\|The Earth Mother]], are omnipresent in the activity of mortals. Whether this counts as activity or as passive observation depends largely on your opinion on the existence of free will.
+The Fates, like the [[VR372/5. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel-VR372\|Earth Mother]], are omnipresent in the activity of mortals. Whether this counts as activity or as passive observation depends largely on your opinion on the existence of free will.
 
 
 
@@ -30,7 +30,7 @@ See the individual Fates
 
 
 ## Relations to other Deities:
-The Fates seem to have a strained relationship with themselves sometimes- not the individual sisters, mind you, but each fate with themself. [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Lachesis-VR372\|VR372/6. Religions and Deities/Deities/Major Deities/The Fates/Lachesis]] particularly suffers from this, but the tribulations happen so far above the mortal (and indeed, immortal) point of view as to be indecipherable.
+The Fates seem to have a strained relationship with themselves sometimes- not the individual sisters, mind you, but each fate with themself. [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Lachesis-VR372\|Lachesis]] particularly suffers from this, but the tribulations happen so far above the mortal (and indeed, immortal) point of view as to be indecipherable.
 
 
 ## Origins:
