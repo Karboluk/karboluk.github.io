@@ -7,7 +7,7 @@
 
 Aesclepius is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 ###### Regional Names: 
-St Lucia ([[Lausanne-VR372\|Lausanne]], [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]), He Who Restores
+St Lucia ([[Lausanne-VR372\|Lausanne]], [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]), He Who Restores
 ###### Domains: 
 Forge, Life
 

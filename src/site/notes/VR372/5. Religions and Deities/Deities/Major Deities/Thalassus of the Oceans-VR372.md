@@ -13,7 +13,7 @@ Argos ([[Thracia-VR372\|Thracia]]), The Drowning One, The Depths which Remember,
 [[Domain-Knowledge\|Knowledge]],[[Domain-Nature\|Nature]],[[Domain-Tempest\|Tempest]]
 
 ###### Regional Worship: 
-Travellers ([[Thracia-VR372\|Thracia]]), [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Sounders-VR372\|Sounders]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Duchy Redhill-VR372\|Duchy Redhill]], [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]])
+Travellers ([[Thracia-VR372\|Thracia]]), [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Sounders-VR372\|Sounders]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Duchy Redhill-VR372\|Duchy Redhill]], [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]])
 
 
 

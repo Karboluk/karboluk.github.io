@@ -8,12 +8,12 @@
 Volkanus is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
-Moradin (Dwarven Cultural), St. [[Isolde\|Isolde]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]), 
+Moradin (Dwarven Cultural), St. [[Isolde\|Isolde]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]), 
 ###### Domains: 
 Forge, Knowledge, War
 
 ###### Regional Worship: 
-Among human cultures, worship of Volkanus is generally either as a Fire Cult ([[Thracia-VR372\|Thracia]]), individual eccentrics, or a proper human-lead church as in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]. Highly variable, they could be anywhere- but the signs of madness that tend to follow them aren't difficult to spot. 
+Among human cultures, worship of Volkanus is generally either as a Fire Cult ([[Thracia-VR372\|Thracia]]), individual eccentrics, or a proper human-lead church as in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]. Highly variable, they could be anywhere- but the signs of madness that tend to follow them aren't difficult to spot. 
 
 Among dwarves, he is venerated as their father; they work tirelessly to create makings worthy of him.
 

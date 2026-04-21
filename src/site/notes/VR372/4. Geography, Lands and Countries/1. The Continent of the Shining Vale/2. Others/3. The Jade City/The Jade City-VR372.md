@@ -3,6 +3,6 @@
 ---
 
 
-Some 3000 miles Northeast of [[Corwyn City-VR372\|Corwyn City]], [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]. Capital of a Yuan-Ti civilization.
+Some 3000 miles Northeast of [[Corwyn City-VR372\|Corwyn City]], [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]. Capital of a Yuan-Ti civilization.
 
 Notes: Near the Northeast corner of the continent. 

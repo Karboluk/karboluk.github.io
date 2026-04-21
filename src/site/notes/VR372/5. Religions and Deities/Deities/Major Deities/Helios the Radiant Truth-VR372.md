@@ -46,7 +46,7 @@ It is generally assumed that Helios is, in all real meanings of the word, [[The 
 Helios above almost all else loves mortals. He guides, encourages, castigates, and generally parents them constantly.
 
 
-Recently, Helios is suspected to be involved in the creation of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni-VR372\|The Wastes of Subdurni]], [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]. His motives for this activity are not known, but it is suspected that he encouraged the settling of the Vale and was behind the activities of [[Aeonath-VR372\|Aeonath]] and his troupe.
+Recently, Helios is suspected to be involved in the creation of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni-VR372\|The Wastes of Subdurni]], [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]. His motives for this activity are not known, but it is suspected that he encouraged the settling of the Vale and was behind the activities of [[Aeonath-VR372\|Aeonath]] and his troupe.
 
 ## Desired Behaviour in Followers:
 Helios rewards ambition, the pursuit of knowledge, the pursuit of justice and the appreciation for the good things in life. 

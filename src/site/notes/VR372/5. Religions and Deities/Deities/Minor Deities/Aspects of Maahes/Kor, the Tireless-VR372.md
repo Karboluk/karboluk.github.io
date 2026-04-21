@@ -8,7 +8,7 @@
 Kor is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-St. Kor ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]), He Who Endures And Is Not Broken
+St. Kor ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]), He Who Endures And Is Not Broken
 ###### Domains: 
 Tempest, War
 
@@ -17,7 +17,7 @@ There is organized worship in [[VR372/4. Geography, Lands and Countries/1. The C
 
 ## Nature:
 
-Kor was a long suffering human man, part of the original troupe of adventurers responsible for scouting [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]] after the [[Fall of Cimmeria-VR372\|Fall of Cimmeria]] and making it safe for settlement. He carries the weight of these adventures, and the heavy events that occurred, into his new duties. 
+Kor was a long suffering human man, part of the original troupe of adventurers responsible for scouting [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]] after the [[Fall of Cimmeria-VR372\|Fall of Cimmeria]] and making it safe for settlement. He carries the weight of these adventures, and the heavy events that occurred, into his new duties. 
 
 
 ## Associated Major Deity:
@@ -32,7 +32,7 @@ Kor was a long suffering human man, part of the original troupe of adventurers r
 
 ## Origins:
 
-It seems that [[VR372/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade-VR372\|Maahes of Shield and Blade]] was displeased at the treatment of Kor by [[Callamus the Righteous-VR372\|Callamus The Righteous]] during the original settlement of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]. As Kor headed east, he encountered tribal people and shared his experience, attitude and what could generously be called his philosophy- [[VR372/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade-VR372\|Maahes]] was secretly present for several of these and decided that this activity would be beneficial in the race for influence against [[VR372/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm-VR372\|Zatar]]. On one fateful night, he granted Kor divinity- it is not known if Kor was willing or informed of this ahead of time.
+It seems that [[VR372/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade-VR372\|Maahes of Shield and Blade]] was displeased at the treatment of Kor by [[Callamus the Righteous-VR372\|Callamus The Righteous]] during the original settlement of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]. As Kor headed east, he encountered tribal people and shared his experience, attitude and what could generously be called his philosophy- [[VR372/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade-VR372\|Maahes]] was secretly present for several of these and decided that this activity would be beneficial in the race for influence against [[VR372/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm-VR372\|Zatar]]. On one fateful night, he granted Kor divinity- it is not known if Kor was willing or informed of this ahead of time.
 
 
 

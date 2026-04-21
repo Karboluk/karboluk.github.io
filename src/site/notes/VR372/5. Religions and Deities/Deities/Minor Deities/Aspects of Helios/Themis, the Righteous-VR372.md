@@ -16,7 +16,7 @@ St. Domingo ([[Duchy Truscia-VR372\|Duchy Truscia]]), He Who Adjudicates and Act
 Order, War
 
 ###### Regional Worship: 
-Usually a human woman, in [[Duchy Truscia-VR372\|Duchy Truscia]] of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]], Themis (as St. Domingo) is instead a male tiefling.
+Usually a human woman, in [[Duchy Truscia-VR372\|Duchy Truscia]] of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]], Themis (as St. Domingo) is instead a male tiefling.
 
 
 

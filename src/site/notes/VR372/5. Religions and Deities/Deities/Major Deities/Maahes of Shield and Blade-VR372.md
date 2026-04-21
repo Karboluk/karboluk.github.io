@@ -14,7 +14,7 @@ Polemos ([[Thracia-VR372\|Thracia]]), Hargon ([[Sendria-VR372\|Sendria]]), The F
 Forge, Life, Light, Order, War.
 
 ###### Regional Worship: 
-The [[VR372/5. Religions and Deities/Religions/Battlesworn-VR372\|Battlesworn]] ([[Thracia-VR372\|Thracia]]), [[The Brotherhood of Mithril Skin-VR372\|The Brotherhood of Mithril Skin]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]])) by way of [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Maahes/Kor, the Tireless-VR372\|Kor]], and the Hobgoblins and Goliath both of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni-VR372\|The Wastes of Subdurni]]
+The [[VR372/5. Religions and Deities/Religions/Battlesworn-VR372\|Battlesworn]] ([[Thracia-VR372\|Thracia]]), [[The Brotherhood of Mithril Skin-VR372\|The Brotherhood of Mithril Skin]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]])) by way of [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Maahes/Kor, the Tireless-VR372\|Kor]], and the Hobgoblins and Goliath both of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni-VR372\|The Wastes of Subdurni]]
 
 
 

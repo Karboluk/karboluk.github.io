@@ -13,7 +13,7 @@ Selene, The Moonmaiden, She Who Sees What You Hide, Lady Dark
 [[Twilight\|Twilight]],[[Trickery\|Trickery]],[[War\|War]]
 
 ###### Regional Worship: 
-[[VR372/5. Religions and Deities/Religions/Nightwatchers-VR372\|Nightwatchers]] ([[Thracia-VR372\|Thracia]]), [[Sisters of the Moon-VR372\|Sisters of the Moon]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]])
+[[VR372/5. Religions and Deities/Religions/Nightwatchers-VR372\|Nightwatchers]] ([[Thracia-VR372\|Thracia]]), [[Sisters of the Moon-VR372\|Sisters of the Moon]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]])
 
 
 

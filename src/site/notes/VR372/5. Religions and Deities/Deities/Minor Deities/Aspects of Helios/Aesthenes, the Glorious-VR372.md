@@ -8,7 +8,7 @@
 
 Aesthenes is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 ###### Regional Names: 
-St. Agatha ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]], [[Lausanne-VR372\|Lausanne]]), She Who Inspires
+St. Agatha ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]], [[Lausanne-VR372\|Lausanne]]), She Who Inspires
 ###### Domains: 
 Life, Light, Peace, Trickery
 

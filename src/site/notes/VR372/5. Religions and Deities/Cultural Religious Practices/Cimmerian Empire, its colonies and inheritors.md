@@ -9,5 +9,5 @@ Territories following this practice include:
 - [[Sendria-VR372\|Sendria]]
 - [[Lausanne-VR372\|Lausanne]]
 - [[Hellenburg-VR372\|Hellenburg]]
-- [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]]
+- [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]
 

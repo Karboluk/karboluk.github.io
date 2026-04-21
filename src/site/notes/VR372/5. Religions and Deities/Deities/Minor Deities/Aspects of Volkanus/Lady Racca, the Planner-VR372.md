@@ -9,19 +9,19 @@
 Lady Racca is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-St. [[Aeonath-VR372\|Aeonath]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]] 35-current), Berronar Truesilver (dwarven cultural), She Who Thinks and Makes
+St. [[Aeonath-VR372\|Aeonath]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]] 35-current), Berronar Truesilver (dwarven cultural), She Who Thinks and Makes
 ###### Domains: 
 Order, Peace, War
 
 ###### Regional Worship: 
 Worship of Lady Racca is often based in construction guilds in human civilization, and the reason for that construction is usually growth; so worship alongside [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Parvati, the Accepting-VR372\|Parvati]] is quite common.
 
-When [[Aeonath-VR372\|Aeonath]] was sanctified after his death, the Cathedral in [[Haut-Revanne-VR372\|Haut-Revanne]] was already under construction.  Immediately dedicated to him, the city, [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne-VR372\|Duchy Revanne]], and [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]] saw a rampant increase in growth and construction.
+When [[Aeonath-VR372\|Aeonath]] was sanctified after his death, the Cathedral in [[Haut-Revanne-VR372\|Haut-Revanne]] was already under construction.  Immediately dedicated to him, the city, [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne-VR372\|Duchy Revanne]], and [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]] saw a rampant increase in growth and construction.
 
 
 ## Nature:
 
-Goddess of cities and city-building, Lady Racca is usually depicted standing tall with a compass (the drawing kind) and a ruler. This holds true in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/The Shining Vale-VR372\|The Shining Vale]], except it is a depiction of Aeonath and he is always backlit with golden light.
+Goddess of cities and city-building, Lady Racca is usually depicted standing tall with a compass (the drawing kind) and a ruler. This holds true in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]], except it is a depiction of Aeonath and he is always backlit with golden light.
 
 
 ## Associated Major Deity:
