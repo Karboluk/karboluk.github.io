@@ -30,7 +30,7 @@ Openly antagonistic with his brother, [[VR372/5. Religions and Deities/Deities/M
 
 ## Origins:
 
-Fouros and [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Astere/Trikar, the Shrike-VR372\|Trikar]] were brothers in mortal life, though they took very different paths- the Night Watchman and the Hidden Killer. Their adversarial contests and battles grew to be so epic over time that [[VR372/5. Religions and Deities/Deities/Major Deities/Astere of the Night Sky-VR372\|Astere]] was impressed. She offered to take them both into her fold- Trikar being gleefully accepting of the new power, and Frouros accepting it begrudgingly so that his brother could not escape him.
+Frouros (named Sahmdi El-Kal) and [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Astere/Trikar, the Shrike-VR372\|Trikar]] (named Kulini El-Kal) were brothers in mortal life, though they took very different paths- the Night Watchman and the Hidden Killer. Their adversarial contests and battles grew to be so epic over time that [[VR372/5. Religions and Deities/Deities/Major Deities/Astere of the Night Sky-VR372\|Astere]] was impressed. She offered to take them both into her fold- Trikar being gleefully accepting of the new power, and Frouros accepting it begrudgingly so that his brother could not escape him.
 
 To this day, their battle is ongoing both personally and via the mortal proxies of their old stations.
 
