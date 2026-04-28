@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-astere/paratiritis-the-seeing-vr-372/","dg-note-properties":{"aliases":["Paratiritis","Paratiritis, the Seeing"],"Players":true}}
+{"aliases":["Paratiritis","Paratiritis, the Seeing"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-astere/paratiritis-the-seeing-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Paratiritis","Paratiritis, the Seeing"],"Players":true}}
 ---
 
 *An unstoppable voyeur who can breach all but the most powerful of protections, and see all? Why, oh why, was I not so endowed. The only saving grace I see (yes, that joke was intentional) is that I at least have the capacity to care about the things I investigate.

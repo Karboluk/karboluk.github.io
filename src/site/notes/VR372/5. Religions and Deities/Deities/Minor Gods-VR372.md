@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-gods-vr-372/","dg-note-properties":{"aliases":["Minor God","Minor Gods"],"Players":true}}
+{"aliases":["Minor God","Minor Gods"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-gods-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Minor God","Minor Gods"],"Players":true}}
 ---
 
 

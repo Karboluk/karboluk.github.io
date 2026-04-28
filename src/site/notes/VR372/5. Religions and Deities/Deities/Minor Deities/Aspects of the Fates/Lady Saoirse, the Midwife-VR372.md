@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/lady-saoirse-the-midwife-vr-372/","dg-note-properties":{"aliases":["Lady Saoirse","St. Elyse","Lady Saoirse, the Midwife"],"Players":true}}
+{"aliases":["Lady Saoirse","St. Elyse","Lady Saoirse, the Midwife"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/lady-saoirse-the-midwife-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Lady Saoirse","St. Elyse","Lady Saoirse, the Midwife"],"Players":true}}
 ---
 
 *The world would be much less crowded without the intervention of Lady Saoirse, and there would be many more desperate soon-to-be parents. I suppose it comes out a wash.

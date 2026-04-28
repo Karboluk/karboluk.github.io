@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/ahksha-the-western-wind-vr-372/","dg-note-properties":{"aliases":["Ahksha","Ahksha, the Western Wind"],"Players":true}}
+{"aliases":["Ahksha","Ahksha, the Western Wind"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/ahksha-the-western-wind-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Ahksha","Ahksha, the Western Wind"],"Players":true}}
 ---
 
 

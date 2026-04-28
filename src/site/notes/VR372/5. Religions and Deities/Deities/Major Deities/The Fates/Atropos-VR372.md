@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/atropos-vr-372/","dg-note-properties":{"Players":true,"aliases":["Atropos"]}}
+{"dg-publish":true,"Players":true,"aliases":["Atropos"],"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/atropos-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["Atropos"]}}
 ---
 
 *I once saw an old man swear and spew hysterics at the name of Atropos, and then laugh even more when he wasn't struck down. He died 4 years later. I like to think she found his tiny outrage amusing, but grew resentful of it over time.

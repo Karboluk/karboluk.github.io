@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/1-the-luxan-empire/the-luxan-empire-vr-372/","dg-note-properties":{"aliases":"Luxan Empire","Players":true}}
+{"aliases":"Luxan Empire","dg-publish":true,"Players":true,"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/1-the-luxan-empire/the-luxan-empire-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":"Luxan Empire","Players":true}}
 ---
 
 *Studying the Luxan temples over the last while has yielded at least one bit of information- Auguri is revealed to me. The temples' purpose is still unknown, but I hope that a wider survey will afford me a broader perspective on what is clearly a grand construction.

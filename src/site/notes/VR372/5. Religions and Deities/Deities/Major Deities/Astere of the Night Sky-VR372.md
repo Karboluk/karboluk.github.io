@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/astere-of-the-night-sky-vr-372/","dg-note-properties":{"aliases":["Astere","Astere of the Night Sky"],"Players":true}}
+{"aliases":["Astere","Astere of the Night Sky"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/astere-of-the-night-sky-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Astere","Astere of the Night Sky"],"Players":true}}
 ---
 
  *Astere's behaviour reminds me of the Fey; extreme in all dimensions, mercurial and alien (even to me). But still predictable, in a way.

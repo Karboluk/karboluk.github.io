@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/cultural-religious-practices/cimmerian-empire-its-colonies-and-inheritors/","dg-note-properties":{"Players":true,"aliases":null}}
+{"dg-publish":true,"Players":true,"aliases":null,"permalink":"/vr-372/5-religions-and-deities/cultural-religious-practices/cimmerian-empire-its-colonies-and-inheritors/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/the-tale-of-hazidkal-vr-372/","dg-note-properties":{"Players":true}}
+{"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/the-tale-of-hazidkal-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true}}
 ---
 
 

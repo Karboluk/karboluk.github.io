@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/aethenius-the-scholar-vr-372/","dg-note-properties":{"aliases":["Aethenius","Aethenius, the Scholar"],"Players":true}}
+{"aliases":["Aethenius","Aethenius, the Scholar"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/aethenius-the-scholar-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Aethenius","Aethenius, the Scholar"],"Players":true}}
 ---
 
 

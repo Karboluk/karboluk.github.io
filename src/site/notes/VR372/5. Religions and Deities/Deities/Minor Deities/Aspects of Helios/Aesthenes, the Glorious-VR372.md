@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesthenes-the-glorious-vr-372/","dg-note-properties":{"aliases":["Aesthenes","St. Agatha","Aesthenes, the Glorious"],"Players":true}}
+{"aliases":["Aesthenes","St. Agatha","Aesthenes, the Glorious"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesthenes-the-glorious-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Aesthenes","St. Agatha","Aesthenes, the Glorious"],"Players":true}}
 ---
 
 

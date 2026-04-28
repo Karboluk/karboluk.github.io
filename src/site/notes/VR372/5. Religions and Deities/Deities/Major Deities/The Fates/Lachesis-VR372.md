@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/lachesis-vr-372/","dg-note-properties":{"Players":true,"aliases":["Lachesis"]}}
+{"dg-publish":true,"Players":true,"aliases":["Lachesis"],"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/lachesis-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["Lachesis"]}}
 ---
 
 *I am writing this commentary because it was foretold. Or pre-ordained. Perhaps both.

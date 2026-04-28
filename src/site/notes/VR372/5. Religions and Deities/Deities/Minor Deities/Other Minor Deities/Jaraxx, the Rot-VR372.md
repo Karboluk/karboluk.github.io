@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/other-minor-deities/jaraxx-the-rot-vr-372/","dg-note-properties":{"aliases":["Jaraxx","Jaraxx, the Rot"],"Players":true}}
+{"aliases":["Jaraxx","Jaraxx, the Rot"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/other-minor-deities/jaraxx-the-rot-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Jaraxx","Jaraxx, the Rot"],"Players":true}}
 ---
 
 *Quite a gentleman, in fact. He tends a good garden- you should go see it sometime.

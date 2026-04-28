@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-gods-vr-372/","dg-note-properties":{"aliases":["Major God","Major Gods"],"Players":true}}
+{"aliases":["Major God","Major Gods"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-gods-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Major God","Major Gods"],"Players":true}}
 ---
 
 

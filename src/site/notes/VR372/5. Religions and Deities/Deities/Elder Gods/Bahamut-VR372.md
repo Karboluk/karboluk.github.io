@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/elder-gods/bahamut-vr-372/","dg-note-properties":{"Players":true,"aliases":["Bahamut"]}}
+{"dg-publish":true,"Players":true,"aliases":["Bahamut"],"permalink":"/vr-372/5-religions-and-deities/deities/elder-gods/bahamut-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["Bahamut"]}}
 ---
 
 

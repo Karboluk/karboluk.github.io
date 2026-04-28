@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/damu-the-green-vr-372/","dg-note-properties":{"aliases":["Damu","Damu, the Green"],"Players":true}}
+{"aliases":["Damu","Damu, the Green"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/damu-the-green-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Damu","Damu, the Green"],"Players":true}}
 ---
 
 *A curious question came to me once: if I were to murder Damu, would the world slide slowly into bleak emptiness through attrition, or would it be abrupt due to panic? My best guess is that her work would revert to the [[VR372/5. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel-VR372\|Earth Mother]], but what if it didn't? I'd need different ploys and games to exploit the existential dread of the two situations. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/the-fates-vr-372/","dg-note-properties":{"Players":true,"aliases":["The Fates"]}}
+{"dg-publish":true,"Players":true,"aliases":["The Fates"],"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/the-fates-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["The Fates"]}}
 ---
 
 *The Grey Sisters are an oddity in terms of philosophy, epistemology and morality. But they're decent enough to bring their own contrasting flavours, so one shouldn't complain.

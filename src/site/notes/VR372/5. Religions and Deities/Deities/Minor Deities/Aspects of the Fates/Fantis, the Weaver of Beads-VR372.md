@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/fantis-the-weaver-of-beads-vr-372/","dg-note-properties":{"aliases":["Fantis","Fantis, the Weaver of Beads"],"Players":true}}
+{"aliases":["Fantis","Fantis, the Weaver of Beads"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/fantis-the-weaver-of-beads-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Fantis","Fantis, the Weaver of Beads"],"Players":true}}
 ---
 
 *If you ever thought that you've been bedeviled, perhaps literally, or that a demon has possessed you to do terrible things you regret, again- possibly literally, you can thank Fantis. Don't blame us. 

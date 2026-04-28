@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/douma-the-southern-wind-vr-372/","dg-note-properties":{"aliases":["Douma","Douma, the Southern Wind"],"Players":true}}
+{"aliases":["Douma","Douma, the Southern Wind"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/douma-the-southern-wind-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Douma","Douma, the Southern Wind"],"Players":true}}
 ---
 
 *Douma is not someone you want to mess with- if you see her coming, you leave. There really is no other option.

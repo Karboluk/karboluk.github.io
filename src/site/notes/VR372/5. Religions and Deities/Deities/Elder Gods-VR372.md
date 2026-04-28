@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/elder-gods-vr-372/","dg-note-properties":{"aliases":["Elder God","Elder Gods"],"Players":true}}
+{"aliases":["Elder God","Elder Gods"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/elder-gods-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Elder God","Elder Gods"],"Players":true}}
 ---
 
 

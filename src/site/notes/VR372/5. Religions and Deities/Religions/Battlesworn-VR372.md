@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/religions/battlesworn-vr-372/","dg-note-properties":{"Players":true,"aliases":["Battlesworn"]}}
+{"dg-publish":true,"Players":true,"aliases":["Battlesworn"],"permalink":"/vr-372/5-religions-and-deities/religions/battlesworn-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["Battlesworn"]}}
 ---
 
 

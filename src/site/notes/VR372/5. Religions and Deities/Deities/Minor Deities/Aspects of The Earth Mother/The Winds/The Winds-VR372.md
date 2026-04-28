@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/the-winds-vr-372/","dg-note-properties":{"Players":true,"aliases":["The Winds"]}}
+{"dg-publish":true,"Players":true,"aliases":["The Winds"],"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/the-winds-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["The Winds"]}}
 ---
 
 

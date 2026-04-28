@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner-vr-372/","dg-note-properties":{"aliases":["St. Aeonath","Lady Racca","Lady Racca, the Planner"],"Players":true}}
+{"aliases":["St. Aeonath","Lady Racca","Lady Racca, the Planner"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["St. Aeonath","Lady Racca","Lady Racca, the Planner"],"Players":true}}
 ---
 
 

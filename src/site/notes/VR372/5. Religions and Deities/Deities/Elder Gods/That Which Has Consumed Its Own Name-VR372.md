@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/elder-gods/that-which-has-consumed-its-own-name-vr-372/","dg-note-properties":{"Players":true,"aliases":["That Which Has Consumed Its Own Name"]}}
+{"dg-publish":true,"Players":true,"aliases":["That Which Has Consumed Its Own Name"],"permalink":"/vr-372/5-religions-and-deities/deities/elder-gods/that-which-has-consumed-its-own-name-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["That Which Has Consumed Its Own Name"]}}
 ---
 
 

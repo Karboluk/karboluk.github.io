@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/5-duchy-corwyn/duchy-corwyn-vr-372/","dg-note-properties":{"Players":true,"aliases":["Duchy Corwyn"]}}
+{"dg-publish":true,"Players":true,"aliases":["Duchy Corwyn"],"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/5-duchy-corwyn/duchy-corwyn-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["Duchy Corwyn"]}}
 ---
 
 

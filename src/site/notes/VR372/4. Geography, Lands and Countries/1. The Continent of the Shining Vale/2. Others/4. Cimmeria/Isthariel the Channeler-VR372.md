@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/isthariel-the-channeler-vr-372/","dg-note-properties":{"aliases":["Isthariel"],"Players":true}}
+{"aliases":["Isthariel"],"dg-publish":true,"Players":true,"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/isthariel-the-channeler-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Isthariel"],"Players":true}}
 ---
 
 *As a note to future civilizations. If you forcibly oust a magically powerful leader, make sure- I mean absolutely sure- that you kill them. Otherwise that's how you get carnage gods. Do you want carnage gods?

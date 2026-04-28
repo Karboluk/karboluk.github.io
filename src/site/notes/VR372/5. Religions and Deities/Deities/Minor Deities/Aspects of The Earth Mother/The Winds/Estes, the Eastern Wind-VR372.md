@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/estes-the-eastern-wind-vr-372/","dg-note-properties":{"aliases":["Estes","Estes, the Eastern Wind"],"Players":true}}
+{"aliases":["Estes","Estes, the Eastern Wind"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/estes-the-eastern-wind-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Estes","Estes, the Eastern Wind"],"Players":true}}
 ---
 
 *Estes almost feels like a love child between The Earth Mother and The Radiant Truth- and indeed he might well be. 

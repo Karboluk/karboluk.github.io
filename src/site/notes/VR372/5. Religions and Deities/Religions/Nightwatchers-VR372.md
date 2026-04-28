@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/religions/nightwatchers-vr-372/","dg-note-properties":{"Players":true,"aliases":["Nightwatchers"]}}
+{"dg-publish":true,"Players":true,"aliases":["Nightwatchers"],"permalink":"/vr-372/5-religions-and-deities/religions/nightwatchers-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["Nightwatchers"]}}
 ---
 
 

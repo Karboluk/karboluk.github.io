@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/zatar-the-ravaging-storm-vr-372/","dg-note-properties":{"aliases":["Zatar","Zatar the Ravaging Storm"],"Players":true}}
+{"aliases":["Zatar","Zatar the Ravaging Storm"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/zatar-the-ravaging-storm-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Zatar","Zatar the Ravaging Storm"],"Players":true}}
 ---
 
 *The newest of the Ascended Gods, until recently, and certainly she's been a busy, busy god! It's a breath of fresh-corpse-sulfur-and-ash tinted air! I hope the new ones take her lead.*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/anuket-the-flowing-water-vr-372/","dg-note-properties":{"aliases":["Anuket","Anuket, the Flowing Water"],"Players":true}}
+{"aliases":["Anuket","Anuket, the Flowing Water"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/anuket-the-flowing-water-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Anuket","Anuket, the Flowing Water"],"Players":true}}
 ---
 
 

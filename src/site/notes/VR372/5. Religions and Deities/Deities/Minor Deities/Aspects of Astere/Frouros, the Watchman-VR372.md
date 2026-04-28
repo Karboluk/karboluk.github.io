@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-astere/frouros-the-watchman-vr-372/","dg-note-properties":{"aliases":["Frouros","Frouros, the Watchman"],"Players":true}}
+{"aliases":["Frouros","Frouros, the Watchman"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-astere/frouros-the-watchman-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Frouros","Frouros, the Watchman"],"Players":true}}
 ---
 
 

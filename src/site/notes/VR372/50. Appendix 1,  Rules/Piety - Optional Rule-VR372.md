@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/50-appendix-1-rules/piety-optional-rule-vr-372/","dg-note-properties":{"aliases":["Piety","Piety - Optional Rule"],"Players":true}}
+{"aliases":["Piety","Piety - Optional Rule"],"dg-publish":true,"Players":true,"permalink":"/vr-372/50-appendix-1-rules/piety-optional-rule-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Piety","Piety - Optional Rule"],"Players":true}}
 ---
 
 Piety is an Optional Rule from the *Mythic Odysseys of Theros* sourcebook for 5th Edition Dungeons and Dragons, published in 2020. 

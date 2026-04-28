@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/other-minor-deities/auguri-the-mage-vr-372/","dg-note-properties":{"aliases":["Caleb Druth","Auguri","Auguri, the Mage"],"Players":true}}
+{"aliases":["Caleb Druth","Auguri","Auguri, the Mage"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/other-minor-deities/auguri-the-mage-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Caleb Druth","Auguri","Auguri, the Mage"],"Players":true}}
 ---
 
 

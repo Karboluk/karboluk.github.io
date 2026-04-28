@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/clotho-vr-372/","dg-note-properties":{"Players":true,"aliases":["Clotho"]}}
+{"dg-publish":true,"Players":true,"aliases":["Clotho"],"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/the-fates/clotho-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["Clotho"]}}
 ---
 
 *Clotho is the most banal, ineffectual, weak being I know of. That is to say, she is unusually kind and gracious.

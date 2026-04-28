@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/dun-the-smelter-vr-372/","dg-note-properties":{"aliases":["Dun","Dun, the Smelter"],"Players":true}}
+{"aliases":["Dun","Dun, the Smelter"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/dun-the-smelter-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Dun","Dun, the Smelter"],"Players":true}}
 ---
 
 

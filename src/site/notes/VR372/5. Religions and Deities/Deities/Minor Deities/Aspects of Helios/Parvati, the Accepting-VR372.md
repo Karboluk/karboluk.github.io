@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-helios/parvati-the-accepting-vr-372/","dg-note-properties":{"aliases":["Parvati","St. Annabella","Parvati, the Accepting"],"Players":true}}
+{"aliases":["Parvati","St. Annabella","Parvati, the Accepting"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-helios/parvati-the-accepting-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Parvati","St. Annabella","Parvati, the Accepting"],"Players":true}}
 ---
 
 *There is nothing quite as evil as being told to accept and forgive what your enemy has done. Do not listen to these seductive lies, there are always ways to make them pay; and if you can not think of any, I am willing to make a deal to help you.

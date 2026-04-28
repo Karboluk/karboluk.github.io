@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/helios-the-radiant-truth-vr-372/","dg-note-properties":{"aliases":["Helios","Lux","Helios the Radiant Truth"],"Players":true}}
+{"aliases":["Helios","Lux","Helios the Radiant Truth"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/helios-the-radiant-truth-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Helios","Lux","Helios the Radiant Truth"],"Players":true}}
 ---
 
 *Helios is a boring god, with boring ideals and a boring fascination with mortals; but there are very few more powerful than he. Perhaps it is good that he's so preoccupied.

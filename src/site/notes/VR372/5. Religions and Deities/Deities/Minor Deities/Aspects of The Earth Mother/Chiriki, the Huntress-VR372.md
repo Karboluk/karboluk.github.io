@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/chiriki-the-huntress-vr-372/","dg-note-properties":{"aliases":["Chiriki","Chiriki, the Huntress"],"Players":true}}
+{"aliases":["Chiriki","Chiriki, the Huntress"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/chiriki-the-huntress-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Chiriki","Chiriki, the Huntress"],"Players":true}}
 ---
 
 *One should not insult, rebuke or ignore the Huntress. She comes from an age before mortals were gifted civilization by [[VR372/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth-VR372\|Helios]], and she hasn't learned many niceties since then.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/kor-the-tireless-vr-372/","dg-note-properties":{"aliases":["Kor","St. Kor","Kor, the Tireless"],"Players":true}}
+{"aliases":["Kor","St. Kor","Kor, the Tireless"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/kor-the-tireless-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Kor","St. Kor","Kor, the Tireless"],"Players":true}}
 ---
 
 *There aren't many newer gods than Kor, but his remit is so basic that I feel it should have been filled long ago. I guess it is just so basic that nobody had ever epitomized it until he did. 

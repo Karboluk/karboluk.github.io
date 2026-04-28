@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale-vr-372/","dg-note-properties":{"Players":true,"aliases":["The Shining Vale"]}}
+{"dg-publish":true,"Players":true,"aliases":["The Shining Vale"],"permalink":"/vr-372/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true,"aliases":["The Shining Vale"]}}
 ---
 
 
