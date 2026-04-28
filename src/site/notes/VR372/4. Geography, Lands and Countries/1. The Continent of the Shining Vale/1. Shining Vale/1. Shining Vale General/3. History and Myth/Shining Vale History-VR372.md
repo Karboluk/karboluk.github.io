@@ -8,10 +8,8 @@
 
 The Shining Vale was made safer and settleable by the company of heroes lead by [[Aeonath-VR372\|Aeonath-VR372]] the Civilizer, in the years VR-40 through VR-30. 
 
-```chronos
->NOTODAY
->DEFAULTVIEW -50|450
->ORDERBY Start
+
+
 * [-42] {Shining Vale} Aeonath Receives his Quest
 - [-41~15] {Shining Vale} Clearing| Aeonath and the Heroes Civilize the Vale
 - [-39~-15] {Duchy Truscia} Settlement
@@ -26,4 +24,3 @@ The Shining Vale was made safer and settleable by the company of heroes lead by 
 - [154~156] {Duchy Corwyn} Exploration| Ephraim Redhill finds the best location for Corwyn City
 * [156] {Duchy Corwyn} Corwyn City completed
 * [277] {Duchy Corwyn} Ephraim dies| Glinda becomes Duke
-```
