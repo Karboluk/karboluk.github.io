@@ -10,7 +10,7 @@
 
 
 [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Maahes/Kor, the Tireless-VR372\|St. Kor]]
-	Patron of Strength and endurance. A member of Aeonath's group, Kor was a stalwart warrior renowned for his preference to fight without armor, and the effectiveness with which he used his great axe. Kor went off to great adventure after the Vale was settled, but his axe now hangs in the Cathedral to St. Kor in [[Corwyn City-VR372\|Corwyn City]]. Kor was sanctified in absentia in VR 20, the first of the Saints.
+	Patron of Strength and endurance. A member of Aeonath's group, Kor was a stalwart warrior renowned for his preference to fight without armor, and the effectiveness with which he used his great axe. Kor went off to great adventure after the Vale was settled, but his axe now hangs in the Cathedral to St. Kor in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Corwyn City-VR372\|Corwyn City]]. Kor was sanctified in absentia in VR 20, the first of the Saints.
 
 ![Axe of Kor.png\|403](/img/user/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Image%20Storage/Axe%20of%20Kor.png)
 

@@ -34,9 +34,9 @@ Her role is to bring people, material and ideas to her Master, [[VR372/5. Religi
 
 When the [[Bassaria-VR372\|Bassarian]] culture was at its height, and the [[King Apsu-Toli-VR372\|King Apsu-Toli]] was most venerated by his people, some very strange things began to happen. 
 
-The first of these was the movement of the waters. Snow-capped mountains began to shed their white covering, and ice began to melt for the first time, and the water began to collect in lowlands. As this started to flood and overwhelm the residents of his country, King Apsu-Toli instructed his third minister, Karda Basmir, to fix the situation. He had no way of knowing this, but he had just decided on the [[VR372/5. Religions and Deities/Ascent to Godhood-VR372\|ascent]] of the first mortal to become a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
+The first of these strange events was the movement of the waters. Snow-capped mountains began to shed their white covering; ice beginning to melt for the very first time, and the water began to collect in lowlands. As this started to flood and overwhelm the residents of his country, King Apsu-Toli instructed his third minister, Karda Basmir, to fix the situation. He had no way of knowing this, but he had just decided on the [[VR372/5. Religions and Deities/Ascent to Godhood-VR372\|ascent]] of the first mortal to become a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
-After heading out, when Karda experienced the world's first river, she began to bend its course, trying to avoid the houses and farms that she could. This proved impossible at the time, and many drowned.
+After heading out, Karda experienced the world's first river; she began to bend its course using magic and labour, trying to avoid the houses and farms that she could. This proved impossible at the time, and many drowned. Karda's grief as she was overtaken by the waters can still be seen in her unyielding service to her former King. 
 
 
 ## Activity:
