@@ -52,10 +52,10 @@ In his towers, and for the same reason, guests are kept segregated so none may i
 
 Auguri's interventions, under many aliases, are known to have resulted in the creation of the following arcane organizations:
 
-- [[The Magesterium Panopticon-VR372\|The Magesterium Panopticon]]
-- [[The Order of Yellow-VR372\|The Order of Yellow]]
-- [[The Thracian Anti-Witchcraft Alliance-VR372\|The Thracian Anti-Witchcraft Alliance]]
-- [[C.A.L.I.S.T.O-VR372\|C.A.L.I.S.T.O]]
+- [[VR372/4. Geography, Lands and Countries/19. Uncategorized Notes/The Magesterium Panopticon-VR372\|The Magesterium Panopticon]]
+- [[VR372/4. Geography, Lands and Countries/19. Uncategorized Notes/The Order of Yellow-VR372\|The Order of Yellow]]
+- [[VR372/4. Geography, Lands and Countries/19. Uncategorized Notes/The Thracian Anti-Witchcraft Alliance-VR372\|The Thracian Anti-Witchcraft Alliance]]
+- [[VR372/4. Geography, Lands and Countries/19. Uncategorized Notes/C.A.L.I.S.T.O-VR372\|C.A.L.I.S.T.O]]
 
 *This list, which I can not ever enumerate as it may grow or shrink over time depending on what will have been done in the future-present, is presumed to be complete. I gave this a great deal of thought, and I have accepted that I have limitations in this regard.
 -Reyvan*
