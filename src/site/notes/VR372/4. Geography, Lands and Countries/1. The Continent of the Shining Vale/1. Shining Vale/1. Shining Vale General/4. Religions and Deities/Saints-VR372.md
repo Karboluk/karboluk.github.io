@@ -55,6 +55,7 @@ St Isolde's worship does not have an official symbol- or rather it doesn't have 
 
 
 ### [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Parvati, the Accepting-VR372\|St. Annabella]]
+
 Patron of Community Love and fellowship. A member of Aeonath's group, Annabella was a talented healer. Disappearing shortly after the founding of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Salvia-VR372\|Salvia]], she was canonized in VR 42 alongside Aeonath. 
 
 The tenets of the faith are to help your fellows, to band together and to support one another. Speech is encouraged above strife, and forgiveness over judgment.
@@ -71,16 +72,14 @@ Patron of Beauty. A member of Aeonath's group, Agatha kept the group motivated a
 
 The tenets of the faith are to improve the world by making it, and yourself, beautiful. Beauty leads to inspiration and to positive outcomes, but someone or something lacking in beauty is not to be shunned- rather to be embraced and improved. Disagreements on what one may find beautiful are common, and so flexibility on decoration or adornment are common.
 
-St. Agatha's symbols are classical statues, in the nude, usually of marble. If marble is not available, gold leaf is used. The Cathedral to St. Agatha is in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Salvia-VR372\|Salvia]], but her ancillary temples tend to be larger than those of the other Saints as they generally contain an open warm bathing area.
+St. Agatha's symbols are classical statues, in the nude, usually of marble. If marble is not available, gold leaf is used over other stone. The Cathedral to St. Agatha is in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Salvia-VR372\|Salvia]], but her ancillary temples tend to be larger than those of the other Saints as they generally contain an open warm bathing area.
 
 
 ### Newer Saints
 
 ### [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of the Fates/Lady Saoirse, the Midwife-VR372\|St. Elyse]]
-Patron of Children. 
-WORK HERE- change below.
 
-As usually happens in a growing population, particularly in rural areas, the managing of childbirth and the health of mothers and babies is a calling taken very seriously. Legends grew up about a midwife named Elyse, who could help in the most difficult situations- this went on for long enough that soon every village, town, and city large enough to see many children each year had their own "Elyse".  It was only a matter of time before this transitioned into a proper faith, with forms to be obeyed. Most people have forgotten this origin, or it never mattered to them.
+Patron of Children. As usually happens in a growing population, particularly in rural areas, the managing of childbirth and the health of mothers and babies is a calling taken very seriously. Legends grew up about a midwife named Elyse, who could help in the most difficult situations- this went on for long enough that soon every village, town, and city large enough to see many children each year had their own "Elyse".  It was only a matter of time before this transitioned into a proper faith, with forms to be obeyed. Most people have forgotten this origin, or it never mattered to them.
 
 The tenets of the faith are extremely specific, as you'd expect, and deal with the care of expectant mothers. Followers drive community resources towards them, be it food, funding or physical labor, and tend to handle births in the same location as worship. 
 
@@ -92,7 +91,16 @@ Patron of Justice.  Domingo Baldo was a human judge in [[VR372/4. Geography, Lan
 
 The tenets of the faith are to ensure that wickedness is punished, the innocent spared and given recompense, and that this all happen in public.
 
-St.  Domingo's symbol is a paired sword and laurel wreath, both in silver, of a white or yellow field. The Cathedral to St. Domingo is in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Salvia-VR372\|Salvia]], and like many of the ancillary temples to St. Domingo, it is also the city's courthouse.
+St. Domingo's symbol is a paired sword and laurel wreath, both in silver, of a white or yellow field. The Cathedral to St. Domingo is in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Salvia-VR372\|Salvia]], and like many of the ancillary temples to St. Domingo, it is also the city's courthouse.
+
 ![Domingo.jpg](/img/user/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Domingo.jpg)
 ### [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Aesclepius, the Mender-VR372\|St. Lucia]]
-Patron of Healing
+
+Patron of Healing. In the final part of King Aeonath the Civilizer's life, he was tended to by the healer Lucia Belmont. Keeping Aeonath whole and fit was deemed important, as the aging King had no known direct heir; Aeonath never having taken a partner. Lucia, a follower of [[The Peacebringer-VR372\|the Peacebringer]], spent a great deal of time alone with the King, reportedly gaining his wisdom and in the end counselling him to find an heir; Aeonath eventually adopted an orphaned boy from a flooding disaster in Bas-Revanne and named him Jules-Etienne. Seen as the King's highest counsel, Lucia served as regent following Aeonath's passing, and stayed on as King Jules-Etienne Revanne's counsellor until her own passing in VR 82. She was officially canonized by the new King shortly after her passing.
+
+The tenets of the faith are to salve all wounds, in body, spirit or community. All must be made whole and well; though of course individuals disagree what this means when extended beyond the individual. The Clergy of St Lucia often come into philosophical conflict with the other faiths as they usually oppose the violent parts of St. Domingo and St. Kor, the constant push for novelty of St. Isolde, and sometimes advocate for changes that are antithetical to the followings of St. Aeonath. 
+
+St. Lucia's symbol is a hand, palm open and fingers together, paired sword and laurel wreath, both in silver, of a white or yellow field. The Cathedral to St. Lucia is in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Haut-Revanne-VR372\|Haut-Revanne]], but it is quite small. There are few ancillary temples to her, but many small shrines.
+
+
+![Lucia.jpg](/img/user/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Lucia.jpg)
