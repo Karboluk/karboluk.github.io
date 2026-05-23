@@ -8,7 +8,7 @@
 Maahes is a [[ZZZ. Private DM Info/6. Religions and Deities/Deities/Major Gods\|Major God]]
 
 ###### Regional Names: 
-Polemos ([[Thracia-VR372\|Thracia]]), Hargon ([[Sendria-VR372\|Sendria]]), The Fury ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni-VR372\|Subdurni]])
+Polemos ([[Thracia-VR372\|Thracia]]), Hargon ([[Sendria-VR372\|Sendria]]), The Fury ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni-VR372\|Subdurni]]), He Who Strives
 
 ###### Domains: 
 Forge, Life, Light, Order, War.

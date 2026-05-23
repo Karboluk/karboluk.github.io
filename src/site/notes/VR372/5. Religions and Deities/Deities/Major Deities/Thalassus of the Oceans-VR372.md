@@ -8,7 +8,7 @@
 Thalassus is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
-Argos ([[Thracia-VR372\|Thracia]]), The Drowning One, The Depths which Remember, Wise Uncle
+Argos ([[Thracia-VR372\|Thracia]]), The Drowning One, The Depths Which Remember, Wise Uncle
 ###### Domains: 
 [[Domain-Knowledge\|Knowledge]],[[Domain-Nature\|Nature]],[[Domain-Tempest\|Tempest]]
 

@@ -47,7 +47,7 @@ St Kor's symbol is an axe hanging downward, but a depiction of a grimacing beard
 
 The tenets of St Isolde focus on art, invention, and progress- both external in the Kingdom and also within one's self. Their buildings are often functional and smaller than those of the other faiths, as the activities of worship are always prioritized over the relative strength of the clergy.
 
-St Isolde's worship does not have an official symbol- or rather it doesn't have one long enough for it to spread across the Vale, before a "new and better" symbol is adopted. The symbols tend to focus around the tools of crafting and artistry. 
+St Isolde's worship does not have an official symbol- or rather it doesn't have one long enough for it to spread across the Vale, before a "new and better" symbol is adopted. The symbols tend to focus around the tools of crafting and artistry. The Cathedral to St. Isolde is in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Haut-Revanne-VR372\|Haut-Revanne]].
  
  *I have discovered that the real Isolde is in fact in league with [[VR372/5. Religions and Deities/Deities/Minor Deities/Other Minor Deities/Auguri, the Mage-VR372\|Adoric]], residing at his tower. It will be telling what both of their motivations are, when she finally leaves.
  -Reyvan*
@@ -100,7 +100,7 @@ Patron of Healing. In the final part of King Aeonath the Civilizer's life, he wa
 
 The tenets of the faith are to salve all wounds, in body, spirit or community. All must be made whole and well; though of course individuals disagree what this means when extended beyond the individual. The Clergy of St Lucia often come into philosophical conflict with the other faiths as they usually oppose the violent parts of St. Domingo and St. Kor, the constant push for novelty of St. Isolde, and sometimes advocate for changes that are antithetical to the followings of St. Aeonath. 
 
-St. Lucia's symbol is a hand, palm open and fingers together, paired sword and laurel wreath, both in silver, of a white or yellow field. The Cathedral to St. Lucia is in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Haut-Revanne-VR372\|Haut-Revanne]], but it is quite small. There are few ancillary temples to her, but many small shrines.
+St. Lucia's symbol is a hand, palm open and fingers together, paired sword and laurel wreath, both in silver, on a white or yellow field. The Cathedral to St. Lucia is in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Haut-Revanne-VR372\|Haut-Revanne]], but it is quite small. There are few ancillary temples to her, but many small shrines.
 
 
 ![Lucia.jpg](/img/user/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Lucia.jpg)

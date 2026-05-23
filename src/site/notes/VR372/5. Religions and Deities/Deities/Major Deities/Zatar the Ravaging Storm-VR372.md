@@ -5,10 +5,11 @@
 *The newest of the Ascended Gods, until recently, and certainly she's been a busy, busy god! It's a breath of fresh-corpse-sulfur-and-ash tinted air! I hope the new ones take her lead.*
 -Reyvan*
 
-Zatar is a [[ZZZ. Private DM Info/6. Religions and Deities/Deities/Major Gods\|Major God]][[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
+Zatar is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
-Zatar's established faith has not yet had time to spread to the extent that her name has differentiated.
+
+She Who Brings Low the Mighty. Zatar's established faith has not yet had time to spread to the extent that her name has differentiated.
 ###### Domains: 
 Death, Tempest, War
 

@@ -9,17 +9,6 @@
 This Entity is an [[VR372/5. Religions and Deities/Deities/Elder Gods-VR372\|Elder God]]
 
 
-
-###### Regional Names: 
-None
-###### Domains: 
-Not Available For Divine Powers.
-
-###### Regional Worship: 
-None
-
-
-
 ## Nature:
 
 We know this being exists by the vacuum left by its presence, and by the occasional being, mortal or otherwise, who becomes touched by it. They come to know things they shouldn't, and in the end, go mad.

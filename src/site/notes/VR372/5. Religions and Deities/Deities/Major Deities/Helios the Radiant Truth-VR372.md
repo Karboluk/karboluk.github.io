@@ -8,7 +8,7 @@
 Helios is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
-Lux ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire-VR372\|Luxan Empire]])
+Lux ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire-VR372\|Luxan Empire]]), He Who Shines Light on All Things
 ###### Domains: 
 Death, Life, Light, Order, War
 

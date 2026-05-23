@@ -4,3 +4,5 @@
 
 
 Bahamut is an [[VR372/5. Religions and Deities/Deities/Elder Gods-VR372\|Elder God]]
+
+He Who Is Structure and Order.
