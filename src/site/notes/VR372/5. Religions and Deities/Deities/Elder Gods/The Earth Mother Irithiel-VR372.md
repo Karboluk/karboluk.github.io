@@ -19,7 +19,7 @@ The Earth Mother is worshipped almost universally, and so has very little dedica
 
 ## Nature:
 
-The original god, the Earth Mother is the Goddess of the Land, the Wild and the Hunt. She is serene, stable, and giving to those who maintain the balance of nature against civilization; ruthless, mercurial and uncaring to those who knowingly violate or exploit it.
+The original Incarnated god, the Earth Mother is the Goddess of the Land, the Wild and the Hunt. She is serene, stable, and giving to those who maintain the balance of nature against civilization; ruthless, mercurial and uncaring to those who knowingly violate or exploit it.
 
 It is hard to describe her activity in the world, as she is literally the world. What is known is that she is gracious, and suffers many wounds on behalf of mortal and God-kind alike, with no retribution.
 
