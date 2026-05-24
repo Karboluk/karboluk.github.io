@@ -8,7 +8,8 @@
 Damu is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-Demeter ([[Thracia-VR372\|Thracia]]), The Green, The Wellspring, The Sower, She Who Plants Now and Eats Tomorrow
+She Who Plants Now and Eats Tomorrow
+Demeter ([[Thracia-VR372\|Thracia]]), The Green, The Wellspring, The Sower
 ###### Domains: 
 Life, Nature
 

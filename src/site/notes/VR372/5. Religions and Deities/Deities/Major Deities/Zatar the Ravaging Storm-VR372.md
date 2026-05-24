@@ -9,7 +9,9 @@ Zatar is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]
 
 ###### Regional Names: 
 
-She Who Brings Low the Mighty. Zatar's established faith has not yet had time to spread to the extent that her name has differentiated.
+She Who Brings Low the Mighty. 
+
+Zatar's established faith has not yet had time to spread to the extent that her name has differentiated.
 ###### Domains: 
 Death, Tempest, War
 

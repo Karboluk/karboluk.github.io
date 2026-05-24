@@ -9,14 +9,14 @@
 Themis is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-St. Domingo ([[Duchy Truscia-VR372\|Duchy Truscia]]), He Who Adjudicates and Acts
-
+He Who Adjudicates and Acts
+St. Domingo ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Duchy Truscia-VR372\|Duchy Truscia]])
 
 ###### Domains: 
 Order, War
 
 ###### Regional Worship: 
-Usually a human woman, in [[Duchy Truscia-VR372\|Duchy Truscia]] of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]], Themis (as St. Domingo) is instead a male tiefling.
+Usually a human woman, in [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Duchy Truscia-VR372\|Duchy Truscia]] of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]], Themis (as St. Domingo) is instead a male tiefling.
 
 
 

@@ -8,7 +8,8 @@
 Jaraxx is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-King of Spores, He Who Spreads Through Others
+He Who Spreads Things Through Others
+King of Spores
 
 ###### Domains: 
 Death, Life, Nature, Order

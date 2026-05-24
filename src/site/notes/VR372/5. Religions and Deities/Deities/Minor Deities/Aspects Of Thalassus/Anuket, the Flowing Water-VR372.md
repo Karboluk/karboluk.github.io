@@ -9,7 +9,8 @@
 Anuket is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-Achelus ([[Thracia-VR372\|Thracia]]), She Who Feeds the Sea
+She Who Feeds the Sea
+Achelus ([[Thracia-VR372\|Thracia]])
 ###### Domains: 
 Nature, Tempest
 

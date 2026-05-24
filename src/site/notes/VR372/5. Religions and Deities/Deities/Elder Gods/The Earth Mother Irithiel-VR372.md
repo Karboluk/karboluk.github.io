@@ -8,7 +8,9 @@
 The Earth mother is an [[VR372/5. Religions and Deities/Deities/Elder Gods-VR372\|Elder God]]
 
 ###### Regional Names: 
-She Who Is Our Home, Gaia ([[Thracia\|Thracia]]), Terra ([[Thracia\|Thracia]]), The Mother (Dwarven Cultural), The Red ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni-VR372\|The Wastes of Subdurni]]), The Green (Druidic Cultural), Green Mother (Elven Cultural), Mama Yondalla (Halfling Cultural) and many more. 
+She Who Is Our Home
+
+Gaia ([[Thracia\|Thracia]]), Terra ([[Thracia\|Thracia]]), The Mother (Dwarven Cultural), The Red ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni-VR372\|The Wastes of Subdurni]]), The Green (Druidic Cultural), Green Mother (Elven Cultural), Mama Yondalla (Halfling Cultural) and many more. 
 ###### Domains: 
 Life, Nature, Trickery, War.
 

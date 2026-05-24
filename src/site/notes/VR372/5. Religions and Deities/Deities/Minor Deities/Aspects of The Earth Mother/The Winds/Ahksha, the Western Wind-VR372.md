@@ -8,7 +8,8 @@
 
 Ahksha is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 ###### Regional Names: 
-Zephyrus ([[Thracia-VR372\|Thracia]]), The Sad Child, Melancholy, He Who Regrets
+He Who Regrets
+Zephyrus ([[Thracia-VR372\|Thracia]]), The Sad Child, Melancholy
 
 ###### Domains: 
 Life, Peace

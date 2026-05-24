@@ -8,7 +8,8 @@
 Volkanus is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
-Moradin (Dwarven Cultural), St. [[Isolde\|Isolde]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]), He Who Creates New From The Old
+He Who Creates New From The Old
+Moradin (Dwarven Cultural), St. [[Isolde\|Isolde]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]]), 
 ###### Domains: 
 Forge, Knowledge, War
 

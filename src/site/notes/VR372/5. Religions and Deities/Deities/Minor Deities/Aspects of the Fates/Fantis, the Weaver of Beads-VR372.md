@@ -7,7 +7,8 @@
 
 Fantis is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 ###### Regional Names: 
-The Spider, Bringer of Sorrow, She Who Places Burdens Onto Our Lives
+She Who Places Burdens Onto Our Lives
+The Spider, Bringer of Sorrow
 ###### Domains: 
 Knowledge, Order
 

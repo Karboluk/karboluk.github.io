@@ -8,7 +8,8 @@
 Atropos is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
-The Crone (Common), The Old Bag (derogatory, but never punished), She who severs all threads.
+She Who Severs All Threads
+The Crone (Common), The Old Bag (derogatory, but never punished), 
 ###### Domains: 
 Arcana, Death, Grave, Knowledge
 

@@ -8,7 +8,8 @@
 Clotho is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
-The Spinner (common), The Maiden, (common)
+She Who Feeds the Weaving
+The Spinner (common), The Maiden, (common), 
 
 ###### Domains: 
 Life, Peace

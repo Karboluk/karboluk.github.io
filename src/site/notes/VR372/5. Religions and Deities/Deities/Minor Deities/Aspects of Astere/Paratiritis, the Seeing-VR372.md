@@ -8,7 +8,8 @@
 Paratiritis is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-He Who Sees All and Understands Nothing, The Eye
+He Who Sees All and Understands Nothing
+The Eye
 ###### Domains: 
 Arcana, Knowledge
 

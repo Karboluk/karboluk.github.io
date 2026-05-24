@@ -8,7 +8,8 @@
 Lady Saoirse is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-St. Elyse ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne-VR372\|Duchy Revanne]], [[Lausanne-VR372\|Lausanne]]), Lady Saoirse ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn-VR372\|Duchy Corwyn]]), She Who Brings New Life
+She Who Brings New Life
+St. Elyse ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne-VR372\|Duchy Revanne]], [[Lausanne-VR372\|Lausanne]]), Lady Saoirse ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn-VR372\|Duchy Corwyn]])
 ###### Domains: 
 Life, Peace
 

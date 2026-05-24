@@ -9,7 +9,8 @@
 Dun is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-Furnace Master, the Crucible (dwarven cultural), He Who Prepares
+He Who Prepares
+Furnace Master, the Crucible (dwarven cultural)
 ###### Domains: 
 Forge, Order, War.
 

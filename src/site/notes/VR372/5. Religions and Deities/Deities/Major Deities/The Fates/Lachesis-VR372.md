@@ -8,6 +8,7 @@
 Lachesis is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
+She Who Plans the Weave
 The Grand Weaver (common, not to be confused with her spider-girl lackey), The Mother (not uncommon, but not usually used.
 ###### Domains: 
 

@@ -7,7 +7,8 @@
 
 Faria is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 ###### Regional Names: 
-Boreas ([[Thracia-VR372\|Thracia]]), The Giantess, She Who Usurps
+She Who Usurps
+Boreas ([[Thracia-VR372\|Thracia]]), The Giantess
 ###### Domains: 
 Tempest, Trickery
 

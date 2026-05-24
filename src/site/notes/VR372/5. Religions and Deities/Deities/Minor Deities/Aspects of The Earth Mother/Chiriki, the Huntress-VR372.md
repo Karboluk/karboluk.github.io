@@ -8,7 +8,8 @@
 Chiriki is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-Atalanta ([[Thracia-VR372\|Thracia]]), Siki of Spear and Bow (Goliath of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni-VR372\|The Wastes of Subdurni]]), She Who Stalks and Pounces
+She Who Stalks and Pounces
+Atalanta ([[Thracia-VR372\|Thracia]]), Siki of Spear and Bow (Goliath of [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni-VR372\|The Wastes of Subdurni]])
 ###### Domains: 
 Nature, Trickery, War
 

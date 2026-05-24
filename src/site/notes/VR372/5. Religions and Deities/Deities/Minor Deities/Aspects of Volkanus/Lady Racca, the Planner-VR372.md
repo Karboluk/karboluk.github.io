@@ -9,7 +9,8 @@
 Lady Racca is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-St. [[Aeonath-VR372\|Aeonath]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]] 35-current), Berronar Truesilver (dwarven cultural), She Who Thinks and Makes
+She Who Thinks and Never Makes
+St. [[Aeonath-VR372\|Aeonath]] ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]] 35-current), Berronar Truesilver (dwarven cultural)
 ###### Domains: 
 Order, Peace, War
 

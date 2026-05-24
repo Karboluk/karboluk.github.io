@@ -9,7 +9,9 @@
 Aethenius is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-Ptolemus ([[Thracia-VR372\|Thracia]]), He Who Brings the World to Him.
+He Who Brings the World to Him
+Ptolemus ([[Thracia-VR372\|Thracia]])
+
 ###### Domains: 
 Arcana, Knowledge, Order.
 
@@ -37,7 +39,7 @@ When the [[Bassaria-VR372\|Bassarian]] culture was at its height, and the [[King
 
 After Karda Basmir, who became [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects Of Thalassus/Anuket, the Flowing Water-VR372\|Anuket]], failed to stop the moving water and did not return, [[King Apsu-Toli-VR372\|King Apsu-Toli]] set his highest sage to discover the reason for the change and develop a plan to end the issue. This sage, Apkallu who Reads, buried himself in the words of the most eminent philosophers, priests and magicians of the land, sending a thousand scribes out of the city of [[Bassaria-VR372\|Bassaria]] to the distant corners of the kingdom. 
 
-The more he learned, and the more desperate he became to give [[King Apsu-Toli-VR372\|King Apsu-Toli]]  a solution, the more he isolated himself. His form changed as he had been chosen as the second mortal to [[VR372/5. Religions and Deities/Ascent to Godhood-VR372\|ascend]] to become a [[ZZZ. Private DM Info/6. Religions and Deities/Deities/Minor Gods\|Minor God]].
+The more he learned, and the more desperate he became to give [[King Apsu-Toli-VR372\|King Apsu-Toli]]  a solution, the more he isolated himself. His form changed as he had been chosen as the second mortal to [[VR372/5. Religions and Deities/Ascent to Godhood-VR372\|ascend]] to become a [[Minor Gods\|Minor God]].
 
 
 ## Activity:

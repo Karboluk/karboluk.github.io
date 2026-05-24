@@ -8,7 +8,8 @@
 Astere is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
 
 ###### Regional Names: 
-Selene, The Moonmaiden, She Who Sees What You Hide, Lady Dark
+She Who Sees What You Hide
+Selene, The Moonmaiden, Lady Dark
 ###### Domains: 
 [[Twilight\|Twilight]],[[Trickery\|Trickery]],[[War\|War]]
 

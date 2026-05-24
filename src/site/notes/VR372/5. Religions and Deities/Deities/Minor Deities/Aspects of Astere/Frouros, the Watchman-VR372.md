@@ -9,7 +9,8 @@
 Frouros is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-Colossus ([[Thracia-VR372\|Thracia]]), Vigilance, He Who Watches So We May Rest
+He Who Watches So We May Rest
+Colossus ([[Thracia-VR372\|Thracia]]), Vigilance
 ###### Domains: 
 Forge, Order, Peace, War
 

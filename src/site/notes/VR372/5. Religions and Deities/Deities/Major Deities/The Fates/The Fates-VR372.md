@@ -8,7 +8,9 @@
 The Fates are [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major Gods]]
 
 ###### Regional Names: 
-*Most often simply referred to as "The Fates" collectively, there are some references that name them as "The Grey Sisters", "Maiden-Mother-Crone", or "The Moirai". I believe I even came across a [[Bassaria-VR372\|Bassarian]] reference calling them "Those stupid bitch gods", but I couldn't find a second piece of writing from that author, so they may simply have been in a bad mood.*
+They Who Plot and Plan
+
+*Most often simply referred to as "The Fates" collectively, there are some references that name them as "They Who Plot and Plan", "The Grey Sisters", "Maiden-Mother-Crone", or "The Moirai". I believe I even came across a [[Bassaria-VR372\|Bassarian]] reference calling them "Those stupid bitch gods", but I couldn't find a second piece of writing from that author, so they may simply have been in a bad mood.*
 ###### Domains: 
 Each of the Fates has their own Domain list. 
 

@@ -5,10 +5,11 @@
 *I don't think anyone has used Maahes original name in an age. I think I'll try to find some old Thracian relics where it's spelled out explicitly, and then found an organization of scholars and meditative monks to "pry open their secrets". That will really rile him up, and then we'll have some opportunities for profit.
 -Reyvan*
 
-Maahes is a [[ZZZ. Private DM Info/6. Religions and Deities/Deities/Major Gods\|Major God]]
+Maahes is a [[Major Gods\|Major God]]
 
 ###### Regional Names: 
-Polemos ([[Thracia-VR372\|Thracia]]), Hargon ([[Sendria-VR372\|Sendria]]), The Fury ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni-VR372\|Subdurni]]), He Who Strives
+He Who Strives For Greatness
+Polemos ([[Thracia-VR372\|Thracia]]), Hargon ([[Sendria-VR372\|Sendria]]), The Fury ([[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni-VR372\|Subdurni]])
 
 ###### Domains: 
 Forge, Life, Light, Order, War.

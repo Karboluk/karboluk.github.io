@@ -8,7 +8,9 @@
 
 This Entity is an [[VR372/5. Religions and Deities/Deities/Elder Gods-VR372\|Elder God]]
 
-
+##### Name
+*"That Which Has Consumed Its Own Name", the epithet, is the only remaining reference I could find.* 
+*-Reyvan*
 ## Nature:
 
 We know this being exists by the vacuum left by its presence, and by the occasional being, mortal or otherwise, who becomes touched by it. They come to know things they shouldn't, and in the end, go mad.

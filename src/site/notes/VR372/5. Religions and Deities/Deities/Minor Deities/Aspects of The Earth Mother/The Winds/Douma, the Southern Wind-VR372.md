@@ -7,7 +7,8 @@
 
 Douma is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 ###### Regional Names: 
-Notus ([[Thracia-VR372\|Thracia]]), Hunger, the Swarm, She Who Consumes
+She Who Consumes
+Notus ([[Thracia-VR372\|Thracia]]), Hunger, the Swarm
 
 ###### Domains: 
 Death, Tempest, War

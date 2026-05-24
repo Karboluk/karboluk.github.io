@@ -7,7 +7,8 @@
 
 Estes is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 ###### Regional Names: 
-Eurus ([[Thracia-VR372\|Thracia]]), The Sky Serpent, Feathered Dragon, Ouroboros, He Who Brings Life
+He Who Brings Life
+Eurus ([[Thracia-VR372\|Thracia]]), The Sky Serpent, Feathered Dragon, Ouroboros
 ###### Domains: 
 Life, Light, Nature
 

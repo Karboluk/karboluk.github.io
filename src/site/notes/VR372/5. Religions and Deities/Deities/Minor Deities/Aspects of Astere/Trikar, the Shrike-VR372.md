@@ -8,8 +8,8 @@
 Trikar is a [[VR372/5. Religions and Deities/Deities/Minor Gods-VR372\|Minor God]].
 
 ###### Regional Names: 
-
-Janus ([[Thracia-VR372\|Thracia]]), He Who Kills With No Warning
+He Who Kills With No Warning
+Janus ([[Thracia-VR372\|Thracia]])
 
 
 ###### Domains: 
