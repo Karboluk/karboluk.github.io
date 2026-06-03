@@ -6,6 +6,10 @@
 
 
 
+```calendarium
+```
+
+
 The Shining Vale was made safer and settleable by the company of heroes lead by [[Aeonath-VR372\|Aeonath-VR372]] the Civilizer, in the years VR-40 through VR-30. 
 
 
