@@ -18,7 +18,7 @@ There is organized worship in [[VR372/4. Geography, Lands and Countries/1. The C
 
 ## Nature:
 
-Kor was a long suffering human man, part of the original troupe of adventurers responsible for scouting [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]] after the [[Fall of Cimmeria-VR372\|Fall of Cimmeria]] and making it safe for settlement. He carries the weight of these adventures, and the heavy events that occurred, into his new duties. 
+Kor was a long suffering human man, part of the original troupe of adventurers responsible for scouting [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale-VR372\|The Shining Vale]] after the [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria-VR372\|Fall of Cimmeria]] and making it safe for settlement. He carries the weight of these adventures, and the heavy events that occurred, into his new duties. 
 
 
 ## Associated Major Deity:

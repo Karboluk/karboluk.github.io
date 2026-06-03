@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vr-372/4-geography-lands-and-countries/19-uncategorized-notes/the-thracian-anti-witchcraft-alliance-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"Players":true,"permalink":"/vr-372/4-geography-lands-and-countries/19-uncategorized-notes/the-thracian-anti-witchcraft-alliance-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"Players":true}}
 ---
 
 

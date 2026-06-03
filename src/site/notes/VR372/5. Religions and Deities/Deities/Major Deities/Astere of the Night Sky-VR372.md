@@ -40,7 +40,7 @@ Astere is assumed to be the counterpart of [[VR372/5. Religions and Deities/Deit
 
 Try as I might, Astere's origins are somewhat mysterious, and there is no written record nor cultural memory of her origin or any disaster her [[VR372/5. Religions and Deities/Ascent to Godhood-VR372\|Ascent to Godhood]] may have caused.  
 
-She was first noticed after the [[Sundering of the Lands-VR372\|Sundering of the Lands]] in ancient [[Bassaria-VR372\|Bassaria]]; prior to that event the sky had always been the domain of [[VR372/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth-VR372\|Helios]]- with so much more territory to cover, he could no longer illuminate everyone and when he first moved away and the sky grew dark, Astere could clearly be seen. It could be that she had always been there, or that she moved to fill the void of Helios' absence. 
+She was first noticed after the [[ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands-VR372]] in ancient [[Bassaria-VR372\|Bassaria]]; prior to that event the sky had always been the domain of [[VR372/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth-VR372\|Helios]]- with so much more territory to cover, he could no longer illuminate everyone and when he first moved away and the sky grew dark, Astere could clearly be seen. It could be that she had always been there, or that she moved to fill the void of Helios' absence. 
 
 
 ## Activity:

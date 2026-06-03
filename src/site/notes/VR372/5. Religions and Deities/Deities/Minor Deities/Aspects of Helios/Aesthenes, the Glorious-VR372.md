@@ -37,7 +37,7 @@ Aesthenes is the Muse of Beauty, and works to make all things beautiful. Her sta
 
 ## Origins:
 
-During the reconstruction of [[Bassaria-VR372\|Bassaria]] after the [[Sundering of the Lands-VR372\|Sundering of the Lands]], the once-majestic civilization was in ruin. Cities had been shaken to rubble, and sometimes even split by the newly-formed oceans; and despite the new rule of justice under [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Themis, the Righteous-VR372\|Themis]], the people still lost hope. [[VR372/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth-VR372\|Helios]] saw their despair and resolved to give them reason for hope and cheer; and thus in an instant was born Aesthenes, the very idea of Beauty. 
+During the reconstruction of [[Bassaria-VR372\|Bassaria]] after the [[ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands-VR372]], the once-majestic civilization was in ruin. Cities had been shaken to rubble, and sometimes even split by the newly-formed oceans; and despite the new rule of justice under [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Themis, the Righteous-VR372\|Themis]], the people still lost hope. [[VR372/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth-VR372\|Helios]] saw their despair and resolved to give them reason for hope and cheer; and thus in an instant was born Aesthenes, the very idea of Beauty. 
 
 
 ## Activity:

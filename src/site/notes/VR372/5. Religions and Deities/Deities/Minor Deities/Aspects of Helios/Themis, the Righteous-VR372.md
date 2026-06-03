@@ -35,7 +35,7 @@ Themis does not have good relations with many of the other gods, including the o
 
 ## Origins:
 
-In the chaos following the [[Sundering of the Lands-VR372\|Sundering of the Lands]] in [[Bassaria-VR372\|Bassaria]], mortal folk were no longer ruled by their once-mighty King and were desperate to survive. Infighting escalated, and [[VR372/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth-VR372\|Helios]], the only active [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]] at the time, was moved by their plight. He sought for a way to bring them the truth that they needed to band together and establish order to survive, and thus in an instant was born Themis, the very idea of Justice.
+In the chaos following the [[ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands-VR372]] in [[Bassaria-VR372\|Bassaria]], mortal folk were no longer ruled by their once-mighty King and were desperate to survive. Infighting escalated, and [[VR372/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth-VR372\|Helios]], the only active [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]] at the time, was moved by their plight. He sought for a way to bring them the truth that they needed to band together and establish order to survive, and thus in an instant was born Themis, the very idea of Justice.
 
 
 ## Activity:

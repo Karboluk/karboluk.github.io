@@ -46,7 +46,7 @@ Anuket brings everything she can to the realm of her master, which keeps her bus
 
 Anuket herself works mostly as an administrator, echoing her former mortal life, hearing the petitions of her Naiads as mortals affect the rivers. 
 
-In recent times, Anuket suffered greatly in the [[Fall of Cimmeria-VR372\|Fall of Cimmeria]], being grievously wounded by the impact- collateral damage rather than an intentional target. [[VR372/5. Religions and Deities/Deities/Major Deities/Thalassus of the Oceans-VR372\|Thalassus]] looks to restore her, so she now recuperates in the bay that resulted by the fall, unknowingly entrapping [[VR372/5. Religions and Deities/Deities/Minor Deities/Other Minor Deities/Jaraxx, the Rot-VR372\|Jaraxx, the Rot]]. 
+In recent times, Anuket suffered greatly in the [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria-VR372\|Fall of Cimmeria]], being grievously wounded by the impact- collateral damage rather than an intentional target. [[VR372/5. Religions and Deities/Deities/Major Deities/Thalassus of the Oceans-VR372\|Thalassus]] looks to restore her, so she now recuperates in the bay that resulted by the fall, unknowingly entrapping [[VR372/5. Religions and Deities/Deities/Minor Deities/Other Minor Deities/Jaraxx, the Rot-VR372\|Jaraxx, the Rot]]. 
 
 Her absence since then has resulted in more river-work industry among the mortals, and a decided increase in hostility in the [[Naiad-VR372\|Naiad]].
 

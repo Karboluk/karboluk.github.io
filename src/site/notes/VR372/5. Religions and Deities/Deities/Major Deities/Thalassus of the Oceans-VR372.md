@@ -29,13 +29,14 @@ Thalassus guides his followers safely to distant shores, providing the proper of
 
 [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects Of Thalassus/Anuket, the Flowing Water-VR372\|Anuket, the Flowing Water]], Aspect of Collecting
 [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects Of Thalassus/Aethenius, the Scholar-VR372\|Aethenius, the Scholar]], Aspect of Knowledge
+
 ## Relations to other Deities:
 
 Thalassus and [[VR372/5. Religions and Deities/Deities/Major Deities/Volkanus the Maker and Reshaper of all Things-VR372\|Volkanus]] are often in active opposition, and their followers will sometimes become violent. The exception to this are those who live in a dwarven culture.
 
 ## Origins:
 
-The original mortal ruler, [[King Apsu-Toli-VR372\|King Apsu-Toli]] ruling the [[Bassaria-VR372\|Bassarian]] culture, Thalassus's [[VR372/5. Religions and Deities/Ascent to Godhood-VR372\|Ascent to Godhood]] caused the [[Sundering of the Lands\|Sundering of the Lands]], an event which split the continents apart- filling the voids left behind with the majesty of his waters. This is the first time that the ascent of a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]] created catastrophe, which has been the most common result since. 
+The original mortal ruler, [[King Apsu-Toli-VR372\|King Apsu-Toli]] ruling the [[Bassaria-VR372\|Bassarian]] culture, Thalassus's [[VR372/5. Religions and Deities/Ascent to Godhood-VR372\|Ascent to Godhood]] caused the [[ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]], an event which split the continents apart- filling the voids left behind with the majesty of his waters. This is the first time that the ascent of a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]] created catastrophe, which has been the most common result since. 
 
 ## Desired Behavior in Followers:
 You increase your piety score to Thalassus when you expand the god’s influence in the world in a concrete way through acts such as these:

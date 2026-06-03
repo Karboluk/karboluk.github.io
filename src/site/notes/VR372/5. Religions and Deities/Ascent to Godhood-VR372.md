@@ -2,4 +2,14 @@
 {"aliases":["ascent","Ascent to Godhood"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/ascent-to-godhood-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["ascent","Ascent to Godhood"],"Players":true}}
 ---
 
-NEEDS WORK
+The Ascent to Godhood can happen in many ways- it's unknown how this happened to the [[VR372/5. Religions and Deities/Deities/Elder Gods-VR372\|Elder Gods]] as it predates history, and even [[VR372/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth-VR372\|Helios]]'s ascension can only be speculated at. 
+The gods can simply incarnate another, as happened with [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Parvati, the Accepting-VR372\|Parvati]] and the other muses, or elevate lower beings like [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Maahes/Kor, the Tireless-VR372\|Kor]], [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Astere/Trikar, the Shrike-VR372\|Trikar]] and [[VR372/5. Religions and Deities/Deities/Minor Deities/Aspects of Astere/Frouros, the Watchman-VR372\|Frouros]]; but a few more unique scenarios are thought to be known:
+
+- [[VR372/5. Religions and Deities/Deities/Major Deities/Thalassus of the Oceans-VR372\|Thalassus]], the God-Emperor of his people, is said to have ascended by the faith empowering him. Other stories contradict this, specifically the much more recent ascension of Zatar.
+	- The Ascent of Thalassus caused the [[ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]]
+- [[VR372/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade-VR372\|Maahes]], a hero, conquered a foe so overpowering that the effort required to do so necessitated deific power. His ascent could be attributed to his valour, or to how much the people of [[Thracia-VR372\|Thracia]] needed him to achieve victory.
+	- The Ascent of Maahes destroyed [[Apophis-VR372\|Apophis]], and his ongoing presence shattered Thracia. 
+- [[VR372/5. Religions and Deities/Deities/Major Deities/Volkanus the Maker and Reshaper of all Things-VR372\|Volkanus]] ascended after [[VR372/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade-VR372\|Maahes]]' presence had eroded the land of Thracia into an archipelago; his ascension was likely not from mortal origins given the relative lack of destruction. 
+	- A Volcano was added, some ocean filled in, a previously endless war stopped for years. 
+- [[VR372/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm-VR372\|Zatar]] ascended when she was learned the method that [[VR372/5. Religions and Deities/Deities/Major Deities/Thalassus of the Oceans-VR372\|Thalassus]] used to ascend. 
+	- The Ascent of Zatar resulted in the end of the [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria-VR372\|Fall Of Cimmeria]]. 
