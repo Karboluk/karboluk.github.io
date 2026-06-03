@@ -11,5 +11,5 @@ The gods can simply incarnate another, as happened with [[VR372/5. Religions and
 	- The Ascent of Maahes destroyed [[Apophis-VR372\|Apophis]], and his ongoing presence shattered Thracia. 
 - [[VR372/5. Religions and Deities/Deities/Major Deities/Volkanus the Maker and Reshaper of all Things-VR372\|Volkanus]] ascended after [[VR372/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade-VR372\|Maahes]]' presence had eroded the land of Thracia into an archipelago; his ascension was likely not from mortal origins given the relative lack of destruction. 
 	- A Volcano was added, some ocean filled in, a previously endless war stopped for years. 
-- [[VR372/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm-VR372\|Zatar]] ascended when she was learned the method that [[VR372/5. Religions and Deities/Deities/Major Deities/Thalassus of the Oceans-VR372\|Thalassus]] used to ascend. 
+- [[VR372/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm-VR372\|Zatar]] ascended when she learned the method that [[VR372/5. Religions and Deities/Deities/Major Deities/Thalassus of the Oceans-VR372\|Thalassus]] used to ascend. 
 	- The Ascent of Zatar resulted in the end of the [[VR372/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria-VR372\|Fall Of Cimmeria]]. 
