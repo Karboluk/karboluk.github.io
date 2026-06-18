@@ -2,7 +2,7 @@
 {"aliases":["Zatar","Zatar the Ravaging Storm"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/major-deities/zatar-the-ravaging-storm-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Zatar","Zatar the Ravaging Storm"],"Players":true}}
 ---
 
-*The newest of the Ascended Gods, until recently, and certainly she's been a busy, busy god! It's a breath of fresh-corpse-sulfur-and-ash tinted air! I hope the new ones take her lead.*
+*The newest of the Ascended Gods, until recently, and certainly she's been a busy, busy god! It's a breath of fresh-corpse-sulfur-and-ash tinted air!*
 -Reyvan*
 
 Zatar is a [[VR372/5. Religions and Deities/Deities/Major Gods-VR372\|Major God]]
