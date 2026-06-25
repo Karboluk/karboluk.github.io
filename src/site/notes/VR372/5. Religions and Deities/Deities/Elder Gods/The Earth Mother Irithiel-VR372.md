@@ -2,7 +2,7 @@
 {"aliases":["Earth Mother","Gaia","Terra","Yondalla","The Earth Mother Irithiel"],"dg-publish":true,"Players":true,"permalink":"/vr-372/5-religions-and-deities/deities/elder-gods/the-earth-mother-irithiel-vr-372/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Earth Mother","Gaia","Terra","Yondalla","The Earth Mother Irithiel"],"Players":true}}
 ---
 
-*When I first stepped foot upon her, she was still hot from her Ascension. Painful, even for one like me. She's really developed since then, but I miss the days when an errant mortal would speak her name in vain, and the ground would open up and swallow him whole. Good times.
+*When I first stepped foot upon her, she was still hot from her Incarnation. Painful, even for one like me. She's really developed since then, but I miss the days when an errant mortal would speak her name in vain, and the ground would open up and swallow him whole. Good times.
 -Reyvan*
 
 The Earth mother is an [[VR372/5. Religions and Deities/Deities/Elder Gods-VR372\|Elder God]]
