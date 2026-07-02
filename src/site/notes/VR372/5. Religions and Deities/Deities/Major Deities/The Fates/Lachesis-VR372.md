@@ -32,7 +32,7 @@ Sister to [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/Cloth
 
 ## Origins:
 
-Well, where does one begin? At the end, I think. Here is the currently known truth, but as you'll see- it may not will have always be untrue for long. [[The Tale of Hazidkal \|The Tale of Hazidkal ]]
+Well, where does one begin? At the end, I think. Here is the currently known truth, but as you'll see- it may not will have always be untrue for long. [[VR372/5. Religions and Deities/Deities/Major Deities/The Fates/The Tale of Hazidkal-VR372\|The Tale of Hazidkal]]
 
 
 ## Activity:
