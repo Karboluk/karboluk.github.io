@@ -1,0 +1,57 @@
+---
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/gudvaer-hranalfsdottir-the-seidkona/","dg-note-properties":{"aliases":"Gudvaer","tags":null}}
+---
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+# Holder of the Giant's Mark![Gudvaer Hranalfsdottir.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Gudvaer%20Hranalfsdottir.jpg)
+
+## An Ancient Among Children
+Gudvaer is by far the oldest member of the Njardarheimr Goliath, who live in the wastes east of the Shining Vale circa VR-372.  Her old and hunched frame means she walks with a pronounced limp, but her pride means she will refuse any overt assistance. 
+
+Gudvaer is clearly the power behind this tribe, and any choice she makes is enacted. It is her guidance that chooses the tribe's path, her words that shape their beliefs, and her anger that cows any unacceptable disorder.
+
+The members of the Njardarheimr tribe will not think it is odd that they have another figure of prominence, as she has always been there, as far as anyone can tell (she encourages this). However, they will also keep her presence a secret when possible, which is something she has trained them to do. 
+
+## Notes on the Tryptic Prophecy (a recap of the subject from Sept 29, 2026, Session 72)  
+
+This information is as understood and communicated by Gudvaer Hennigsdottir, the Seiðkona (Seer Woman) of Njardarheimr, who says she learned it from the giant Jarðskjálftavaldur, the Earthshaker, from when Gudvaer was the Sagnavörður (Lorekeeper) of her tribe. 
+	She says the Earthshaker was the original holder of the Giant's Mark before she took it from him in combat a long time ago. 
+
+Gudvaer says she does not practice magic, but did word this as "I have not done so in a long time". Her tolerance of Dis, the Tunglnorn (Moon Witch) and her magics differs from the broad society she has guided.  
+  
+### Gudvaer's recounting of the prophecy:  
+"Damu gave her prophecy as such: The Earth Mother will be rent asunder, the world will end and the mother will begin dying; but this will be healed once the mark is used. All will be made as it was, before. The prophecy, hence the mark, was divided into three pieces, to better keep it safe until the correct time.  
+  
+- To the Giants, Damu gave the flat places, for their far sight there could keep their mark safe.  
+- To the Dragons, Damu gave the heights, for their ability to fly to those heights could keep their mark safe.  
+- To the People, Damu gave the forests, for their ability to become their environment could keep their mark safe."  
+  
+Gudvaer thinks the idea of Dragons and Giants working together is laughable, but noted that she is no true Giant, so perhaps the Dragon's mark will be used by someone like Haly.  
+  
+Gudvaer is of the opinion that completing the prophecy and healing the Earth Mother is an unequivocal good. She assumes the Lines of Power will simply be destroyed in the process, as nothing made by mortals could compare to the power of the Earth Mother.  
+  
+  
+#### The Three Marks:  
+- Kilani explained that the Elves' mark has guided their people through migrations, avoided catastrophes and is only understood looking backward, and is passed on over long spans of time.  
+- Gudvaer explained that the Giant's Mark can only be taken, and taken in a way that meets the standards of the Giants; challenge, combat, etc. She is not pulled, she explores the world and travels wherever Damu has receded, taking that as guidance of where to go. She intimated a few times that her people came from a different continent than you are currently on.  
+- Gudvaer posited, but doesn't know for sure, that the Dragon's Mark must then be hoarded, or perhaps stolen, for those are the ways of Dragons.  
+  
+### The Experiment:  
+- Gudvaer and Kilani felt the Dragon's Mark to the North but Gudvaer says she also feels it sometimes abruptly to the South of here instead, and then it's back to the North.  
+- Haly, adding her essence to the impromptu ritual, didn't feel the Mark, but had a vision of the temptation of Tiamat atop the tallest tower of Tiamat's prison (as has happened before).
+	- Fading away from that with the protection of Bahamut, a new vision:
+	- Her mother, plus two others, wearing robes associated with Tiamat. Her mother seemed aware something was there, but did not seem able to see Haly.  
+
+## Additional Information
+Things you have learned about these goliath, in general:  
+- The tribe is led by a Jarl, who is the leader of the "Hunters". It sounds like they were the only faction until recently; they value great deeds, challenges taken, boldness and virtue (their flavor of virtue, in any case).  
+- The new faction, the "Sisters of the Moon", are led by Dis Gertrudsdottir. Gudvaer says Dis is the first witch they have had since forever, but probably doesn't mean that literally. Dis is the first or only Goliath you have met with a matrilineal (rather than patrilineal) last name.
+
+
+
+
+</div></div>
