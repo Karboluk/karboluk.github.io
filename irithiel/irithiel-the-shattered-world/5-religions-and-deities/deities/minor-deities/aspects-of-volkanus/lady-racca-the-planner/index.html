@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Irithiel, the Shattered World</title>
+<title>Lady Racca, the Planner</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script type="importmap">
@@ -724,7 +724,7 @@
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink">
+<div @click.stop class="notelink active-note">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner/">Lady Racca, the Planner </a>
 </div>
 </div>
@@ -804,7 +804,7 @@
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note">
+<div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/">Irithiel, the Shattered World </a>
 </div>
 </div>
@@ -850,293 +850,32 @@
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-09-30T22:08:26.114Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
-<h1>Irithiel, the Shattered World</h1>
+<h1 data-note-icon="">Lady Racca, the Planner</h1>
 <div class="header-meta">
 </div>
 </header>
-<p><em>A compendium by Reyvan, the Knowledgeable. Please read the Foreword if you haven't already.</em></p>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/1-introduction/foreword/">Foreword</a></p>
-<h3 id="table-of-contents" tabindex="-1">Table of Contents</h3>
-<ul>
-<li><strong>1. Introduction</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/1-introduction/foreword/">Foreword</a></li>
-</ul>
-</li>
-<li><strong>2. Characters</strong>
-<ul>
-<li><strong>Non- Player Characters</strong></li>
-<li><strong>Player Characters</strong></li>
-</ul>
-</li>
-<li><strong>3. Species and Culture</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/3-species-and-culture/species-and-culture/">Species and Culture</a></li>
-</ul>
-</li>
-<li><strong>4. Geography, Lands and Countries</strong>
-<ul>
-<li><strong>1. The Continent of the Shining Vale</strong>
-<ul>
-<li><strong>1. Shining Vale</strong>
-<ul>
-<li><strong>1. Shining Vale General</strong>
-<ul>
-<li>
-<p><strong>1. Maps</strong></p>
-</li>
-<li>
-<p><strong>2. Calendar and Timekeeping</strong></p>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/2-calendar-and-timekeeping/vr/">VR</a></li>
-</ul>
-</li>
-<li>
-<p><strong>3. History and Myth</strong></p>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/3-history-and-myth/shining-vale-history/">Shining Vale History</a></li>
-</ul>
-</li>
-<li>
-<p><strong>4. Religions and Deities</strong></p>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/other-recognized-deities/">Other recognized Deities</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/saints/">Saints</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/the-old-gods/">The Old Gods</a></li>
-</ul>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale/">The Shining Vale</a></p>
-</li>
-</ul>
-</li>
-<li><strong>2. Duchy Revanne</strong>
-<ul>
-<li>
-<p><strong>Maps</strong></p>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/duchy-revanne/">Duchy Revanne</a></p>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/haut-revanne/">Haut-Revanne</a></p>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/the-enclave/">The Enclave</a></p>
-</li>
-</ul>
-</li>
-<li><strong>3. Duchy Truscia</strong>
-<ul>
-<li><strong>Maps</strong></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/3-duchy-truscia/duchy-truscia/">Duchy Truscia</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/3-duchy-truscia/salvia/">Salvia</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/3-duchy-truscia/trodena/">Trodena</a></li>
-</ul>
-</li>
-<li><strong>4. Duchy Redhill</strong>
-<ul>
-<li>
-<p><strong>Maps</strong></p>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/4-duchy-redhill/duchy-redhill/">Duchy Redhill</a></p>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/4-duchy-redhill/ironhelm/">Ironhelm</a></p>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/4-duchy-redhill/sounders/">Sounders</a></p>
-</li>
-</ul>
-</li>
-<li><strong>5. Duchy Corwyn</strong>
-<ul>
-<li>
-<p><strong>Maps</strong></p>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/5-duchy-corwyn/corwyn-city/">Corwyn City</a></p>
-</li>
-<li>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/5-duchy-corwyn/duchy-corwyn/">Duchy Corwyn</a></p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>2. Others</strong>
-<ul>
-<li><strong>1. The Luxan Empire</strong>
-<ul>
-<li><strong>Maps</strong></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/1-the-luxan-empire/the-luxan-empire/">Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire</a></li>
-</ul>
-</li>
-<li><strong>2. Subdurni</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/2-subdurni/subdurni/">Subdurni</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/2-subdurni/the-wastes-of-subdurni/">The Wastes of Subdurni</a></li>
-</ul>
-</li>
-<li><strong>3. The Jade City</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/3-the-jade-city/the-jade-city/">The Jade City</a></li>
-</ul>
-</li>
-<li><strong>4. Cimmeria</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/cimmeria/">Cimmeria</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/fall-of-cimmeria/">Fall of Cimmeria</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/isthariel-the-channeler/">Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/quidun-the-wise-and-beneficent/">Quidun the Wise and Beneficent</a></li>
-</ul>
-</li>
-<li><strong>Maps</strong></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/sea-kingdom-of-kilar/">Sea Kingdom of Kilar</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/the-fernish-jungle/">The Fernish Jungle</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>19. Uncategorized Notes</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/c-a-l-i-s-t-o/">C.A.L.I.S.T.O</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/the-magesterium-panopticon/">The Magesterium Panopticon</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/the-order-of-yellow/">The Order of Yellow</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/the-thracian-anti-witchcraft-alliance/">The Thracian Anti-Witchcraft Alliance</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>5. Religions and Deities</strong>
-<ul>
-<li><strong>Cultural Religious Practices</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/cultural-religious-practices/cimmerian-empire-its-colonies-and-inheritors/">Cimmerian Empire, its colonies and inheritors</a></li>
-</ul>
-</li>
-<li><strong>Deities</strong>
-<ul>
-<li><strong>Elder Gods</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/bahamut/">Bahamut</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/that-which-has-consumed-its-own-name/">That Which Has Consumed Its Own Name</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/the-earth-mother-irithiel/">The Earth Mother Irithiel</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/tiamat/">Tiamat</a></li>
-</ul>
-</li>
-<li><strong>Major Deities</strong>
-<ul>
-<li><strong>The Fates</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/atropos/">Atropos</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/clotho/">Clotho</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/lachesis/">Lachesis</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/the-fates/">The Fates</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/the-tale-of-hazidkal/">Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/The Tale of Hazidkal</a></li>
-</ul>
-</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/astere-of-the-night-sky/">Astere of the Night Sky</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/helios-the-radiant-truth/">Helios the Radiant Truth</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/maahes-of-shield-and-blade/">Maahes of Shield and Blade</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/thalassus-of-the-oceans/">Thalassus of the Oceans</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/volkanus-the-maker-and-reshaper-of-all-things/">Volkanus the Maker and Reshaper of all Things</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/zatar-the-ravaging-storm/">Zatar the Ravaging Storm</a></li>
-</ul>
-</li>
-<li><strong>Minor Deities</strong>
-<ul>
-<li><strong>Aspects of Astere</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/frouros-the-watchman/">Frouros, the Watchman</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/paratiritis-the-seeing/">Paratiritis, the Seeing</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/trikar-the-shrike/">Trikar, the Shrike</a></li>
-</ul>
-</li>
-<li><strong>Aspects of Helios</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesclepius-the-mender/">Aesclepius, the Mender</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesthenes-the-glorious/">Aesthenes, the Glorious</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/parvati-the-accepting/">Parvati, the Accepting</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/themis-the-righteous/">Themis, the Righteous</a></li>
-</ul>
-</li>
-<li><strong>Aspects of Maahes</strong>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404" target="">Apophis, the Worthy Foe</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/kor-the-tireless/">Kor, the Tireless</a></li>
-<li><a class="internal-link is-unresolved" href="/404" target="">Medjay, the Ally</a></li>
-<li><a class="internal-link is-unresolved" href="/404" target="">Nakht, the Noble Cause</a></li>
-</ul>
-</li>
-<li><strong>Aspects Of Thalassus</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/aethenius-the-scholar/">Aethenius, the Scholar</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/anuket-the-flowing-water/">Anuket, the Flowing Water</a></li>
-</ul>
-</li>
-<li><strong>Aspects of The Earth Mother</strong>
-<ul>
-<li><strong>The Winds</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/ahksha-the-western-wind/">Ahksha, the Western Wind</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/douma-the-southern-wind/">Douma, the Southern Wind</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/estes-the-eastern-wind/">Estes, the Eastern Wind</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/faria-the-northern-wind/">Faria, the Northern Wind</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/the-winds/">The Winds</a></li>
-</ul>
-</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/chiriki-the-huntress/">Chiriki, the Huntress</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/damu-the-green/">Damu, the Green</a></li>
-</ul>
-</li>
-<li><strong>Aspects of the Fates</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/fantis-the-weaver-of-beads/">Fantis, the Weaver of Beads</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/lady-saoirse-the-midwife/">Lady Saoirse, the Midwife</a></li>
-</ul>
-</li>
-<li><strong>Aspects of Volkanus</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/dun-the-smelter/">Dun, the Smelter</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner/">Lady Racca, the Planner</a></li>
-</ul>
-</li>
-<li><strong>Other Minor Deities</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/other-minor-deities/auguri-the-mage/">Auguri, the Mage</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/other-minor-deities/jaraxx-the-rot/">Jaraxx, the Rot</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/">Elder Gods</a></li>
-<li><a class="internal-link is-unresolved" href="/404" target="">Major Gods</a></li>
-<li><a class="internal-link is-unresolved" href="/404" target="">Minor Gods</a></li>
-</ul>
-</li>
-<li><strong>Domains</strong></li>
-<li><strong>Religions</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/religions/battlesworn/">Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/religions/nightwatchers/">Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Nightwatchers</a></li>
-</ul>
-</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/ascent-to-godhood/">Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood</a></li>
-</ul>
-</li>
-<li><strong>50. Appendix 1, Rules</strong>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/50-appendix-1-rules/feat-crafty/">Feat- Crafty</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/50-appendix-1-rules/piety-optional-rule/">Piety - Optional Rule</a></li>
-</ul>
-</li>
-</ul>
-<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale/">The Shining Vale</a><br>
-<a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/saints/">Saints</a><br>
-<a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/other-recognized-deities/">Other recognized Deities</a><br>
-<a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/the-old-gods/">The Old Gods</a></p>
+<p><em>The influence of Lady Racca is responsible for most of the beauty that the disciples of Helios take credit for.<br>
+-Reyvan</em></p>
+<p>Lady Racca is a <a class="internal-link is-unresolved" href="/404" target="">Minor God</a>.</p>
+<h6 id="regional-names" tabindex="-1">Regional Names:</h6>
+<p>She Who Thinks and Never Makes<br>
+St. <a class="internal-link is-unresolved" href="/404" target="">Aeonath</a> (<a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale/">The Shining Vale</a> 35-current), Berronar Truesilver (dwarven cultural)</p>
+<h6 id="domains" tabindex="-1">Domains:</h6>
+<p>Order, Peace, War</p>
+<h6 id="regional-worship" tabindex="-1">Regional Worship:</h6>
+<p>Worship of Lady Racca is often based in construction guilds in human civilization, and the reason for that construction is usually growth; so worship alongside <a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/parvati-the-accepting/">Parvati</a> is quite common.</p>
+<p>When <a class="internal-link is-unresolved" href="/404" target="">Aeonath</a> was sanctified after his death, the Cathedral in <a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/haut-revanne/">Haut-Revanne</a> was already under construction. Immediately dedicated to him, the city, <a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/duchy-revanne/">Duchy Revanne</a>, and <a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale/">The Shining Vale</a> saw a rampant increase in growth and construction.</p>
+<h2 id="nature" tabindex="-1">Nature:</h2>
+<p>Goddess of cities and city-building, Lady Racca is usually depicted standing tall with a compass (the drawing kind) and a ruler. This holds true in <a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale/">The Shining Vale</a>, except it is a depiction of Aeonath and he is always backlit with golden light.</p>
+<h2 id="associated-major-deity" tabindex="-1">Associated Major Deity:</h2>
+<p><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/volkanus-the-maker-and-reshaper-of-all-things/">Volkanus the Maker and Reshaper of all Things</a></p>
+<h2 id="relations-to-other-deities" tabindex="-1">Relations to other Deities:</h2>
+<h2 id="origins" tabindex="-1">Origins:</h2>
+<p>To aid with the reconstruction of <a class="internal-link is-unresolved" href="/404" target="">Thracia</a> after Volkanus' <a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/ascent-to-godhood/">ascent</a>, he removed his sense of proportion- and from it crafted Lady Racca.</p>
+<h2 id="activity" tabindex="-1">Activity:</h2>
+<p>Lady Racca operates independently from <a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/volkanus-the-maker-and-reshaper-of-all-things/">Volkanus</a> and serves as one of his advisors for his projects; when he chooses to listen to her. When dealing with mortals, she will often take the form of a dwarven master mason, architect or planner. She gives excellent advice, and is secretly the mind behind many of the architectural marvels of the world, thought most of them have been lost to time.</p>
+<h2 id="desired-behaviour-in-followers" tabindex="-1">Desired Behaviour in Followers:</h2>
+<h3 id="irithiel-irithiel-the-shattered-world-50-appendix-1-rules-piety-optional-rule-piety-benefits" tabindex="-1"><a class="internal-link" target="" data-note-icon="" href="/irithiel/irithiel-the-shattered-world/50-appendix-1-rules/piety-optional-rule/">Piety</a> Benefits:</h3>
 </main>
 <aside>
 <div class="sidebar">
@@ -1161,13 +900,33 @@
 <div class="toc">
 <div class="toc-title-container">
 <div class="toc-title">
-Irithiel, the Shattered World
+Lady Racca, the Planner
 </div>
 </div>
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#table-of-contents">Table of Contents</a>
+<li><a href="#regional-names">Regional Names:</a>
+</li>
+<li><a href="#domains">Domains:</a>
+</li>
+<li><a href="#regional-worship">Regional Worship:</a>
+</li>
+<li><a href="#nature">Nature:</a>
+</li>
+<li><a href="#associated-major-deity">Associated Major Deity:</a>
+</li>
+<li><a href="#relations-to-other-deities">Relations to other Deities:</a>
+</li>
+<li><a href="#origins">Origins:</a>
+</li>
+<li><a href="#activity">Activity:</a>
+</li>
+<li><a href="#desired-behaviour-in-followers">Desired Behaviour in Followers:</a>
+<ol>
+<li><a href="#irithiel-irithiel-the-shattered-world-50-appendix-1-rules-piety-optional-rule-piety-benefits">Piety Benefits:</a>
+</li>
+</ol>
 </li>
 </ol>
 </nav>
@@ -1176,8 +935,10 @@ Irithiel, the Shattered World
 <script>!function(){const t=document.querySelectorAll('.toc-container a[href^="#"]');if(!t.length)return;const e=Array.from(t).map((t=>{const e=decodeURIComponent(t.getAttribute("href").slice(1));return{link:t,target:document.getElementById(e)}})).filter((t=>t.target));function n(){let n=e[0];for(const t of e)t.target.getBoundingClientRect().top<=100&&(n=t);t.forEach((t=>t.classList.remove("toc-active"))),n&&n.link.classList.add("toc-active")}window.addEventListener("scroll",n,{passive:!0}),n()}()</script>
 <div class="backlinks">
 <div class="backlink-title">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card">
-<span class="no-backlinks-message">No other pages mentions this page</span>
+<div class="backlink-list"><div class="backlink-card"><i data-lucide="link"></i><a href="/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/saints/" data-note-icon="" class="backlink">Saints</a>
+</div><div class="backlink-card"><i data-lucide="link"></i><a href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/volkanus-the-maker-and-reshaper-of-all-things/" data-note-icon="" class="backlink">Volkanus the Maker and Reshaper of all Things</a>
+</div><div class="backlink-card"><i data-lucide="link"></i><a href="/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/parvati-the-accepting/" data-note-icon="" class="backlink">Parvati, the Accepting</a>
+</div><div class="backlink-card"><i data-lucide="link"></i><a href="/" data-note-icon="" class="backlink">Irithiel, the Shattered World</a>
 </div></div>
 </div>
 </div>
@@ -1191,6 +952,9 @@ Irithiel, the Shattered World
 <iframe style="display:none;height:0;width:0" id="link-preview-iframe" src="">
 </iframe>
 <script>var opacityTimeout,contentTimeout,transitionDurationMs=100,iframe=document.getElementById("link-preview-iframe"),tooltipWrapper=document.getElementById("tooltip-wrapper"),tooltipContent=document.getElementById("tooltip-content"),linkHistories={};function hideTooltip(){opacityTimeout=setTimeout((function(){tooltipWrapper.style.opacity=0,contentTimeout=setTimeout((function(){tooltipContent.innerHTML="",tooltipWrapper.style.display="none"}),transitionDurationMs+1)}),transitionDurationMs)}function positionTooltip(t){var o=t.getClientRects()[t.getClientRects().length-1],e=document.documentElement.clientWidth,i=window.innerHeight,p=12,n=10,l=(o.top,i-(o.top+o.height)),r=(o.left,e-(o.left+o.width)),s=l>=tooltipWrapper.offsetHeight+p?"bottom":"top",a=r>=tooltipWrapper.offsetWidth+p?"right":"left";tooltipWrapper.style.top="bottom"===s?o.top+o.height+p+"px":o.top-tooltipWrapper.offsetHeight-p+"px",tooltipWrapper.style.left="right"===a?o.left+o.width+p+"px":o.left-tooltipWrapper.offsetWidth-p+"px";var c=parseFloat(tooltipWrapper.style.top),f=parseFloat(tooltipWrapper.style.left);c<n?tooltipWrapper.style.top="10px":c+tooltipWrapper.offsetHeight+n>i&&(tooltipWrapper.style.top=i-tooltipWrapper.offsetHeight-n+"px"),f<n?tooltipWrapper.style.left="10px":f+tooltipWrapper.offsetWidth+n>e&&(tooltipWrapper.style.left=e-tooltipWrapper.offsetWidth-n+"px")}function showTooltip(t){var o=t.currentTarget||t.target;if(o){var e=o.getAttribute("href");if(-1===e.indexOf("http")||-1!==e.indexOf(window.location.host)){tooltipWrapper.style.display="block",tooltipWrapper.style.opacity=0,positionTooltip(o);let t=e.split("#")[0];if(t.toLowerCase().endsWith(".pdf"))return tooltipContent.innerHTML='<iframe class="tooltip-pdf" src="'+t+'"></iframe>',tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1);if(/\.(png|jpg|jpeg|gif|webp|svg)$/i.test(t))return tooltipContent.innerHTML='<img src="'+t+'" style="max-width:100%;height:auto;" />',tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1);linkHistories[t]?(tooltipContent.innerHTML=linkHistories[t],setTimeout((function(){if(positionTooltip(o),tooltipWrapper.style.opacity=1,-1!=e.indexOf("#")){let t=e.split("#")[1];const o=tooltipWrapper.querySelector(`[id='${t}']`);o.classList.add("referred"),o.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)):(iframe.src=t,iframe.onload=function(){let i,p;try{i=iframe.contentWindow,p=i?i.document:null}catch(t){return tooltipContent.innerHTML="<div>Preview not available for this file.</div>",tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1)}if(!p)return;const n=p.querySelector("h1"),l=p.querySelector(".content");if(tooltipContentHtml="",n&&(tooltipContentHtml+='<div style="font-weight: bold; unicode-bidi: plaintext;">'+n.innerHTML+"</div>"),l)tooltipContentHtml+=l.innerHTML;else if(p.body)tooltipContentHtml+=p.body.innerHTML;else{if(!p.documentElement)return;tooltipContentHtml+=p.documentElement.innerHTML}tooltipContent.innerHTML=tooltipContentHtml,linkHistories[t]=tooltipContentHtml,tooltipWrapper.scrollTop=0,setTimeout((function(){if(positionTooltip(o),tooltipWrapper.style.opacity=1,-1!=e.indexOf("#")){let t=e.split("#")[1];const o=tooltipWrapper.querySelector(`[id='${t}']`);o.classList.add("referred"),console.log(o),o.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)}),positionTooltip(o)}}}function setupListeners(t){t.addEventListener("mouseleave",(function(t){hideTooltip()})),tooltipWrapper.addEventListener("mouseleave",(function(t){hideTooltip()})),t.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout),showTooltip(t)})),tooltipWrapper.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout)}))}window.addEventListener("load",(function(t){document.querySelectorAll(".internal-link").forEach(setupListeners),document.querySelectorAll(".backlink-card a").forEach(setupListeners)}))</script>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
 <script defer="defer" src="https://unpkg.com/lucide@latest"></script>
 <script defer="defer">document.addEventListener("DOMContentLoaded",(()=>{lucide.createIcons({attrs:{class:["svg-icon"]}})}))</script>
 <script>document.addEventListener("DOMContentLoaded",(function(){document.querySelectorAll(".obsidian-bases-views").forEach((function(e){var t=e.querySelector(".obsidian-bases-active-view"),a=e.querySelector(".obsidian-bases-dropdown"),i=e.querySelectorAll(".obsidian-bases-dropdown-item"),n=e.querySelectorAll(".obsidian-bases-view-panel"),o=e.querySelector(".obsidian-bases-active-view-name"),r=e.querySelector(".obsidian-bases-count-value");t&&a&&(t.addEventListener("click",(function(e){e.stopPropagation();var i="none"!==a.style.display;a.style.display=i?"none":"block",t.setAttribute("aria-expanded",!i)})),document.addEventListener("click",(function(){a.style.display="none",t.setAttribute("aria-expanded","false")})),i.forEach((function(s){s.addEventListener("click",(function(s){s.stopPropagation();var d=this.getAttribute("data-view-index");i.forEach((function(e){e.classList.remove("active")})),this.classList.add("active"),n.forEach((function(e){e.style.display="none"}));var l=e.querySelector('.obsidian-bases-view-panel[data-view-index="'+d+'"]');l&&(l.style.display="block");var c=this.querySelector(".obsidian-bases-view-icon"),u=t.querySelector(".obsidian-bases-view-icon");if(c&&u&&u.replaceWith(c.cloneNode(!0)),o&&(o.textContent=this.textContent.trim()),r&&l){var b=l.querySelectorAll("tbody tr:not(.obsidian-base-group-row), .obsidian-base-card, .obsidian-base-list li");r.textContent=b.length}a.style.display="none",t.setAttribute("aria-expanded","false")}))})))})),document.querySelectorAll(".bases-dynamic-date").forEach((function(e){var t=e.getAttribute("data-type"),a=new Date;if("today"===t){var i=a.getFullYear(),n=String(a.getMonth()+1).padStart(2,"0"),o=String(a.getDate()).padStart(2,"0");e.textContent=i+"-"+n+"-"+o}else if("now"===t){i=a.getFullYear(),n=String(a.getMonth()+1).padStart(2,"0"),o=String(a.getDate()).padStart(2,"0");var r=String(a.getHours()).padStart(2,"0"),s=String(a.getMinutes()).padStart(2,"0");e.textContent=i+"-"+n+"-"+o+" "+r+":"+s}}))}))</script>
