@@ -14,8 +14,10 @@
 - **1. Introduction**
 	- [[Irithiel/Irithiel, the Shattered World/1. Introduction/Foreword\|Foreword]]
 - **2. Characters**
-	- **Non- Player Characters**
-	- **Player Characters**
+	- **1. Player Characters**
+		- [[Irithiel/Irithiel, the Shattered World/2. Characters/1. Player Characters/Aysu Dullane\|Aysu Dullane]]
+	- **2. Non- Player Characters**
+		- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Gudvaer Hranalfsdottir the Seiðkona\|Gudvaer Hranalfsdottir the Seiðkona]]
 - **3. Species and Culture**
 	- [[Irithiel/Irithiel, the Shattered World/3. Species and Culture/Species and Culture\|Species and Culture]]
 - **4. Geography, Lands and Countries**
@@ -58,7 +60,7 @@
 		- **2. Others**
 			- **1. The Luxan Empire**
 				- **Maps**
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire\|Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire]]
+				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire\|The Luxan Empire]]
 			- **2. Subdurni**
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni\|Subdurni]]
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]]
@@ -67,7 +69,7 @@
 			- **4. Cimmeria**
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Cimmeria\|Cimmeria]]
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]]
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler\|Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler]]
+				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler\|Isthariel the Channeler]]
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Quidun the Wise and Beneficent\|Quidun the Wise and Beneficent]]
 			- **Maps**
 			- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/Sea Kingdom of Kilar\|Sea Kingdom of Kilar]]
@@ -87,12 +89,11 @@
 			- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel\|The Earth Mother Irithiel]]
 			- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/Tiamat\|Tiamat]]
 		- **Major Deities**
-			- **The Fates**
+			- **[[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/The Fates\|The Fates]]**
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/Atropos\|Atropos]]
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/Clotho\|Clotho]]
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/Lachesis\|Lachesis]]
-				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/The Fates\|The Fates]]
-				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/The Tale of Hazidkal\|Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/The Tale of Hazidkal]]
+				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/The Tale of Hazidkal\|The Tale of Hazidkal]]
 			- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Astere of the Night Sky\|Astere of the Night Sky]]
 			- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios the Radiant Truth]]
 			- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade\|Maahes of Shield and Blade]]
@@ -118,12 +119,11 @@
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects Of Thalassus/Aethenius, the Scholar\|Aethenius, the Scholar]]
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects Of Thalassus/Anuket, the Flowing Water\|Anuket, the Flowing Water]]
 			- **Aspects of The Earth Mother**
-				- **The Winds**
+				- **[[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/The Winds/The Winds\|The Winds]]**
 					- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/The Winds/Ahksha, the Western Wind\|Ahksha, the Western Wind]]
 					- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/The Winds/Douma, the Southern Wind\|Douma, the Southern Wind]]
 					- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/The Winds/Estes, the Eastern Wind\|Estes, the Eastern Wind]]
 					- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/The Winds/Faria, the Northern Wind\|Faria, the Northern Wind]]
-					- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/The Winds/The Winds\|The Winds]]
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/Chiriki, the Huntress\|Chiriki, the Huntress]]
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/Damu, the Green\|Damu, the Green]]
 			- **Aspects of the Fates**
@@ -136,18 +136,14 @@
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Other Minor Deities/Auguri, the Mage\|Auguri, the Mage]]
 				- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Other Minor Deities/Jaraxx, the Rot\|Jaraxx, the Rot]]
 		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder Gods]]
-		- [[Major Gods\|Major Gods]]
-		- [[Minor Gods\|Minor Gods]]
 	- **Domains**
 	- **Religions**
-		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn\|Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn]]
-		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Nightwatchers\|Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Nightwatchers]]
-	- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood]]
+		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn\|Battlesworn]]
+		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Nightwatchers\|Nightwatchers]]
+	- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]]
 - **50. Appendix 1,  Rules**
 	- [[Irithiel/Irithiel, the Shattered World/50. Appendix 1,  Rules/Feat- Crafty\|Feat- Crafty]]
 	- [[Irithiel/Irithiel, the Shattered World/50. Appendix 1,  Rules/Piety - Optional Rule\|Piety - Optional Rule]]
-
-
 
 
 

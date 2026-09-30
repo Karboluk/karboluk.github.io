@@ -10,7 +10,7 @@
 # Holder of the Giant's Mark![Gudvaer Hranalfsdottir.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Gudvaer%20Hranalfsdottir.jpg)
 
 ## An Ancient Among Children
-Gudvaer is by far the oldest member of the Njardarheimr Goliath, who live in the wastes east of the Shining Vale circa VR-372.  Her old and hunched frame means she walks with a pronounced limp, but her pride means she will refuse any overt assistance. 
+Gudvaer is by far the oldest member of the [[Njardarheimr Goliath\|Njardarheimr Goliath]], who live in the wastes east of the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] circa VR-372.  Her old and hunched frame means she walks with a pronounced limp, but her pride means she will refuse any overt assistance. 
 
 Gudvaer is clearly the power behind this tribe, and any choice she makes is enacted. It is her guidance that chooses the tribe's path, her words that shape their beliefs, and her anger that cows any unacceptable disorder.
 
@@ -24,7 +24,7 @@ This information is as understood and communicated by Gudvaer Hennigsdottir, the
 Gudvaer says she does not practice magic, but did word this as "I have not done so in a long time". Her tolerance of Dis, the Tunglnorn (Moon Witch) and her magics differs from the broad society she has guided.  
   
 ### Gudvaer's recounting of the prophecy:  
-"Damu gave her prophecy as such: The Earth Mother will be rent asunder, the world will end and the mother will begin dying; but this will be healed once the mark is used. All will be made as it was, before. The prophecy, hence the mark, was divided into three pieces, to better keep it safe until the correct time.  
+"[[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/Damu, the Green\|Damu]] gave her prophecy as such: The [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel\|Earth Mother]] will be rent asunder, the world will end and the mother will begin dying; but this will be healed once the mark is used. All will be made as it was, before. The prophecy, hence the mark, was divided into three pieces, to better keep it safe until the correct time.  
   
 - To the Giants, Damu gave the flat places, for their far sight there could keep their mark safe.  
 - To the Dragons, Damu gave the heights, for their ability to fly to those heights could keep their mark safe.  
