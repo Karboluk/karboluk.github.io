@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/50-appendix-1-rules/piety-optional-rule/","dg-note-properties":{"aliases":["Piety","Piety - Optional Rule"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/50-appendix-1-rules/piety-optional-rule/","dg-note-properties":{"aliases":["Piety","Piety - Optional Rule"]}}
 ---
 
 Piety is an Optional Rule from the *Mythic Odysseys of Theros* sourcebook for 5th Edition Dungeons and Dragons, published in 2020. 

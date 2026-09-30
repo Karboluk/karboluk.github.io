@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/faria-the-northern-wind/","dg-note-properties":{"aliases":["Faria","Faria, the Northern Wind"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/faria-the-northern-wind/","dg-note-properties":{"aliases":["Faria","Faria, the Northern Wind"]}}
 ---
 
 *Faria is a strong example of what a god should be, in my opinion; she is engaged in the mortal world, opinionated, capricious, merciless and just free enough with her power that mortals have a positive opinion of her- so they keep coming back for more.

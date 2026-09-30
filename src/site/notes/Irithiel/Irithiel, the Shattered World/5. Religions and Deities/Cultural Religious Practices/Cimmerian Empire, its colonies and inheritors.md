@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/cultural-religious-practices/cimmerian-empire-its-colonies-and-inheritors/","dg-note-properties":{"Players":true,"aliases":null}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/cultural-religious-practices/cimmerian-empire-its-colonies-and-inheritors/","dg-note-properties":{"aliases":null}}
 ---
 
 

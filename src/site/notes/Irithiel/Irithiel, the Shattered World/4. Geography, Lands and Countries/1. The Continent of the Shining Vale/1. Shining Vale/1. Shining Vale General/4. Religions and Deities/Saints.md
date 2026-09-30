@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/saints/","dg-note-properties":{"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/saints/","dg-note-properties":{}}
 ---
 
 # Cultural Practice
@@ -8,7 +8,7 @@ Like most Cimmerian-derived human civilizations, the Kingdom of the [[Irithiel/I
 
 ## The Heroes of the Vale
 
-The company of heroes who made the Vale safe in the years up to the founding of the Kingdom have largely been remembered and venerated. Notably absent are the dwarven brothers Corwyn and Ephraim Redhill, and the satyr [[Panstanello-VR372\|Panstanello]]. The Redhills, being outside the human culture and working in tandem with the Kingdom rather than explicitly inside of it, were considered; but [[Ephraim Redhill-VR372\|Ephraim Redhill]], who became the founder and Duke of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Duchy Redhill\|Duchy Redhill]] and later [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]], steadfastly refused to allow for this to happen, citing his own people religious practices.
+The company of heroes who made the Vale safe in the years up to the founding of the Kingdom have largely been remembered and venerated. Notably absent are the dwarven brothers Corwyn and Ephraim Redhill, and the satyr [[Panstanello-VR372\|Panstanello]]. The Redhills, being outside the human culture and working in tandem with the Kingdom rather than explicitly inside of it, were considered; but [[Ephraim Redhill-VR372\|Ephraim Redhill]], who became the founder and Duke of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Duchy Redhill\|Duchy Redhill]] and later [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]], steadfastly refused to allow for this to happen, citing his own people's religious practices.
 
 [[Panstanello-VR372\|Panstanello]] had become corrupted prior to the final pacification of the Vale, and was never considered.
 

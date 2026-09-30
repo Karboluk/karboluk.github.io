@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/helios-the-radiant-truth/","dg-note-properties":{"aliases":["Helios","Lux","Helios the Radiant Truth"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/helios-the-radiant-truth/","dg-note-properties":{"aliases":["Helios","Lux","Helios the Radiant Truth"]}}
 ---
 
 *Helios is a boring god, with boring ideals and a boring fascination with mortals; but there are very few more powerful than he. Perhaps it is good that he's so preoccupied.

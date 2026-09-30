@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/other-minor-deities/jaraxx-the-rot/","dg-note-properties":{"aliases":["Jaraxx","Jaraxx, the Rot"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/other-minor-deities/jaraxx-the-rot/","dg-note-properties":{"aliases":["Jaraxx","Jaraxx, the Rot"]}}
 ---
 
 *Quite a gentleman, in fact. He tends a good garden- you should go see it sometime.

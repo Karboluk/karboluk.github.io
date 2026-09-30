@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/c-a-l-i-s-t-o/","dg-note-properties":{"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/c-a-l-i-s-t-o/","dg-note-properties":{}}
 ---
 
 

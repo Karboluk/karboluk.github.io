@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesthenes-the-glorious/","dg-note-properties":{"aliases":["Aesthenes","St. Agatha","Aesthenes, the Glorious"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesthenes-the-glorious/","dg-note-properties":{"aliases":["Aesthenes","St. Agatha","Aesthenes, the Glorious"]}}
 ---
 
 

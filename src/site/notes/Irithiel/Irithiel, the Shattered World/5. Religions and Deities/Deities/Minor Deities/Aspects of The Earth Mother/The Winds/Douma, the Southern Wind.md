@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/douma-the-southern-wind/","dg-note-properties":{"aliases":["Douma","Douma, the Southern Wind"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/douma-the-southern-wind/","dg-note-properties":{"aliases":["Douma","Douma, the Southern Wind"]}}
 ---
 
 *Douma is not someone you want to mess with- if you see her coming, you leave. There really is no other option.

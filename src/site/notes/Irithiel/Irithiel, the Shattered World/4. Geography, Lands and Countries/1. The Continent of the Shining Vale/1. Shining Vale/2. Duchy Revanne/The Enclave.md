@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/the-enclave/","dg-note-properties":{"aliases":"The Enclave","Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/the-enclave/","dg-note-properties":{"aliases":"The Enclave"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/ascent-to-godhood/","dg-note-properties":{"aliases":["ascent","Ascent to Godhood"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/ascent-to-godhood/","dg-note-properties":{"aliases":["ascent","Ascent to Godhood"]}}
 ---
 
 The Ascent to Godhood can happen in many ways- it's unknown how this happened to the [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder Gods]] as it predates history, and even [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]]'s ascension can only be speculated at. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/bahamut/","dg-note-properties":{"Players":true,"aliases":["Bahamut"]}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/bahamut/","dg-note-properties":{"aliases":["Bahamut"]}}
 ---
 
 

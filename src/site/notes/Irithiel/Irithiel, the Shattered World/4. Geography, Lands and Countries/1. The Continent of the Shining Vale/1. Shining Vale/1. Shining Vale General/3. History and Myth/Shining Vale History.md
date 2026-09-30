@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/3-history-and-myth/shining-vale-history/","tags":["fc-event"],"dg-note-properties":{"Players":true,"tags":["fc-event"]}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/3-history-and-myth/shining-vale-history/","tags":["fc-event"],"dg-note-properties":{"tags":["fc-event"]}}
 ---
 
 
 
 
 
-The Shining Vale was made safer and settleable by the company of heroes lead by [[Aeonath-VR372\|Aeonath-VR372]] the Civilizer, in the years VR-40 through VR-30. 
+The Shining Vale was made safer and settleable by the company of heroes lead by [[Aeonath the Civilizer\|Aeonath the Civilizer]], in the years VR-40 through VR-30. 
 
 
 <span data-category='orange' data-calendar="The Cycle" data-date='-42' data-img='Inline Example/Event_2.jpg' data-name='Aeonath Receives his Quest'>-42 VR, The Heroes are Called</span>

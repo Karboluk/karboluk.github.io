@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/irithiel-the-shattered-world/","tags":["gardenEntry"],"dg-note-properties":{"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/irithiel-the-shattered-world/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
@@ -48,7 +48,6 @@
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Trodena\|Trodena]]
 			- **4. Duchy Redhill**
 				- **Maps**
-
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Duchy Redhill\|Duchy Redhill]]
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Ironhelm\|Ironhelm]]
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Sounders\|Sounders]]
@@ -141,6 +140,9 @@
 		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn\|Battlesworn]]
 		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Nightwatchers\|Nightwatchers]]
 	- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]]
+- **49. Session Notes**
+	- **Uploads for the Players**
+		- [[Irithiel/Irithiel, the Shattered World/49. Session Notes/Uploads for the Players/Session 72, 2026-09-29\|Session 72, 2026-09-29]]
 - **50. Appendix 1,  Rules**
 	- [[Irithiel/Irithiel, the Shattered World/50. Appendix 1,  Rules/Feat- Crafty\|Feat- Crafty]]
 	- [[Irithiel/Irithiel, the Shattered World/50. Appendix 1,  Rules/Piety - Optional Rule\|Piety - Optional Rule]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/haut-revanne/","dg-note-properties":{"aliases":["Haut-Revanne"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/2-duchy-revanne/haut-revanne/","dg-note-properties":{"aliases":null}}
 ---
 
 Capital of the Shining Vale, in the southern part of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne\|Duchy Revanne]]. [[Irithiel/ZZZ. Private DM Info/2. Characters/Non-Player Characters/VR372/Neutral/Nobility/Duchy Revanne/King Jules-Etienne Revanne IV-Master\|King Jules-Etienne Revanne IV-Master]]'s palace is here, as are many Cathedrals and other important locations.

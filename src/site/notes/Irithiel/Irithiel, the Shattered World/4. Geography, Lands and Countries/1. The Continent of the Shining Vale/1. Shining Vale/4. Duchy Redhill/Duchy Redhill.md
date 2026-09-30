@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/4-duchy-redhill/duchy-redhill/","dg-note-properties":{"Players":true,"aliases":["Duchy Redhill"]}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/4-duchy-redhill/duchy-redhill/","dg-note-properties":{"aliases":null}}
 ---
 
 
@@ -7,4 +7,4 @@ Duchy Redhill was founded by [[Ephraim Redhill-VR372\|Ephraim Redhill]] at the s
 
 The Capital of Duchy Redhill is [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Ironhelm\|Ironhelm]], and the current Duke is [[Rugan Redhill\|Rugan Redhill]], son of [[Ephraim Redhill-VR372\|Ephraim Redhill]]. He has been the Duke since VR 154, when Ephraim officially abdicated in Rugan's favor in order to explore and found lands to the east, which became [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]] only a few years later in VR 156.
 
-
+![Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Maps/Duchies Revanne and Redhill VR372 hi-res.jpg](/img/user/Irithiel/Irithiel,%20the%20Shattered%20World/4.%20Geography,%20Lands%20and%20Countries/1.%20The%20Continent%20of%20the%20Shining%20Vale/1.%20Shining%20Vale/2.%20Duchy%20Revanne/Maps/Duchies%20Revanne%20and%20Redhill%20VR372%20hi-res.jpg)

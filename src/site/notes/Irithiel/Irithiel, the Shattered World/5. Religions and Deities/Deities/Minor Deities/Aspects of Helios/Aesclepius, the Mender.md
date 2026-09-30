@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesclepius-the-mender/","dg-note-properties":{"aliases":["Aesclepius","St. Lucia","Aesclepius, the Mender"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/aesclepius-the-mender/","dg-note-properties":{"aliases":["Aesclepius","St. Lucia","Aesclepius, the Mender"]}}
 ---
 
 *Healing an injury used to be impossible for mortal folk, which meant I could do good business in the restoration or replacement of injured body parts. That is long past, now, but my memory is long and I am resentful. But I also would prefer not to be incinerated the the Sun God- who is likely the only one capable of doing so outside of the [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder Gods]]- not that he'd even note my small presence.

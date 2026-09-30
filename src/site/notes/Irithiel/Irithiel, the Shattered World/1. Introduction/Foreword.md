@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/1-introduction/foreword/","dg-note-properties":{"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/1-introduction/foreword/","dg-note-properties":{}}
 ---
 
 

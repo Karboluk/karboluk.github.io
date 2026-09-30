@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/the-winds/","dg-note-properties":{"Players":true,"aliases":["The Winds"]}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/the-winds/","dg-note-properties":{"aliases":["The Winds"]}}
 ---
 
 

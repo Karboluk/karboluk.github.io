@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/anuket-the-flowing-water/","dg-note-properties":{"aliases":["Anuket","Anuket, the Flowing Water"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/anuket-the-flowing-water/","dg-note-properties":{"aliases":["Anuket","Anuket, the Flowing Water"]}}
 ---
 
 

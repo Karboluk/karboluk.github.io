@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/religions/battlesworn/","dg-note-properties":{"Players":true,"aliases":["Battlesworn"]}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/religions/battlesworn/","dg-note-properties":{"aliases":["Battlesworn"]}}
 ---
 
 

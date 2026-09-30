@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/50-appendix-1-rules/feat-crafty/","dg-note-properties":{"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/50-appendix-1-rules/feat-crafty/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/other-minor-deities/auguri-the-mage/","dg-note-properties":{"aliases":["Caleb Druth","Auguri","Adoric"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/other-minor-deities/auguri-the-mage/","dg-note-properties":{"aliases":["Caleb Druth","Auguri","Adoric"]}}
 ---
 
 

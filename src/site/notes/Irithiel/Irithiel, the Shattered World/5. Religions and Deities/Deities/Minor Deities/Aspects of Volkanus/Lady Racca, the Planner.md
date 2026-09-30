@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner/","dg-note-properties":{"aliases":["St. Aeonath","Lady Racca","Lady Racca, the Planner"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner/","dg-note-properties":{"aliases":["St. Aeonath","Lady Racca","Lady Racca, the Planner"]}}
 ---
 
 

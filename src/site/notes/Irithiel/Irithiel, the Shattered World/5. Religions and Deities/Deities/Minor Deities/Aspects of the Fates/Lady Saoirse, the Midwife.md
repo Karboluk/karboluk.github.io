@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/lady-saoirse-the-midwife/","dg-note-properties":{"aliases":["Lady Saoirse","St. Elyse","Lady Saoirse, the Midwife"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/lady-saoirse-the-midwife/","dg-note-properties":{"aliases":["Lady Saoirse","St. Elyse","Lady Saoirse, the Midwife"]}}
 ---
 
 *The world would be much less crowded without the intervention of Lady Saoirse, and there would be many more desperate soon-to-be parents. I suppose it comes out a wash.

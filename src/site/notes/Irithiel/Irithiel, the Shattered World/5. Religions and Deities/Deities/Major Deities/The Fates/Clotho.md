@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/clotho/","dg-note-properties":{"Players":true,"aliases":["Clotho"]}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/clotho/","dg-note-properties":{"aliases":["Clotho"]}}
 ---
 
 *Clotho is the most banal, ineffectual, weak being I know of. That is to say, she is unusually kind and gracious.

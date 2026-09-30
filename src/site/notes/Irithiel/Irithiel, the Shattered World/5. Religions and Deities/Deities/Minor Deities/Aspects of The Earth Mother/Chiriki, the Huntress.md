@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/chiriki-the-huntress/","dg-note-properties":{"aliases":["Chiriki","Chiriki, the Huntress"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/chiriki-the-huntress/","dg-note-properties":{"aliases":["Chiriki","Chiriki, the Huntress"]}}
 ---
 
 *One should not insult, rebuke or ignore the Huntress. She comes from an age before mortals were gifted civilization by [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]], and she hasn't learned many niceties since then.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/dun-the-smelter/","dg-note-properties":{"aliases":["Dun","Dun, the Smelter"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/dun-the-smelter/","dg-note-properties":{"aliases":["Dun","Dun, the Smelter"]}}
 ---
 
 

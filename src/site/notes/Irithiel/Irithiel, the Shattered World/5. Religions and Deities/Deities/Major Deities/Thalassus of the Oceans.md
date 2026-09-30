@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/thalassus-of-the-oceans/","dg-note-properties":{"aliases":["Thalassus","Argos","Thalassus of the Oceans"],"Players":true}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/thalassus-of-the-oceans/","dg-note-properties":{"aliases":["Thalassus","Argos","Thalassus of the Oceans"]}}
 ---
 
 *The old soggy King of the Depths knows a thing or two about patience. I wonder what he and the Earth Mother discussed when they were the only True Gods in this realm. He'd never tell, and she doesn't talk.
