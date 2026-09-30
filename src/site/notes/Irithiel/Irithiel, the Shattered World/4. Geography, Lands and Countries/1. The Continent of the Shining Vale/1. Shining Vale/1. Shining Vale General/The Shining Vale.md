@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale/","dg-note-properties":{"Players":true,"aliases":["The Shining Vale"]}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/the-shining-vale/","dg-note-properties":{"aliases":["The Shining Vale"]}}
 ---
 
 
@@ -8,7 +8,7 @@
 The Vale is divided into 4 Duchies, [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne\|Duchy Revanne]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Duchy Truscia\|Duchy Truscia]], and [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Duchy Redhill\|Duchy Redhill]]. Each is ruled by a Duke, who in turn owe allegiance to the King in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Haut-Revanne\|Haut-Revanne]].
 
 
-
+![Shining Vale.jpg](/img/user/Irithiel/Irithiel,%20the%20Shattered%20World/4.%20Geography,%20Lands%20and%20Countries/1.%20The%20Continent%20of%20the%20Shining%20Vale/1.%20Shining%20Vale/1.%20Shining%20Vale%20General/1.%20Maps/Shining%20Vale.jpg)
 
 
 
