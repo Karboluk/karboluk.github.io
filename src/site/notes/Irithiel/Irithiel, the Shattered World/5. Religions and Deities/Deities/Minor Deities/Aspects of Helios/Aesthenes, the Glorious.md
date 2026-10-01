@@ -6,10 +6,10 @@
 *One can not help but look at Aesthenes, it's looking away that takes willpower. Many have died making the attempt, generally of dehydration or exposure to the elements.
 -Reyvan*
 
-Aesthenes is a [[Minor Gods\|Minor God]].
+Aesthenes is a Minor God.
 ###### Regional Names: 
 She Who Inspires
-St. Agatha ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]], [[Lausanne-VR372\|Lausanne]])
+St. Agatha ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]], [[Lausanne\|Lausanne]])
 ###### Domains: 
 Life, Light, Peace, Trickery
 
@@ -37,7 +37,7 @@ Aesthenes is the Muse of Beauty, and works to make all things beautiful. Her sta
 
 ## Origins:
 
-During the reconstruction of [[Bassaria-VR372\|Bassaria]] after the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands-VR372]], the once-majestic civilization was in ruin. Cities had been shaken to rubble, and sometimes even split by the newly-formed oceans; and despite the new rule of justice under [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Themis, the Righteous\|Themis]], the people still lost hope. [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]] saw their despair and resolved to give them reason for hope and cheer; and thus in an instant was born Aesthenes, the very idea of Beauty. 
+During the reconstruction of [[Bassaria\|Bassaria]] after the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]], the once-majestic civilization was in ruin. Cities had been shaken to rubble, and sometimes even split by the newly-formed oceans; and despite the new rule of justice under [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Themis, the Righteous\|Themis]], the people still lost hope. [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]] saw their despair and resolved to give them reason for hope and cheer; and thus in an instant was born Aesthenes, the very idea of Beauty. 
 
 
 ## Activity:

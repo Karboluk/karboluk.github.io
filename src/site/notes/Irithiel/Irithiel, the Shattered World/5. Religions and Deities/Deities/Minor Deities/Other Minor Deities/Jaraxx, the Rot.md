@@ -5,7 +5,7 @@
 *Quite a gentleman, in fact. He tends a good garden- you should go see it sometime.
 -Reyvan*
 
-Jaraxx is a [[Minor Gods\|Minor God]].
+Jaraxx is a Minor God.
 
 ###### Regional Names: 
 He Who Spreads Things Through Others
@@ -40,7 +40,7 @@ None.
 
 ## Origins:
 
-Jaraxx was pulled from a pile of rotting corpses by [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of the Fates/Lady Saoirse, the Midwife\|Lady Saoirse]] before the [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|ascent]] of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Quidun the Wise and Beneficent\|Quidun]], which was stopped. He became active almost immediately to prevent the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]], but was unsuccessful. He is the only known [[Minor Gods\|Minor God]] to come from the aborted ascent of Quidun, so either it was stopped early, or we aren't yet aware of them.
+Jaraxx was pulled from a pile of rotting corpses by [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of the Fates/Lady Saoirse, the Midwife\|Lady Saoirse]] before the [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|ascent]] of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Quidun the Wise and Beneficent\|Quidun]], which was stopped. He became active almost immediately to prevent the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]], but was unsuccessful. He is the only known Minor God to come from the aborted ascent of Quidun, so either it was stopped early, or we aren't yet aware of them.
 
 
 ## Activity:

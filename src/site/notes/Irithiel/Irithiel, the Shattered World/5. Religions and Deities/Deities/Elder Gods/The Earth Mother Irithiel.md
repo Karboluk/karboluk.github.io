@@ -5,7 +5,7 @@
 *When I first stepped foot upon her, she was still hot from her Incarnation. Painful, even for one like me. She's really developed since then, but I miss the days when an errant mortal would speak her name in vain, and the ground would open up and swallow him whole. Good times.
 -Reyvan*
 
-The Earth mother is an [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder God]]
+The Earth mother is an Elder God
 
 ###### Regional Names: 
 She Who Is Our Home

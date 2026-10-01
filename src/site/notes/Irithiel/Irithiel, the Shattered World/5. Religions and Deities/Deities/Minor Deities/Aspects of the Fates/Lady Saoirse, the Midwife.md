@@ -5,11 +5,11 @@
 *The world would be much less crowded without the intervention of Lady Saoirse, and there would be many more desperate soon-to-be parents. I suppose it comes out a wash.
 -Reyvan*
 
-Lady Saoirse is a [[Minor Gods\|Minor God]].
+Lady Saoirse is a Minor God.
 
 ###### Regional Names: 
 She Who Brings New Life
-St. Elyse ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne\|Duchy Revanne]], [[Lausanne-VR372\|Lausanne]]), Lady Saoirse ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]])
+St. Elyse ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne\|Duchy Revanne]], [[Lausanne\|Lausanne]]), Lady Saoirse ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]])
 ###### Domains: 
 Life, Peace
 

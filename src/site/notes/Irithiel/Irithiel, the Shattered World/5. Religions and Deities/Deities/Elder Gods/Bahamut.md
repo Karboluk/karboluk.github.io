@@ -3,7 +3,7 @@
 ---
 
 
-Bahamut is an [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder God]]
+Bahamut is an Elder God
 
 ##### Name:
 

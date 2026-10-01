@@ -5,11 +5,11 @@
 *There is nothing quite as evil as being told to accept and forgive what your enemy has done. Do not listen to these seductive lies, there are always ways to make them pay; and if you can not think of any, I am willing to make a deal to help you.
 -Reyvan*
 
-Parvati is a [[Minor Gods\|Minor God]].
+Parvati is a Minor God.
 
 ###### Regional Names: 
 She Who Embraces
-St. Annabella ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]], [[Lausanne-VR372\|Lausanne]])
+St. Annabella ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]], [[Lausanne\|Lausanne]])
 ###### Domains: 
 Life, Light, Peace
 
@@ -38,7 +38,7 @@ Parvati wants the best for all mortals, and believes that if everyone accepted e
 
 ## Origins:
 
-When the initial issues in [[Bassaria-VR372\|Bassaria]], following the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands-VR372]], had been addressed by [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Themis, the Righteous\|Themis]] and [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Aesthenes, the Glorious\|Aesthenes]], [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]] saw the people harbouring lingering resentments, jealousy over the newfound beautiful things they had made, and beginning to fracture into tribes. Wanting to revive the glory of Bassaria, Helios wished for the people to accept and forgive the past, so as to be able to make a common future: thus was born Parvati, the very idea of Love.
+When the initial issues in [[Bassaria\|Bassaria]], following the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]], had been addressed by [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Themis, the Righteous\|Themis]] and [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Aesthenes, the Glorious\|Aesthenes]], [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]] saw the people harbouring lingering resentments, jealousy over the newfound beautiful things they had made, and beginning to fracture into tribes. Wanting to revive the glory of Bassaria, Helios wished for the people to accept and forgive the past, so as to be able to make a common future: thus was born Parvati, the very idea of Love.
 
 
 ## Activity:

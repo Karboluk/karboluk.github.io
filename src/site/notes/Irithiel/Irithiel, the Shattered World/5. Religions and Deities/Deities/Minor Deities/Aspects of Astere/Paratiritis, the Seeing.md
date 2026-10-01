@@ -5,7 +5,7 @@
 *An unstoppable voyeur who can breach all but the most powerful of protections, and see all? Why, oh why, was I not so endowed. The only saving grace I see (yes, that joke was intentional) is that I at least have the capacity to care about the things I investigate.
 -Reyvan*
 
-Paratiritis is a [[Minor Gods\|Minor God]].
+Paratiritis is a Minor God.
 
 ###### Regional Names: 
 He Who Sees All and Understands Nothing
@@ -42,7 +42,7 @@ As with his Mistress, Paratiritis' origins are a mystery. When she appeared, so 
 
 ## Activity:
 
-Paratiritis spends most of his time in the [[Great Temple in the Sky-VR372\|Great Temple in the Sky]], where the [[Obelisks of Power-VR372\|Obelisk]] of Divination can be found, alongside [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of the Fates/Fantis, the Weaver of Beads\|Fantis]]. He has a good view from there, which doesn't matter in the slightest to him of course, but it must be peaceful.
+Paratiritis spends most of his time in the [[Great Temple in the Sky\|Great Temple in the Sky]], where the [[Irithiel/ZZZ. Private DM Info/5. History and Myths/Other Places/Obelisks of Power-Master\|Obelisk]] of Divination can be found, alongside [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of the Fates/Fantis, the Weaver of Beads\|Fantis]]. He has a good view from there, which doesn't matter in the slightest to him of course, but it must be peaceful.
 
 ## Desired Behaviour in Followers:
 

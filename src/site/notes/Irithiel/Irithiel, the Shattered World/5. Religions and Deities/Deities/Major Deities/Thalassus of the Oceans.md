@@ -5,16 +5,16 @@
 *The old soggy King of the Depths knows a thing or two about patience. I wonder what he and the Earth Mother discussed when they were the only True Gods in this realm. He'd never tell, and she doesn't talk.
 -Reyvan*
 
-Thalassus is a [[Major Gods\|Major God]]
+Thalassus is a Major God
 
 ###### Regional Names: 
 He Whose Depths Remember
-Argos ([[Thracia-VR372\|Thracia]]), The Drowning One, Wise Uncle
+Argos ([[Thracia\|Thracia]]), The Drowning One, Wise Uncle
 ###### Domains: 
 [[Domain-Knowledge\|Knowledge]],[[Domain-Nature\|Nature]],[[Domain-Tempest\|Tempest]]
 
 ###### Regional Worship: 
-Travellers ([[Thracia-VR372\|Thracia]]), [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Sounders\|Sounders]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Duchy Redhill\|Duchy Redhill]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])
+Travellers ([[Thracia\|Thracia]]), [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Sounders\|Sounders]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/4. Duchy Redhill/Duchy Redhill\|Duchy Redhill]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])
 
 
 
@@ -36,7 +36,7 @@ Thalassus and [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/
 
 ## Origins:
 
-The original mortal ruler, [[King Apsu-Toli-VR372\|King Apsu-Toli]] ruling the [[Bassaria-VR372\|Bassarian]] culture, Thalassus's [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]] caused the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]], an event which split the continents apart- filling the voids left behind with the majesty of his waters. This is the first time that the ascent of a [[Major Gods\|Major God]] created catastrophe, which has been the most common result since. 
+The original mortal ruler, [[King Apsu-Toli\|King Apsu-Toli]] ruling the [[Bassaria\|Bassarian]] culture, Thalassus's [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]] caused the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]], an event which split the continents apart- filling the voids left behind with the majesty of his waters. This is the first time that the ascent of a Major God created catastrophe, which has been the most common result since. 
 
 ## Desired Behavior in Followers:
 You increase your piety score to Thalassus when you expand the god’s influence in the world in a concrete way through acts such as these:

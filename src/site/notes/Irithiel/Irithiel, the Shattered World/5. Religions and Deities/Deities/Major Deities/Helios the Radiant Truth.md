@@ -5,7 +5,7 @@
 *Helios is a boring god, with boring ideals and a boring fascination with mortals; but there are very few more powerful than he. Perhaps it is good that he's so preoccupied.
 -Reyvan*
 
-Helios is a [[Major Gods\|Major God]]
+Helios is a Major God
 
 ###### Regional Names: 
 He Who Shines Light On All Things
@@ -14,7 +14,7 @@ Lux ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/
 Death, Life, Light, Order, War
 
 ###### Regional Worship: 
-Lawbringers ([[Thracia-VR372\|Thracia]]). Most current mortals worship his [[Aspect Deities-VR372\|Aspects]] rather than Helios directly.
+Lawbringers ([[Thracia\|Thracia]]). Most current mortals worship his [[Aspect Deities\|Aspects]] rather than Helios directly.
 
 
 
@@ -38,16 +38,16 @@ Helios has a deep and unflagging love of mortals, to the point that I suspect he
 
 The second oldest of the [[Major Gods\|Major Gods]], it's known from archaeological evidence that Helios was venerated by the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire\|Luxan Empire]], meaning he predates the first major civilization. Given his remit, it is likely that he gifted civilization to mortals, and the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire\|Luxan Empire]] was the result.  
 
-Helios, unlike the [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel\|Earth Mother]] and the other [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder Gods]], is known to have Ascended, which is why he is classified as a [[Major Gods\|Major God]]; [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/The Winds/The Winds\|The Winds]] have made this fact clear, but refuse to discuss it further. Due to the passage of time and the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands-VR372]], there is no record of the catastrophe caused by his [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]], but the lines of power that we now know run below the ancient Luxan sites may be evidence of what happened given their veneration of the Sun God.
+Helios, unlike the [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel\|Earth Mother]] and the other [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder Gods]], is known to have Ascended, which is why he is classified as a Major God; [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of The Earth Mother/The Winds/The Winds\|The Winds]] have made this fact clear, but refuse to discuss it further. Due to the passage of time and the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]], there is no record of the catastrophe caused by his [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]], but the lines of power that we now know run below the ancient Luxan sites may be evidence of what happened given their veneration of the Sun God.
 
-It is generally assumed that Helios is, in all real meanings of the word, [[The Sun-VR372\|the Sun]].
+It is generally assumed that Helios is, in all real meanings of the word, [[The Sun\|the Sun]].
 
 
 ## Activity:
 Helios above almost all else loves mortals. He guides, encourages, castigates, and generally parents them constantly.
 
 
-Recently, Helios is suspected to be involved in the creation of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]. His motives for this activity are not known, but it is suspected that he encouraged the settling of the Vale and was behind the activities of [[Aeonath-VR372\|Aeonath]] and his troupe.
+Recently, Helios is suspected to be involved in the creation of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]. His motives for this activity are not known, but it is suspected that he encouraged the settling of the Vale and was behind the activities of [[Aeonath\|Aeonath]] and his troupe.
 
 ## Desired Behaviour in Followers:
 Helios rewards ambition, the pursuit of knowledge, the pursuit of justice and the appreciation for the good things in life. 

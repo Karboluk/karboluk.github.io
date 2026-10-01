@@ -9,6 +9,6 @@
 She Who Is Possibility and Entropy.
 
 ## Nature:
-Tiamat is an [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder God]], imprisoned in Avernus by Asmodeus in ages past. It's not known why, or even really when. Could she escape? Possibly. Does she try? No, but she has agents try to break her out. 
+Tiamat is an Elder God, imprisoned in Avernus by Asmodeus in ages past. It's not known why, or even really when. Could she escape? Possibly. Does she try? No, but she has agents try to break her out. 
 
 It's clear that she has plans and equally clear that we don't know what they are.

@@ -5,11 +5,11 @@
 *One should not insult, rebuke or ignore the Huntress. She comes from an age before mortals were gifted civilization by [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]], and she hasn't learned many niceties since then.
 -Reyvan*
 
-Chiriki is a [[Minor Gods\|Minor God]].
+Chiriki is a Minor God.
 
 ###### Regional Names: 
 She Who Stalks and Pounces
-Atalanta ([[Thracia-VR372\|Thracia]]), Siki of Spear and Bow (Goliath of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]])
+Atalanta ([[Thracia\|Thracia]]), Siki of Spear and Bow (Goliath of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]])
 ###### Domains: 
 Nature, Trickery, War
 
@@ -17,7 +17,7 @@ Nature, Trickery, War
 
 Worship of Chiriki is often cult-like and can sometimes be confused with worship of Baphomet by those too lazy to pay attention to detail. 
 
-In [[Thracia-VR372\|Thracia]], Chiriki (as Atalanta) has temples where mainly women, but still some men, serve in a state of celibacy. These Vestal Priestesses and Priests do not participate in hunts outside of ritual, but serve as advisors and strategists in war. 
+In [[Thracia\|Thracia]], Chiriki (as Atalanta) has temples where mainly women, but still some men, serve in a state of celibacy. These Vestal Priestesses and Priests do not participate in hunts outside of ritual, but serve as advisors and strategists in war. 
 
 
 ## Nature:
@@ -47,11 +47,11 @@ Chiriki stays out of mortal affairs for the most part, but will interfere in the
 
 When she does choose to interact with mortals, it is often to punish rather than to aid. She seems to have no qualms about poor hunters starving, or wild beasts destroying farms and villages. There are a few records, however, of times when mortals living in harmony with the land began to gain magical powers which let them thrive, and also to fend off more powerful and civilized peoples. 
 
-An exception to this behaviour is, of course, in [[Thracia-VR372\|Thracia]], where worship of Chiriki (as Atalanta) is a very civilized and urban affair. For those of us outside that archipelago, it seems that she perhaps tolerates this as a way to learn how to hunt humans- given the tactical and military purposes that the Vestals are put to. The [[Thracia-VR372\|Thracians]] simply have a different view of her, it seems, noting her keen eye and quick mind, and associating her to the owl, hawk or cat, but without the common hatred of civilization.
+An exception to this behaviour is, of course, in [[Thracia\|Thracia]], where worship of Chiriki (as Atalanta) is a very civilized and urban affair. For those of us outside that archipelago, it seems that she perhaps tolerates this as a way to learn how to hunt humans- given the tactical and military purposes that the Vestals are put to. The [[Thracia\|Thracians]] simply have a different view of her, it seems, noting her keen eye and quick mind, and associating her to the owl, hawk or cat, but without the common hatred of civilization.
 
-Aside from any actions she may choose to take, The Huntress is always stalking something, somewhere in the world. I think the only beast she hasn't yet challenged is [[The Torrasque-VR372\|The Torrasque]], and it's doubtful that this exception is from lack of courage. 
+Aside from any actions she may choose to take, The Huntress is always stalking something, somewhere in the world. I think the only beast she hasn't yet challenged is [[The Tarrasque\|The Tarrasque]], and it's doubtful that this exception is from lack of courage. 
 
-*I can not state this with certainty, but a rumour has surfaced that Chiriki's unwillingness to deal with mortals is due to the fact that she was an early patron of the humans who would go on to become the [[Yuan-Ti-VR372\|Yuan-Ti]]. Perhaps she feels her attempt to guide them failed, and has simply moved to easier targets since then.
+*I can not state this with certainty, but a rumour has surfaced that Chiriki's unwillingness to deal with mortals is due to the fact that she was an early patron of the humans who would go on to become the [[Yuan-Ti\|Yuan-Ti]]. Perhaps she feels her attempt to guide them failed, and has simply moved to easier targets since then.
 -Reyvan*
 
 

@@ -6,7 +6,7 @@
 *Dun is the most straightforward being in terms of his mind, and the most convoluted being in terms of his physicality. He is a tool, but a pan-dimensional one.
 -Reyvan*
 
-Dun is a [[Minor Gods\|Minor God]].
+Dun is a Minor God.
 
 ###### Regional Names: 
 He Who Prepares
@@ -37,7 +37,7 @@ Dun doesn't exactly have opinions, and so it's difficult to say that he has rela
 
 ## Origins:
 
-Crafted in the original Volcano in [[Thracia-VR372\|Thracia]] by [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Volkanus the Maker and Reshaper of all Things\|Volkanus]] shortly after his Ascension.
+Crafted in the original Volcano in [[Thracia\|Thracia]] by [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Volkanus the Maker and Reshaper of all Things\|Volkanus]] shortly after his Ascension.
 
 ## Activity:
 

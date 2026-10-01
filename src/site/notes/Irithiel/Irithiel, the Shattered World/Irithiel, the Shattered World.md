@@ -17,7 +17,19 @@
 	- **1. Player Characters**
 		- [[Irithiel/Irithiel, the Shattered World/2. Characters/1. Player Characters/Aysu Dullane\|Aysu Dullane]]
 	- **2. Non- Player Characters**
-		- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Gudvaer Hranalfsdottir the Seiðkona\|Gudvaer Hranalfsdottir the Seiðkona]]
+		- **Allies**
+		- **Enemies**
+		- **Neutral**
+			- **Organizations**
+				- **Dougall's Blades**
+					- **Team 1**
+					- **Team 2**
+						- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Dougall's Blades/Team 2/Antoine Lavalee\|Antoine Lavalee]]
+						- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Dougall's Blades/Team 2/Etienne Deveraux\|Etienne Deveraux]]
+						- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Dougall's Blades/Team 2/Magni Ironspark\|Magni Ironspark]]
+						- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Dougall's Blades/Team 2/Red Kora\|Red Kora]]
+						- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Dougall's Blades/Team 2/Tilde Poole\|Tilde Poole]]
+			- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Gudvaer Hranalfsdottir the Seiðkona\|Gudvaer Hranalfsdottir the Seiðkona]]
 - **3. Species and Culture**
 	- [[Irithiel/Irithiel, the Shattered World/3. Species and Culture/Species and Culture\|Species and Culture]]
 - **4. Geography, Lands and Countries**

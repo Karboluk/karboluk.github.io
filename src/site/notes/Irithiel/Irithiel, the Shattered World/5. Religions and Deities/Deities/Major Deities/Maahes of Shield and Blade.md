@@ -5,17 +5,17 @@
 *I don't think anyone has used Maahes original name in an age. I think I'll try to find some old Thracian relics where it's spelled out explicitly, and then found an organization of scholars and meditative monks to "pry open their secrets". That will really rile him up, and then we'll have some opportunities for profit.
 -Reyvan*
 
-Maahes is a [[Major Gods\|Major God]]
+Maahes is a Major God
 
 ###### Regional Names: 
 He Who Strives For Greatness
-Polemos ([[Thracia-VR372\|Thracia]]), Hargon ([[Sendria-VR372\|Sendria]]), The Fury ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni\|Subdurni]])
+Polemos ([[Thracia\|Thracia]]), Hargon ([[Sendria\|Sendria]]), The Fury ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni\|Subdurni]])
 
 ###### Domains: 
 Forge, Life, Light, Order, War.
 
 ###### Regional Worship: 
-The [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn\|Battlesworn]] ([[Thracia-VR372\|Thracia]]), [[The Brotherhood of Mithril Skin-VR372\|The Brotherhood of Mithril Skin]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])) by way of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Maahes/Kor, the Tireless\|Kor]], and the Hobgoblins and Goliath both of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]]
+The [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn\|Battlesworn]] ([[Thracia\|Thracia]]), [[The Brotherhood of Mithril Skin\|The Brotherhood of Mithril Skin]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])) by way of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Maahes/Kor, the Tireless\|Kor]], and the Hobgoblins and Goliath both of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]]
 
 
 
@@ -23,7 +23,7 @@ The [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/
 
 Maahes lives for the glory of battle, preferring honorable combat and challenge over brutality and deceptive tactics. He does not explicitly champion the causes of good, civilization, or justice, but because those causes more often lead to glory than chaos, he has become intertwined with them.
 
-Maahes reaches out to the mortals under his influence in visions, dreams, and rituals. A call to greater fury, a rejection of the fear of death, a compulsion to take up arms and do what they know must be done, in the full light of everyone involved; these are some of the ways mortals hear the call of [[The War-Horn of Maahes-VR372\|The War-Horn of Maahes]]. In particular, he tries his best to court anyone he thinks is susceptible to the path of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm\|Zatar]].
+Maahes reaches out to the mortals under his influence in visions, dreams, and rituals. A call to greater fury, a rejection of the fear of death, a compulsion to take up arms and do what they know must be done, in the full light of everyone involved; these are some of the ways mortals hear the call of [[The War-Horn of Maahes\|The War-Horn of Maahes]]. In particular, he tries his best to court anyone he thinks is susceptible to the path of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm\|Zatar]].
 
 ## Associated Minor Deities/Aspect Deities:
 
@@ -38,9 +38,9 @@ Maahes bears a particular resentment to the relatively new god [[Irithiel/Irithi
 
 ## Origins:
 
-Maahes originated in what is now [[Thracia-VR372\|Thracia]] during the invasion of [[Apophis-VR372\|Apophis]], which triggered the Sipparan War. Defeating Apophis after his [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]], Maahes's sword-stroke left the land scarred- they call it the [[Thracia-VR372\|Tiger's Stripe]] now, with a wide swath of desecrated land beyond it. 
+Maahes originated in what is now [[Thracia\|Thracia]] during the invasion of [[Apophis\|Apophis]], which triggered the Sipparan War. Defeating Apophis after his [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]], Maahes's sword-stroke left the land scarred- they call it the [[Thracia\|Tiger's Stripe]] now, with a wide swath of desecrated land beyond it. 
 
-I remember that Maahes was much more directly involved in the mortal world back then, and shaped what has become the Thracian civilization directly; I believe he wanted to prepare them to fight the undead menace in the [[Haunted Land-VR372\|Haunted Land]]. But, as many of the early gods discovered, interfering simply caused problems; the belligerence he gave the Thracians has caused much civil war and strife. This has left the Haunted Land still unconquered, and the archipelago shattered due to his continued physical presence. 
+I remember that Maahes was much more directly involved in the mortal world back then, and shaped what has become the Thracian civilization directly; I believe he wanted to prepare them to fight the undead menace in the [[Haunted Land\|Haunted Land]]. But, as many of the early gods discovered, interfering simply caused problems; the belligerence he gave the Thracians has caused much civil war and strife. This has left the Haunted Land still unconquered, and the archipelago shattered due to his continued physical presence. 
 
 
 ## Activity:

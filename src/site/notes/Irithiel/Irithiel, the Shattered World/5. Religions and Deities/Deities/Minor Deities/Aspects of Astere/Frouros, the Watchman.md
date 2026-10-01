@@ -6,16 +6,16 @@
 *The best I can say about Frouros is that every joke needs a straightman.
 -Reyvan*
 
-Frouros is a [[Minor Gods\|Minor God]].
+Frouros is a Minor God.
 
 ###### Regional Names: 
 He Who Watches So We May Rest
-Colossus ([[Thracia-VR372\|Thracia]]), Vigilance
+Colossus ([[Thracia\|Thracia]]), Vigilance
 ###### Domains: 
 Forge, Order, Peace, War
 
 ###### Regional Worship: 
-Other than in [[Thracia-VR372\|Thracia]], explicit worship of Frouros has gone out of fashion- with most large nations being more interested in warfare instead of defensive oversight, when it comes to battle. Occasionally a city state, castle, or other target will start to worship him though, so he is not entirely relegated to the background or to common sayings, like some gods have been.
+Other than in [[Thracia\|Thracia]], explicit worship of Frouros has gone out of fashion- with most large nations being more interested in warfare instead of defensive oversight, when it comes to battle. Occasionally a city state, castle, or other target will start to worship him though, so he is not entirely relegated to the background or to common sayings, like some gods have been.
 
 ## Nature:
 

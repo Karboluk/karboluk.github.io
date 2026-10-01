@@ -5,7 +5,7 @@
 *Where Helios strives for improvement, Volkanus strives for change and novelty. I find this much more relatable, if less easy to parse. If Helios would teach mortals to put fire behind glass and have a lantern, for example, Volkanus is just as likely to teach them to put fire into bread, so they could cut open a loaf and eat toast in the morning. He leaves people in such confused danger, they're easy pickings. But above all else, if you can steal from him- he does make such incredible toys...
 -Reyvan*
 
-Volkanus is a [[Major Gods\|Major God]]
+Volkanus is a Major God
 
 ###### Regional Names: 
 He Who Creates New From The Old
@@ -14,7 +14,7 @@ Moradin (Dwarven Cultural), St. [[Isolde\|Isolde]] ([[Irithiel/Irithiel, the Sha
 Forge, Knowledge, War
 
 ###### Regional Worship: 
-Among human cultures, worship of Volkanus is generally either as a Fire Cult ([[Thracia-VR372\|Thracia]]), individual eccentrics, or a proper human-lead church as in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]. Highly variable, they could be anywhere- but the signs of madness that tend to follow them aren't difficult to spot. 
+Among human cultures, worship of Volkanus is generally either as a Fire Cult ([[Thracia\|Thracia]]), individual eccentrics, or a proper human-lead church as in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]. Highly variable, they could be anywhere- but the signs of madness that tend to follow them aren't difficult to spot. 
 
 Among dwarves, he is venerated as their father; they work tirelessly to create makings worthy of him.
 
@@ -44,8 +44,8 @@ Volkanus, nearly alone among the gods, is an advocate for [[Irithiel/Irithiel, t
 Volkanus and [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Thalassus of the Oceans\|Thalassus]] are in active opposition, and their followers will sometimes become violent; except in dwarven cultures.
 ## Origins:
 
-Volkanus arose in Thracia during the height of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade\|Maahes]]' influence, as the land was being shattered and splintered by his presence. In a relatively peaceful [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]] the stories say that the large volcano, named for the God, of course, that grew between the warring cities of [[Agaria-VR372\|Agaria]]
-and [[Brekaris-VR372\|Brekaris]] was the beginning of the end for Maahes's time on this realm; when he saw how much damage he was causing to such an inferior people, his shame demanded his retreat. Volkanus rose up, bringing with him [[The Shield of Thracia-VR372\|The Shield of Thracia]], the mountain range now present; sealing almost a year of peace. 
+Volkanus arose in Thracia during the height of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade\|Maahes]]' influence, as the land was being shattered and splintered by his presence. In a relatively peaceful [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]] the stories say that the large volcano, named for the God, of course, that grew between the warring cities of [[Agaria\|Agaria]]
+and [[Brekaris\|Brekaris]] was the beginning of the end for Maahes's time on this realm; when he saw how much damage he was causing to such an inferior people, his shame demanded his retreat. Volkanus rose up, bringing with him [[The Shield of Thracia\|The Shield of Thracia]], the mountain range now present; sealing almost a year of peace. 
 
 Land was filled in and several nearby islands were rejoined to the mainland, which likely began the feud with [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Thalassus of the Oceans\|Thalassus]], but Volkanus did not remain on this realm in person. He uses his [[Minor Gods\|Minor Gods]] and Aspects as proxies for his will, often sending them to meet face-to-face with his most devoted followers; the dwarves.
 

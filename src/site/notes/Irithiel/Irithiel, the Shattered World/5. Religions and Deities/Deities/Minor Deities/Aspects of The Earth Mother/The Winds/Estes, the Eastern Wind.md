@@ -5,10 +5,10 @@
 *Estes almost feels like a love child between The Earth Mother and The Radiant Truth- and indeed he might well be. 
 -Reyvan*
 
-Estes is a [[Minor Gods\|Minor God]].
+Estes is a Minor God.
 ###### Regional Names: 
 He Who Brings Life
-Eurus ([[Thracia-VR372\|Thracia]]), The Sky Serpent, Feathered Dragon, Ouroboros
+Eurus ([[Thracia\|Thracia]]), The Sky Serpent, Feathered Dragon, Ouroboros
 ###### Domains: 
 Life, Light, Nature
 

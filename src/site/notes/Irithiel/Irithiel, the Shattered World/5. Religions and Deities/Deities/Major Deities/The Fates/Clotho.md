@@ -5,7 +5,7 @@
 *Clotho is the most banal, ineffectual, weak being I know of. That is to say, she is unusually kind and gracious.
 -Reyvan*
 
-Clotho is a [[Major Gods\|Major God]]
+Clotho is a Major God
 
 ###### Regional Names: 
 She Who Feeds the Weaving

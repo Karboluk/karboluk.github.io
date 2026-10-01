@@ -5,7 +5,7 @@
 *If you ever thought that you've been bedeviled, perhaps literally, or that a demon has possessed you to do terrible things you regret, again- possibly literally, you can thank Fantis. Don't blame us. 
 -Reyvan*
 
-Fantis is a [[Minor Gods\|Minor God]].
+Fantis is a Minor God.
 ###### Regional Names: 
 She Who Places Burdens Onto Our Lives
 The Spider, Bringer of Sorrow
@@ -13,7 +13,7 @@ The Spider, Bringer of Sorrow
 Knowledge, Order
 
 ###### Regional Worship: 
-Fantis is more appeased than worshipped by mortals. They want to keep her ministrations far, far away. Fantis does, however, provide services for [[Oracles-VR372\|Oracles]].
+Fantis is more appeased than worshipped by mortals. They want to keep her ministrations far, far away. Fantis does, however, provide services for [[Oracles\|Oracles]].
 
 ## Nature:
 
@@ -39,7 +39,7 @@ Given the manner of ascent of [[Irithiel/Irithiel, the Shattered World/5. Religi
 
 ## Activity:
 
-Fantis can't spare time to leave her table, but she can move it. She has been found in many places over time; usually in places of oracular prophecy. At last notice, she was in the [[Great Temple in the Sky-VR372\|Great Temple in the Sky]] where the [[Obelisks of Power-VR372\|Obelisk of Divination]] can be found. 
+Fantis can't spare time to leave her table, but she can move it. She has been found in many places over time; usually in places of oracular prophecy. At last notice, she was in the [[Great Temple in the Sky\|Great Temple in the Sky]] where the [[Irithiel/ZZZ. Private DM Info/5. History and Myths/Other Places/Obelisks of Power-Master\|Obelisk of Divination]] can be found. 
 
 Angering or slighting Fantis or [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/The Fates/Lachesis\|Lachesis]] usually ends up with more weights set on your thread. Those who find ways to add those weights themselves (to their own thread or to others') quickly become the focus of Fantis' ire.
 

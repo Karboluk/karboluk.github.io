@@ -7,4 +7,4 @@
 [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/That Which Has Consumed Its Own Name\|That Which Has Consumed Its Own Name]]
 [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel\|The Earth Mother]]
 [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/Tiamat\|Tiamat]]
-[[Orryx-VR372\|Orryx]]
+[[Orryx\|Orryx]]

@@ -5,10 +5,10 @@
 *Douma is not someone you want to mess with- if you see her coming, you leave. There really is no other option.
 -Reyvan*
 
-Douma is a [[Minor Gods\|Minor God]].
+Douma is a Minor God.
 ###### Regional Names: 
 She Who Consumes
-Notus ([[Thracia-VR372\|Thracia]]), Hunger, the Swarm
+Notus ([[Thracia\|Thracia]]), Hunger, the Swarm
 
 ###### Domains: 
 Death, Tempest, War

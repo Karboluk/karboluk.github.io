@@ -5,7 +5,7 @@
  *Astere's behaviour reminds me of the Fey; extreme in all dimensions, mercurial and alien (even to me). But still predictable, in a way.
  -Reyvan*
 
-Astere is a [[Major Gods\|Major God]]
+Astere is a Major God
 
 ###### Regional Names: 
 She Who Sees What You Hide
@@ -14,7 +14,7 @@ Selene, The Moonmaiden, Lady Dark
 [[Twilight\|Twilight]],[[Trickery\|Trickery]],[[War\|War]]
 
 ###### Regional Worship: 
-[[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Nightwatchers\|Nightwatchers]] ([[Thracia-VR372\|Thracia]]), [[Sisters of the Moon-VR372\|Sisters of the Moon]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])
+[[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Nightwatchers\|Nightwatchers]] ([[Thracia\|Thracia]]), [[Sisters of the Moon\|Sisters of the Moon]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])
 
 
 
@@ -22,7 +22,7 @@ Selene, The Moonmaiden, Lady Dark
 
 Astere, Goddess of the Night Sky, sees everything that happens in the darkness when Helios  leaves the world. She is sometimes, a protector of the weak, sometimes a keeper of secrets, sometimes the hider of secrets, but always a lover of mystery. 
 
-Astere, like most [[Major Gods\|Major Gods]], does not interact directly with the world for fear of damaging it. But she is very active through her agents, her [[Aspect Deities-VR372\|Aspect Deities]], and those of other [[Major Gods\|Major Gods]] friendly towards her and her goals.
+Astere, like most [[Major Gods\|Major Gods]], does not interact directly with the world for fear of damaging it. But she is very active through her agents, her [[Aspect Deities\|Aspect Deities]], and those of other [[Major Gods\|Major Gods]] friendly towards her and her goals.
 
 ## Associated Minor Deities/Aspect Deities:
 
@@ -40,7 +40,7 @@ Astere is assumed to be the counterpart of [[Irithiel/Irithiel, the Shattered Wo
 
 Try as I might, Astere's origins are somewhat mysterious, and there is no written record nor cultural memory of her origin or any disaster her [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]] may have caused.  
 
-She was first noticed after the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands-VR372]] in ancient [[Bassaria-VR372\|Bassaria]]; prior to that event the sky had always been the domain of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]]- with so much more territory to cover, he could no longer illuminate everyone and when he first moved away and the sky grew dark, Astere could clearly be seen. It could be that she had always been there, or that she moved to fill the void of Helios' absence. 
+She was first noticed after the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]] in ancient [[Bassaria\|Bassaria]]; prior to that event the sky had always been the domain of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]]- with so much more territory to cover, he could no longer illuminate everyone and when he first moved away and the sky grew dark, Astere could clearly be seen. It could be that she had always been there, or that she moved to fill the void of Helios' absence. 
 
 
 ## Activity:

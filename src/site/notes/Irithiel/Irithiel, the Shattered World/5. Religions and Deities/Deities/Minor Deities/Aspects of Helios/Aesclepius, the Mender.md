@@ -5,10 +5,10 @@
 *Healing an injury used to be impossible for mortal folk, which meant I could do good business in the restoration or replacement of injured body parts. That is long past, now, but my memory is long and I am resentful. But I also would prefer not to be incinerated the the Sun God- who is likely the only one capable of doing so outside of the [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder Gods]]- not that he'd even note my small presence.
 -Reyvan*
 
-Aesclepius is a [[Minor Gods\|Minor God]].
+Aesclepius is a Minor God.
 ###### Regional Names: 
 He Who Restores
-St Lucia ([[Lausanne-VR372\|Lausanne]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])
+St Lucia ([[Lausanne\|Lausanne]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])
 ###### Domains: 
 Forge, Life
 
@@ -34,7 +34,7 @@ Aesclepius is literally the font of healing magic in the world, which means that
 ## Origins:
 
 
-In the aftermath of the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands-VR372]], in the reconstruction of [[Bassaria-VR372\|Bassaria]] after [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Themis, the Righteous\|Themis]], [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Aesthenes, the Glorious\|Aesthenes]], and [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Parvati, the Accepting\|Parvati]] has come into being and done their work, [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]] was satisfied that mortals would no longer actively destroy themselves; at least, in the short term. Then, as is his way, he saw a way to improve the situation even more: what if they could not only not kill, but what if they could repair? Thus was born Aesclepius, the very idea of Healing.
+In the aftermath of the [[Irithiel/ZZZ. Private DM Info/49. Secrets/Events and Activities/Sundering of the Lands\|Sundering of the Lands]], in the reconstruction of [[Bassaria\|Bassaria]] after [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Themis, the Righteous\|Themis]], [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Aesthenes, the Glorious\|Aesthenes]], and [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Parvati, the Accepting\|Parvati]] has come into being and done their work, [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Helios the Radiant Truth\|Helios]] was satisfied that mortals would no longer actively destroy themselves; at least, in the short term. Then, as is his way, he saw a way to improve the situation even more: what if they could not only not kill, but what if they could repair? Thus was born Aesclepius, the very idea of Healing.
 
 ## Activity:
 

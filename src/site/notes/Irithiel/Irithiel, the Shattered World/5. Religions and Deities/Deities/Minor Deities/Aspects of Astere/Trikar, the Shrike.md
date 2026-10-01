@@ -5,11 +5,11 @@
 *I like Trikar personally; he is very driven and direct, despite his calling. Moreover, the thought that the secretive killing of mortals is an important enough impulse that a God was required is very good news for an entity like me.
 -Reyvan*
 
-Trikar is a [[Minor Gods\|Minor God]].
+Trikar is a Minor God.
 
 ###### Regional Names: 
 He Who Kills With No Warning
-Janus ([[Thracia-VR372\|Thracia]])
+Janus ([[Thracia\|Thracia]])
 
 
 ###### Domains: 
@@ -44,7 +44,7 @@ To this day, their battle is ongoing both personally and via the mortal proxies 
 
 ## Activity:
 
-Trikar operates very much as [[Devils-VR372\|devils]] do, offering power for services. Those whom he courts may not understand that those services just bring them further under his sway. When he is described, it is, unhelpfully, as "a person in the room that could not be seen".
+Trikar operates very much as [[Devils\|devils]] do, offering power for services. Those whom he courts may not understand that those services just bring them further under his sway. When he is described, it is, unhelpfully, as "a person in the room that could not be seen".
 
 
 ## Desired Behaviour in Followers:

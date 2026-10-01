@@ -6,10 +6,10 @@
 *There are very few things as depressing as Ahksha. I just can't fathom how a being like him can endure for so long, with so little purpose.
 -Reyvan*
 
-Ahksha is a [[Minor Gods\|Minor God]].
+Ahksha is a Minor God.
 ###### Regional Names: 
 He Who Regrets
-Zephyrus ([[Thracia-VR372\|Thracia]]), The Sad Child, Melancholy
+Zephyrus ([[Thracia\|Thracia]]), The Sad Child, Melancholy
 
 ###### Domains: 
 Life, Peace

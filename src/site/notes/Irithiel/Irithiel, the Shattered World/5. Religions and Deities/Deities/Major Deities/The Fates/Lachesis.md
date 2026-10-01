@@ -5,7 +5,7 @@
 *I am writing this commentary because it was foretold. Or pre-ordained. Perhaps both.
 -Reyvan*
 
-Lachesis is a [[Major Gods\|Major God]]
+Lachesis is a Major God
 
 ###### Regional Names: 
 She Who Plans the Weave

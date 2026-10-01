@@ -5,7 +5,7 @@
 *I once saw an old man swear and spew hysterics at the name of Atropos, and then laugh even more when he wasn't struck down. He died 4 years later. I like to think she found his tiny outrage amusing, but grew resentful of it over time.
 -Reyvan*
 
-Atropos is a [[Major Gods\|Major God]]
+Atropos is a Major God
 
 ###### Regional Names: 
 She Who Severs All Threads
@@ -14,7 +14,7 @@ The Crone (Common), The Old Bag (derogatory, but never punished),
 Arcana, Death, Grave, Knowledge
 
 ###### Regional Worship: 
-As with the other fates, specific worship of Atropos is rare; but there are several religious orders in [[Thracia-VR372\|Thracia]] and beyond that strive to mercilessly eradicate the undead and those who create them; when not busy, they often serve as judges and executioners. Unusually for immortals, some elves of cruel persuasion find themselves in this calling.
+As with the other fates, specific worship of Atropos is rare; but there are several religious orders in [[Thracia\|Thracia]] and beyond that strive to mercilessly eradicate the undead and those who create them; when not busy, they often serve as judges and executioners. Unusually for immortals, some elves of cruel persuasion find themselves in this calling.
 
 
 

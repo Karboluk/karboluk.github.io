@@ -6,11 +6,11 @@
 *A very useful source of knowledge, with a very inconvenient attitude towards interference on the mortal plane. I think we could be allies, if uneasy ones, but I am not willing to sacrifice the chance for it until he emerges from his hiding place.
 -Reyvan*
 
-Auguri is a [[Minor Gods\|Minor God]].
+Auguri is a Minor God.
 
 ###### Regional Names: 
 He Who Opened the Hidden Door To Us
-Chronos ([[Thracia-VR372\|Thracia]]), Adoric ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]), Fillain Entwistle ([[Sendria-VR372\|Sendria]]), Herr Doktor Ivo Tollstrup ([[Hellenburg-VR372\|Hellenburg]])
+Chronos ([[Thracia\|Thracia]]), Adoric ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]), Fillain Entwistle ([[Sendria\|Sendria]]), Herr Doktor Ivo Tollstrup ([[Hellenburg\|Hellenburg]])
 ###### Domains: 
 Arcana, Forge, Knowledge, Trickery
 
@@ -36,7 +36,7 @@ My divinations indicate that Auguri is afraid of [[Irithiel/Irithiel, the Shatte
 
 ## Origins:
 
-Auguri was born Caleb Druth, a minor noble in the [[Cimmerian Empire-VR372\|Cimmerian Empire]]. Learning magic from a young age, he became a prodigious inventor of new spells- and indeed a new explorative field of magic, [[Chronomancy-VR372\|Chronomancy]].  When [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Quidun the Wise and Beneficent\|Quidun]] fell and [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler\|Isthariel]] ascended to power, Caleb began intense study on how best to protect himself from political movements like this- his conclusion being, in the end, that if they could be foreseen and/or made as if they never happened, the outcome would be better than if they were punished or blocked. His work towards this goal proceeded until, after the period of Isthariel's exile, she returned as [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm\|Zatar]]. 
+Auguri was born Caleb Druth, a minor noble in the [[Cimmerian Empire\|Cimmerian Empire]]. Learning magic from a young age, he became a prodigious inventor of new spells- and indeed a new explorative field of magic, [[Chronomancy\|Chronomancy]].  When [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Quidun the Wise and Beneficent\|Quidun]] fell and [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler\|Isthariel]] ascended to power, Caleb began intense study on how best to protect himself from political movements like this- his conclusion being, in the end, that if they could be foreseen and/or made as if they never happened, the outcome would be better than if they were punished or blocked. His work towards this goal proceeded until, after the period of Isthariel's exile, she returned as [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm\|Zatar]]. 
 
 Caleb's preparations interfaced strangely with the divine magic surrounding the newly born Goddess of Carnage, and instead of reversing the causal events it pulled Caleb into them. Drawing a portion of the power of Zatar's [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|ascent]], Caleb became Auguri, the Mage. He attempted to use his new powers to stop the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]], but was simply overpowered; once again his preparations saved him, preventing his destruction or punishment at the hands of Zatar. 
 

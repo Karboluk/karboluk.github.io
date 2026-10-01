@@ -6,7 +6,7 @@
 *It is exciting to think that one of the oldest ideas, the oldest priorities, the oldest important things- is a secret. It makes one wonder.
 -Reyvan*
 
-This Entity is an [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods\|Elder God]]
+This Entity is an Elder God
 
 ##### Name
 *"That Which Has Consumed Its Own Name", the epithet, is the only remaining reference I could find.* 

@@ -5,10 +5,10 @@
 *Faria is a strong example of what a god should be, in my opinion; she is engaged in the mortal world, opinionated, capricious, merciless and just free enough with her power that mortals have a positive opinion of her- so they keep coming back for more.
 -Reyvan*
 
-Faria is a [[Minor Gods\|Minor God]].
+Faria is a Minor God.
 ###### Regional Names: 
 She Who Usurps
-Boreas ([[Thracia-VR372\|Thracia]]), The Giantess
+Boreas ([[Thracia\|Thracia]]), The Giantess
 ###### Domains: 
 Tempest, Trickery
 

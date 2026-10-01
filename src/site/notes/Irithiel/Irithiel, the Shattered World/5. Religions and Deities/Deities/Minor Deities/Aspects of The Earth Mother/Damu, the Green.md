@@ -5,11 +5,11 @@
 *A curious question came to me once: if I were to murder Damu, would the world slide slowly into bleak emptiness through attrition, or would it be abrupt due to panic? My best guess is that her work would revert to the [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/The Earth Mother Irithiel\|Earth Mother]], but what if it didn't? I'd need different ploys and games to exploit the existential dread of the two situations. 
 -Reyvan*
 
-Damu is a [[Minor Gods\|Minor God]].
+Damu is a Minor God.
 
 ###### Regional Names: 
 She Who Plants Now and Eats Tomorrow
-Demeter ([[Thracia-VR372\|Thracia]]), The Green, The Wellspring, The Sower
+Demeter ([[Thracia\|Thracia]]), The Green, The Wellspring, The Sower
 ###### Domains: 
 Life, Nature
 

@@ -5,7 +5,7 @@
 *The newest of the Ascended Gods, until recently, and certainly she's been a busy, busy god! It's a breath of fresh-corpse-sulfur-and-ash tinted air!*
 -Reyvan*
 
-Zatar is a [[Major Gods\|Major God]]
+Zatar is a Major God
 
 ###### Regional Names: 
 
@@ -24,7 +24,7 @@ Established worship is, as of yet, limited to tribal groups and fanatic cults. T
 
 Zatar is the cruel and vicious Goddess of carnage, destruction and storms. Tearing her way through the world with no goals beyond death and disarray, she is a force that most of the other Gods defend against in concert, turning her away to wreak havoc elsewhere. 
 
-Her adherents, [[The Bloodbound-VR372\|the Bloodbound]], are not welcome in polite society, and generally do not hide themselves there; they are the wild barbarian, the vengeful druid, the destructive spellcaster, and others who simply wish to kill, kill, kill for no reason other than their own drives. 
+Her adherents, [[The Bloodbound\|the Bloodbound]], are not welcome in polite society, and generally do not hide themselves there; they are the wild barbarian, the vengeful druid, the destructive spellcaster, and others who simply wish to kill, kill, kill for no reason other than their own drives. 
 
 *Rumour says she is also the source of lycanthropy, though this remains unconfirmed and would fly in the face of known history. Nice embellishment, though. - Reyvan*
 
@@ -42,11 +42,11 @@ Despite favorable motions from [[Irithiel/Irithiel, the Shattered World/5. Relig
 
 ## Origins:
 
-Zatar's [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]] is the most clearly documented, though having taken place in [[Limbo-VR372\|Limbo]] does limit the amount we can objectively know. 
+Zatar's [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]] is the most clearly documented, though having taken place in [[Limbo\|Limbo]] does limit the amount we can objectively know. 
 
-In life, [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler\|Isthariel the Channeler]] was likely the fifth or sixth most powerful wizard on the mortal plane, hindered more by her lack of subtlety than her actual prowess. See her entry for more detail, but the end result was the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]] and the end of [[Cimmerian Empire-VR372\|Cimmerian Empire]], along with a few dead and/or tortured [[Minor Gods\|Minor Gods]].
+In life, [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler\|Isthariel the Channeler]] was likely the fifth or sixth most powerful wizard on the mortal plane, hindered more by her lack of subtlety than her actual prowess. See her entry for more detail, but the end result was the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]] and the end of [[Cimmerian Empire\|Cimmerian Empire]], along with a few dead and/or tortured [[Minor Gods\|Minor Gods]].
 
-*It is my personal belief, based on a few decades of study, that the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]], essentially a [[Mithril-VR372\|mithril]] hammer striking the ground with immense force, is what has disrupted the carefully laid, and centuries-long neglected, lines of power of the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire\|Luxan Empire]] in what is now called [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni\|Subdurni]], [[Lorica\|Lorica]], [[The High Depths\|The High Depths]] and [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/The Fernish Jungle\|The Fernish Jungle]].  - Reyvan*
+*It is my personal belief, based on a few decades of study, that the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]], essentially a [[Mithril\|mithril]] hammer striking the ground with immense force, is what has disrupted the carefully laid, and centuries-long neglected, lines of power of the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire\|Luxan Empire]] in what is now called [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]], [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni\|Subdurni]], [[Lorica\|Lorica]], [[The High Depths\|The High Depths]] and [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/The Fernish Jungle\|The Fernish Jungle]].  - Reyvan*
 
 
 ## Activity:

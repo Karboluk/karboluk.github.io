@@ -6,18 +6,18 @@
 *The influence of Lady Racca is responsible for most of the beauty that the disciples of Helios take credit for. 
 -Reyvan*
 
-Lady Racca is a [[Minor Gods\|Minor God]].
+Lady Racca is a Minor God.
 
 ###### Regional Names: 
 She Who Thinks and Never Makes
-St. [[Aeonath-VR372\|Aeonath]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] 35-current), Berronar Truesilver (dwarven cultural)
+St. [[Aeonath\|Aeonath]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] 35-current), Berronar Truesilver (dwarven cultural)
 ###### Domains: 
 Order, Peace, War
 
 ###### Regional Worship: 
 Worship of Lady Racca is often based in construction guilds in human civilization, and the reason for that construction is usually growth; so worship alongside [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Parvati, the Accepting\|Parvati]] is quite common.
 
-When [[Aeonath-VR372\|Aeonath]] was sanctified after his death, the Cathedral in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Haut-Revanne\|Haut-Revanne]] was already under construction.  Immediately dedicated to him, the city, [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne\|Duchy Revanne]], and [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] saw a rampant increase in growth and construction.
+When [[Aeonath\|Aeonath]] was sanctified after his death, the Cathedral in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Haut-Revanne\|Haut-Revanne]] was already under construction.  Immediately dedicated to him, the city, [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/2. Duchy Revanne/Duchy Revanne\|Duchy Revanne]], and [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] saw a rampant increase in growth and construction.
 
 
 ## Nature:
@@ -35,7 +35,7 @@ Goddess of cities and city-building, Lady Racca is usually depicted standing tal
 
 ## Origins:
 
-To aid with the reconstruction of [[Thracia-VR372\|Thracia]] after Volkanus' [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|ascent]], he removed his sense of proportion- and from it crafted Lady Racca. 
+To aid with the reconstruction of [[Thracia\|Thracia]] after Volkanus' [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|ascent]], he removed his sense of proportion- and from it crafted Lady Racca. 
 
 
 ## Activity:
