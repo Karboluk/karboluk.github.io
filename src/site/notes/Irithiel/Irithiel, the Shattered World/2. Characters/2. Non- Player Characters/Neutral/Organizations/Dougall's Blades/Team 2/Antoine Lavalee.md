@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/dougall-s-blades/team-2/antoine-lavalee/","dg-note-properties":{"aliases":["Antoine"]}}
+{"dg-publish":true,"aliases":["Antoine"],"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/dougall-s-blades/team-2/antoine-lavalee/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Antoine"]}}
 ---
 
 
@@ -22,7 +22,7 @@ At Pen's apparel in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands
 
 
 
-![Antoine Lavalee.webp](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Antoine%20Lavalee.webp)
+![Antoine-Lavalee.webp\|Antoine Lavalee.webp](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Antoine-Lavalee.webp)
 
 
 

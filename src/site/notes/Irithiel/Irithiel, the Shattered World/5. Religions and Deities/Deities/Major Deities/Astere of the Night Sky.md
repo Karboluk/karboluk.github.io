@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/astere-of-the-night-sky/","dg-note-properties":{"aliases":["Astere","Astere of the Night Sky"]}}
+{"aliases":["Astere","Astere of the Night Sky"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/astere-of-the-night-sky/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Astere","Astere of the Night Sky"]}}
 ---
 
  *Astere's behaviour reminds me of the Fey; extreme in all dimensions, mercurial and alien (even to me). But still predictable, in a way.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/kor-the-tireless/","dg-note-properties":{"aliases":["Kor","St. Kor","Kor, the Tireless"]}}
+{"aliases":["Kor","St. Kor","Kor, the Tireless"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/kor-the-tireless/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Kor","St. Kor","Kor, the Tireless"]}}
 ---
 
 *There aren't many newer gods than Kor, but his remit is so basic that I feel it should have been filled long ago. I guess it is just so basic that nobody had ever epitomized it until he did. 

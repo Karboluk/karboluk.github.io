@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/zatar-the-ravaging-storm/","dg-note-properties":{"aliases":["Zatar","Zatar the Ravaging Storm"]}}
+{"aliases":["Zatar","Zatar the Ravaging Storm"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/zatar-the-ravaging-storm/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Zatar","Zatar the Ravaging Storm"]}}
 ---
 
 *The newest of the Ascended Gods, until recently, and certainly she's been a busy, busy god! It's a breath of fresh-corpse-sulfur-and-ash tinted air!*

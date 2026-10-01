@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/fantis-the-weaver-of-beads/","dg-note-properties":{"aliases":["Fantis","Fantis, the Weaver of Beads"]}}
+{"aliases":["Fantis","Fantis, the Weaver of Beads"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-fates/fantis-the-weaver-of-beads/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Fantis","Fantis, the Weaver of Beads"]}}
 ---
 
 *If you ever thought that you've been bedeviled, perhaps literally, or that a demon has possessed you to do terrible things you regret, again- possibly literally, you can thank Fantis. Don't blame us. 

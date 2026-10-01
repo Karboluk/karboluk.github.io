@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/the-order-of-yellow/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/the-order-of-yellow/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/frouros-the-watchman/","dg-note-properties":{"aliases":["Frouros","Frouros, the Watchman"]}}
+{"aliases":["Frouros","Frouros, the Watchman"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/frouros-the-watchman/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Frouros","Frouros, the Watchman"]}}
 ---
 
 

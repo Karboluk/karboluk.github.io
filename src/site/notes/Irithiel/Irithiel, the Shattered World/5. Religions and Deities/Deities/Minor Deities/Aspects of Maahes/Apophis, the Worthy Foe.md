@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/apophis-the-worthy-foe/","dg-note-properties":{"aliases":["Apophis","Nemesis"]}}
+{"aliases":["Apophis","Nemesis"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/apophis-the-worthy-foe/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Apophis","Nemesis"]}}
 ---
 
 *I'd say that one has to feel bad for Apophis, being relegated as subordinate to the one who killed you; but that assumes one thinks of Apophis as truly defeated, or that one has the required empathy.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/maahes-of-shield-and-blade/","dg-note-properties":{"aliases":["Maahes","Polemos","Hargon","The Fury","Maahes of Shield and Blade"]}}
+{"aliases":["Maahes","Polemos","Hargon","The Fury","Maahes of Shield and Blade"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/maahes-of-shield-and-blade/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Maahes","Polemos","Hargon","The Fury","Maahes of Shield and Blade"]}}
 ---
 
 *I don't think anyone has used Maahes original name in an age. I think I'll try to find some old Thracian relics where it's spelled out explicitly, and then found an organization of scholars and meditative monks to "pry open their secrets". That will really rile him up, and then we'll have some opportunities for profit.

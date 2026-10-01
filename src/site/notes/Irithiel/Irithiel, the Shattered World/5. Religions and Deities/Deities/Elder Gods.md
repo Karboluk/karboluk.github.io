@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/","dg-note-properties":{"aliases":["Elder God","Elder Gods"]}}
+{"aliases":["Elder God","Elder Gods"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Elder God","Elder Gods"]}}
 ---
 
 

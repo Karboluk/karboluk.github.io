@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/dougall-s-blades/team-2/tilde-poole/","dg-note-properties":{"aliases":["Tilde"]}}
+{"dg-publish":true,"aliases":["Tilde"],"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/dougall-s-blades/team-2/tilde-poole/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Tilde"]}}
 ---
 
 
@@ -18,7 +18,7 @@ Tilde loves to order everyone on Team 2 around, except Etienne. She treats him l
 Tilde was last seen gathering marked coins before Team 3 defeated the Burning Man at the Ashen Candle Towers, on 372-08-20 in Timeline 1.
 
 
-![Tilde Poole.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Tilde%20Poole.jpg)
+![Tilde-Poole.jpg\|Tilde Poole.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Tilde-Poole.jpg)
 
 
 

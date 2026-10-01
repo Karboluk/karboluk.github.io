@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/trikar-the-shrike/","dg-note-properties":{"aliases":["Trikar","Trikar, the Shrike"]}}
+{"aliases":["Trikar","Trikar, the Shrike"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/trikar-the-shrike/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Trikar","Trikar, the Shrike"]}}
 ---
 
 *I like Trikar personally; he is very driven and direct, despite his calling. Moreover, the thought that the secretive killing of mortals is an important enough impulse that a God was required is very good news for an entity like me.

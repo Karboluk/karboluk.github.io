@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/dougall-s-blades/team-2/magni-ironspark/","dg-note-properties":{"aliases":["Magni"]}}
+{"dg-publish":true,"aliases":["Magni"],"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/dougall-s-blades/team-2/magni-ironspark/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Magni"]}}
 ---
 
 
@@ -16,7 +16,7 @@ Magni is a Dwarven Rogue, who favors daggers and crossbows. He is obviously gree
 ### Last Seen 
 Magni was last seen gathering marked coins before Team 3 defeated the Burning Man at the Ashen Candle Towers, on 372-08-20 in Timeline 1.
 
-![Magni Ironspark.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Magni%20Ironspark.jpg)
+![Magni-Ironspark.jpg\|Magni Ironspark.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Magni-Ironspark.jpg)
 
 
 

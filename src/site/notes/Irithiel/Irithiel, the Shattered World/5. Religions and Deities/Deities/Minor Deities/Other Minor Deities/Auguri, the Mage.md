@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/other-minor-deities/auguri-the-mage/","dg-note-properties":{"aliases":["Caleb Druth","Auguri","Adoric"]}}
+{"aliases":["Caleb Druth","Auguri","Adoric"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/other-minor-deities/auguri-the-mage/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Caleb Druth","Auguri","Adoric"]}}
 ---
 
 
@@ -25,7 +25,7 @@ Auguri is fascinated by the progression of mortals, particularly humans, when it
 
 Auguri appears usually as a human man in his early 20s with wavy blond hair, wearing fine but not ostentatious clothes.
 
-![Auguri, the Mage.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Auguri,%20the%20Mage.jpg)
+![Auguri-the-Mage.jpg\|Auguri, the Mage.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Auguri-the-Mage.jpg)
 
 ## Associated Major Deity:
 

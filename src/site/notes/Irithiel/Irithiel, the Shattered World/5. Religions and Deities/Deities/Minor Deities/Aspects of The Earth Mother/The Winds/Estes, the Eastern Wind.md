@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/estes-the-eastern-wind/","dg-note-properties":{"aliases":["Estes","Estes, the Eastern Wind"]}}
+{"aliases":["Estes","Estes, the Eastern Wind"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/estes-the-eastern-wind/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Estes","Estes, the Eastern Wind"]}}
 ---
 
 *Estes almost feels like a love child between The Earth Mother and The Radiant Truth- and indeed he might well be. 

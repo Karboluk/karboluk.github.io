@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/ahksha-the-western-wind/","dg-note-properties":{"aliases":["Ahksha","Ahksha, the Western Wind"]}}
+{"aliases":["Ahksha","Ahksha, the Western Wind"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-the-earth-mother/the-winds/ahksha-the-western-wind/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Ahksha","Ahksha, the Western Wind"]}}
 ---
 
 

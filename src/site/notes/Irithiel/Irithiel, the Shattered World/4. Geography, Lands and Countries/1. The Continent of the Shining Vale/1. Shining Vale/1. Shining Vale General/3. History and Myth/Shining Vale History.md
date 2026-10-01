@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/3-history-and-myth/shining-vale-history/","tags":["fc-event"],"dg-note-properties":{"tags":["fc-event"]}}
+{"dg-publish":true,"tags":["fc-event"],"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/3-history-and-myth/shining-vale-history/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["fc-event"]}}
 ---
 
 

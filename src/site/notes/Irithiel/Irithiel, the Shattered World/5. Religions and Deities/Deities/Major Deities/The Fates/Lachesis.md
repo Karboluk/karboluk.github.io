@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/lachesis/","dg-note-properties":{"aliases":["Lachesis"]}}
+{"dg-publish":true,"aliases":["Lachesis"],"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/lachesis/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Lachesis"]}}
 ---
 
 *I am writing this commentary because it was foretold. Or pre-ordained. Perhaps both.

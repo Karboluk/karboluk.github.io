@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/saints/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/1-shining-vale-general/4-religions-and-deities/saints/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Cultural Practice
@@ -63,7 +63,7 @@ The tenets of the faith are to help your fellows, to band together and to suppor
 St. Annabella's symbols are a woman in silhouette with welcoming arms outstretched, and red roses on a field of yellow. The Cathedral to St. Annabella is in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/3. Duchy Truscia/Trodena\|Trodena]].
 
 
-![Annabella Silhouette.png](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Annabella%20Silhouette.png)
+![Annabella-Silhouette.png\|Annabella Silhouette.png](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Annabella-Silhouette.png)
 
 
 ### [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Helios/Aesthenes, the Glorious\|St. Agatha]]

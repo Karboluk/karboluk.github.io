@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/religions/nightwatchers/","dg-note-properties":{"aliases":["Nightwatchers"]}}
+{"dg-publish":true,"aliases":["Nightwatchers"],"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/religions/nightwatchers/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Nightwatchers"]}}
 ---
 
 

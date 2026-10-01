@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/nakht-the-noble-cause/","dg-note-properties":{"aliases":["Nakht","Nike"]}}
+{"aliases":["Nakht","Nike"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/nakht-the-noble-cause/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Nakht","Nike"]}}
 ---
 
 *Insert Quote or Observation here

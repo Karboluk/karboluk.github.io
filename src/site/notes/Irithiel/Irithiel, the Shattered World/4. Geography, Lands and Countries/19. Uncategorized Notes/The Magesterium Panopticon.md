@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/the-magesterium-panopticon/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/19-uncategorized-notes/the-magesterium-panopticon/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

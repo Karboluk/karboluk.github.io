@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/medjay-the-ally/","dg-note-properties":{"aliases":["Medjay","Sustratiotes"]}}
+{"aliases":["Medjay","Sustratiotes"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-maahes/medjay-the-ally/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Medjay","Sustratiotes"]}}
 ---
 
 *Insert Quote or Observation here

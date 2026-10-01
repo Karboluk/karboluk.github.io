@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/nobility/king-jules-etienne-revanne-iv/","dg-note-properties":{"aliases":["King Revanne"]}}
+{"dg-publish":true,"aliases":["King Revanne"],"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/nobility/king-jules-etienne-revanne-iv/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["King Revanne"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/irithiel-the-shattered-world/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"dg-home":true,"permalink":"/irithiel/irithiel-the-shattered-world/irithiel-the-shattered-world/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

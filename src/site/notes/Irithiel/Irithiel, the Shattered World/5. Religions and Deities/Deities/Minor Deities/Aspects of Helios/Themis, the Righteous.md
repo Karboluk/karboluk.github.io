@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/themis-the-righteous/","dg-note-properties":{"aliases":["Themis","St. Domingo","Themis, the Righteous"]}}
+{"aliases":["Themis","St. Domingo","Themis, the Righteous"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-helios/themis-the-righteous/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Themis","St. Domingo","Themis, the Righteous"]}}
 ---
 
 

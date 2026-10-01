@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/nobility/the-queen-mother-babette-revanne/","dg-note-properties":{"aliases":["Queen Mother","Babette"]}}
+{"dg-publish":true,"aliases":["Queen Mother","Babette"],"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/2-non-player-characters/neutral/organizations/nobility/the-queen-mother-babette-revanne/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Queen Mother","Babette"]}}
 ---
 
 

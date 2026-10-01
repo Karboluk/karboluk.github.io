@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/aethenius-the-scholar/","dg-note-properties":{"aliases":["Aethenius","Aethenius, the Scholar"]}}
+{"aliases":["Aethenius","Aethenius, the Scholar"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-thalassus/aethenius-the-scholar/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Aethenius","Aethenius, the Scholar"]}}
 ---
 
 

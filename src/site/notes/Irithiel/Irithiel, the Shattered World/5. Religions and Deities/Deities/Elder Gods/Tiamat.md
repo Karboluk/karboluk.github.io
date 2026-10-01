@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/tiamat/","dg-note-properties":{"aliases":["Tiamat"]}}
+{"dg-publish":true,"aliases":["Tiamat"],"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/tiamat/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Tiamat"]}}
 ---
 
 *A lot of power and influence can be won by wagering on Tiamat's machinations, as long as you have the inside scoop. It's not an easy thing to have, but I have a guy- let me tell you some secrets...

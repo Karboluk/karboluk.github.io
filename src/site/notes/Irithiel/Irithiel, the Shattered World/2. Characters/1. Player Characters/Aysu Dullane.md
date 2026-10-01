@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/1-player-characters/aysu-dullane/","dg-note-properties":{"aliases":"Aysu"}}
+{"aliases":"Aysu","dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/2-characters/1-player-characters/aysu-dullane/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":"Aysu"}}
 ---
 
 

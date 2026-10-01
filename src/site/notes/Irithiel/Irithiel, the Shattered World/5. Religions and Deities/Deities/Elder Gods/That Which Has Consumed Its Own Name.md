@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/that-which-has-consumed-its-own-name/","dg-note-properties":{"aliases":["That Which Has Consumed Its Own Name"]}}
+{"dg-publish":true,"aliases":["That Which Has Consumed Its Own Name"],"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/elder-gods/that-which-has-consumed-its-own-name/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["That Which Has Consumed Its Own Name"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/the-tale-of-hazidkal/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/the-fates/the-tale-of-hazidkal/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

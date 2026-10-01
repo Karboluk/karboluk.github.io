@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/5-duchy-corwyn/duchy-corwyn/","dg-note-properties":{"aliases":null}}
+{"dg-publish":true,"aliases":null,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/1-shining-vale/5-duchy-corwyn/duchy-corwyn/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null}}
 ---
 
 

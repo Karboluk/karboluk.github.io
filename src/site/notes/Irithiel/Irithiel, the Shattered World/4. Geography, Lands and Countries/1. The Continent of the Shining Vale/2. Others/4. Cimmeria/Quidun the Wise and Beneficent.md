@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/quidun-the-wise-and-beneficent/","dg-note-properties":{"aliases":["Quidun"]}}
+{"aliases":["Quidun"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/quidun-the-wise-and-beneficent/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Quidun"]}}
 ---
 
 *One of the great benefits of Lichdom, I assume, is the long-term perspective it could give you. One of the downfalls of Lichdom, I've observed, is that only mortals reach for it- and consequently they usually fail to adapt to their new time horizons. Greedy wizards, become greedy liches, become dust. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/1-the-luxan-empire/the-luxan-empire/","dg-note-properties":{"aliases":"Luxan Empire"}}
+{"aliases":"Luxan Empire","dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/1-the-luxan-empire/the-luxan-empire/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":"Luxan Empire"}}
 ---
 
 *Studying the Luxan temples over the last while has yielded at least one bit of information- Auguri is revealed to me. The temples' purpose is still unknown, but I hope that a wider survey will afford me a broader perspective on what is clearly a grand construction.

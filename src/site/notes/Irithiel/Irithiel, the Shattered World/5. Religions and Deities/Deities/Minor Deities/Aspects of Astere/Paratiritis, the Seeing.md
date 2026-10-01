@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/paratiritis-the-seeing/","dg-note-properties":{"aliases":["Paratiritis","Paratiritis, the Seeing"]}}
+{"aliases":["Paratiritis","Paratiritis, the Seeing"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-astere/paratiritis-the-seeing/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Paratiritis","Paratiritis, the Seeing"]}}
 ---
 
 *An unstoppable voyeur who can breach all but the most powerful of protections, and see all? Why, oh why, was I not so endowed. The only saving grace I see (yes, that joke was intentional) is that I at least have the capacity to care about the things I investigate.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/isthariel-the-channeler/","dg-note-properties":{"aliases":["Isthariel"]}}
+{"aliases":["Isthariel"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/4-geography-lands-and-countries/1-the-continent-of-the-shining-vale/2-others/4-cimmeria/isthariel-the-channeler/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Isthariel"]}}
 ---
 
 *As a note to future civilizations. If you forcibly oust a magically powerful leader, make sure- I mean absolutely sure- that you kill them. Otherwise that's how you get carnage gods. Do you want carnage gods?
