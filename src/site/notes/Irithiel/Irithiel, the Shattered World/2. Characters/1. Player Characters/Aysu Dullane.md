@@ -10,7 +10,7 @@
 # Synopsis
 ## Description
 
-Aysu is a moth-like Fairy, with quick hands an pin-prick legs. Aysu is about 3'6, loves daggers, and family. She often wears a mask when working.
+Aysu is a moth-like Fairy, with quick hands and pin-prick legs. Aysu is about 3'6, loves daggers, and family. She often wears a mask when working.
 
 ## Story
 Aysu comes from a family notorious for being assassins for the Archfey [[Malice,\|Malice,]] leader of the Court of Shadows.  Her parents were sent on a mission to the material plane, and she snuck along behind them because she wanted to help/protect them - her parents only found her after they’d crossed through the portal.
