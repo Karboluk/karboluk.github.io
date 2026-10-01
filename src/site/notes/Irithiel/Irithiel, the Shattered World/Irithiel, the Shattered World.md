@@ -5,9 +5,6 @@
 
 *A compendium by Reyvan, the Knowledgeable. Please read the Foreword if you haven't already.*
 
-[[Irithiel/Irithiel, the Shattered World/1. Introduction/Foreword\|Foreword]]
-
-
 ### Table of Contents
 
 
@@ -29,6 +26,9 @@
 						- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Dougall's Blades/Team 2/Magni Ironspark\|Magni Ironspark]]
 						- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Dougall's Blades/Team 2/Red Kora\|Red Kora]]
 						- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Dougall's Blades/Team 2/Tilde Poole\|Tilde Poole]]
+				- **Nobility**
+					- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Nobility/King Jules-Etienne Revanne IV\|King Jules-Etienne Revanne IV]]
+					- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Nobility/The Queen Mother Babette Revanne\|The Queen Mother Babette Revanne]]
 			- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Gudvaer Hranalfsdottir the Seiðkona\|Gudvaer Hranalfsdottir the Seiðkona]]
 - **3. Species and Culture**
 	- [[Irithiel/Irithiel, the Shattered World/3. Species and Culture/Species and Culture\|Species and Culture]]
