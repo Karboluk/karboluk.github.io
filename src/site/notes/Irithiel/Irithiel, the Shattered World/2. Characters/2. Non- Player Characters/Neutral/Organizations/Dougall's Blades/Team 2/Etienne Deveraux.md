@@ -10,7 +10,7 @@
 
 ## Synopsis
 
-Formerly the leader of Team 2, Etienne is the illegitimate son of [[King Philippe II\|King Philippe II]], who was [[Irithiel/ZZZ. Private DM Info/2. Characters/Non-Player Characters/VR372/Neutral/Nobility/Duchy Revanne/King Jules-Etienne Revanne IV-Master\|King Jules-Etienne Revanne IV-Master]]'s father. Etienne is older than the new King, who married very late in order to produce an heir. 
+Formerly the leader of Team 2, Etienne is the illegitimate son of [[King Philippe II\|King Philippe II]], who was [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Nobility/King Jules-Etienne Revanne IV\|King Jules-Etienne Revanne IV]]'s father. Etienne is older than the new King, who married very late in order to produce an heir. 
 
 Etienne is a callous and brutal person, who doesn't seem to care for the welfare of his fellow people in the slightest.
 
