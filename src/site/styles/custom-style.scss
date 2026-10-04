@@ -9,33 +9,6 @@ body {
   width: 100% !important;
   max-width: 100% !important;
 }
-
-/* 1. Center Column (Main Note Content): Always full intrinsic width */
-.content-layout > main,
-.content-layout .note-content,
-.content-layout .cm-s-obsidian {
-  flex: 0 0 auto !important; /* Prevents shrink and grow; takes intrinsic width needed */
-  max-width: 100% !important;
-  box-sizing: border-box !important;
-}
-
-/* 2. Left Column (File Tree / Navigation): Expandable & Responsive */
-.content-layout .sidebar-left,
-.content-layout .filetree-sidebar {
-  /* flex: 1 1 auto !important;  Expands to fill space, allowed to shrink */
-  min-width: max-content !important; /* Expand horizontally to fit contents without scrollbars */
-  overflow-x: visible !important;
-  box-sizing: border-box !important;
-}
-/* Ensure sidebar flex container grows dynamically to fit all inner content */
-.content-layout .sidebar-left,
-.content-layout .filetree-sidebar,
-aside.sidebar-left {
-  width: max-content !important;
-  max-width: none !important;
-  flex: 0 0 auto !important; /* Retains intrinsic width without collapsing */
-}
-
 /* Force the file tree and all nested folder structures to size to their widest child */
 .file-tree,
 .file-tree-content,
@@ -50,6 +23,33 @@ aside.sidebar-left {
   white-space: nowrap !important; /* Prevents text wrapping in nested subfolders */
   overflow-x: visible !important; /* Disables horizontal scrollbars on inner nodes */
 }
+    
+/* 1. Center Column (Main Note Content): Always full intrinsic width */
+.content-layout > main,
+.content-layout .note-content,
+.content-layout .cm-s-obsidian {
+  flex: 0 0 auto !important; /* Prevents shrink and grow; takes intrinsic width needed */
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* 2. Left Column (File Tree / Navigation): Expandable & Responsive */
+.content-layout .sidebar-left,
+.content-layout .filetree-sidebar {
+  flex: 1 1 auto !important;  /* Expands to fill space, allowed to shrink */
+  min-width: max-content !important; /* Expand horizontally to fit contents without scrollbars */
+  overflow-x: visible !important;
+  box-sizing: border-box !important;
+}
+/* Ensure sidebar flex container grows dynamically to fit all inner content */
+.content-layout .sidebar-left,
+.content-layout .filetree-sidebar,
+aside.sidebar-left {
+  width: max-content !important;
+  max-width: none !important;
+  flex: 0 0 auto !important; /* Retains intrinsic width without collapsing */
+}
+
 
 /* Remove internal container scrollbars so the column resizes rather than scrolling */
 .sidebar-left *,
