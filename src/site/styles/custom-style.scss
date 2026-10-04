@@ -22,11 +22,48 @@ body {
 /* 2. Left Column (File Tree / Navigation): Expandable & Responsive */
 .content-layout .sidebar-left,
 .content-layout .filetree-sidebar {
-  flex: 1 1 auto !important; /* Expands to fill space, allowed to shrink */
+  /* flex: 1 1 auto !important;  Expands to fill space, allowed to shrink */
   min-width: max-content !important; /* Expand horizontally to fit contents without scrollbars */
   overflow-x: visible !important;
   box-sizing: border-box !important;
 }
+/* Ensure sidebar flex container grows dynamically to fit all inner content */
+.content-layout .sidebar-left,
+.content-layout .filetree-sidebar,
+aside.sidebar-left {
+  width: max-content !important;
+  max-width: none !important;
+  flex: 0 0 auto !important; /* Retains intrinsic width without collapsing */
+}
+
+/* Force the file tree and all nested folder structures to size to their widest child */
+.file-tree,
+.file-tree-content,
+.folder-outer,
+.folder-container,
+.tree-item,
+.tree-item-children,
+.tree-item-self {
+  width: max-content !important;
+  min-width: 100% !important;
+  max-width: none !important;
+  white-space: nowrap !important; /* Prevents text wrapping in nested subfolders */
+  overflow-x: visible !important; /* Disables horizontal scrollbars on inner nodes */
+}
+
+/* Remove internal container scrollbars so the column resizes rather than scrolling */
+.sidebar-left *,
+.filetree-sidebar * {
+  overflow-x: visible !important;
+}
+
+/* Outer layout adjustment to accommodate expanding sidebars */
+.content-layout {
+  display: flex !important;
+  flex-direction: row !important;
+  width: 100% !important;
+}
+    
 
 /* 3. Right Column (Links / Outline / Backlinks): Expandable & First to shrink */
 .content-layout .sidebar-right,
