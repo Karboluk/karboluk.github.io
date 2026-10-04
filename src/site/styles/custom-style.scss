@@ -2,7 +2,59 @@ body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-{--dg-filetree-width: 350px;}
+/* Container CSS Flexbox setup */
+.content-layout {
+  display: flex !important;
+  flex-direction: row !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* 1. Center Column (Main Note Content): Always full intrinsic width */
+.content-layout > main,
+.content-layout .note-content,
+.content-layout .cm-s-obsidian {
+  flex: 0 0 auto !important; /* Prevents shrink and grow; takes intrinsic width needed */
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* 2. Left Column (File Tree / Navigation): Expandable & Responsive */
+.content-layout .sidebar-left,
+.content-layout .filetree-sidebar {
+  flex: 1 1 auto !important; /* Expands to fill space, allowed to shrink */
+  min-width: max-content !important; /* Expand horizontally to fit contents without scrollbars */
+  overflow-x: visible !important;
+  box-sizing: border-box !important;
+}
+
+/* 3. Right Column (Links / Outline / Backlinks): Expandable & First to shrink */
+.content-layout .sidebar-right,
+.content-layout .toc-sidebar {
+  flex: 1 1 auto !important; /* Expands to fill space */
+  min-width: max-content !important; /* Expand horizontally to fit contents without scrollbars */
+  overflow-x: visible !important;
+  box-sizing: border-box !important;
+}
+
+/* Shrink Order Mechanics: Right column shrinks first, then Left column */
+@media (max-width: 1400px) {
+  .content-layout .sidebar-right,
+  .content-layout .toc-sidebar {
+    flex-shrink: 2 !important; /* Higher shrink factor makes right column shrink first */
+    min-width: 0 !important;
+    overflow-x: auto !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  .content-layout .sidebar-left,
+  .content-layout .filetree-sidebar {
+    flex-shrink: 1 !important; /* Shrinks after right column when screen width decreases further */
+    min-width: 0 !important;
+    overflow-x: auto !important;
+  }
+}
 
     
    ***/
