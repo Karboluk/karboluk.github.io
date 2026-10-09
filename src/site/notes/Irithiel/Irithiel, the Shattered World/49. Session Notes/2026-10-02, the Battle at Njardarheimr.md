@@ -20,9 +20,9 @@ Esmond's yell, part of the plan, is drowned out by the Goliath, but has no speci
 
 
 ## Your Preparations
-- Glory has used scavenged Hulkar bone, rope and rocks to create a trebuchet, stationed behind the encampment. She has shown the oldest child, Anders Yngvarsson (see below) how to operate it. We'll see how it goes, but it's been effective so far.
-- Kilani, with goliath assistance, collected as much Hulkar dung as could be found and created two lines to try to funnel the attack into a chokepoint. These were then coated with all the cooking oil/fat at hand
-	### - These are on the battlemap as pencil-marked squares. They were not lit by the party, but were just accidentally lit by the Hobgoblins at the end of [[Irithiel/Irithiel, the Shattered World/49. Session Notes/2026-10-02, the Battle at Njardarheimr#Phase 2\|#Phase 2]]
+- Glory has used scavenged Hulkar bone, leather rope and rocks to create a trebuchet, stationed behind the encampment. She has shown the oldest child, Anders Yngvarsson (see below) how to operate it. We'll see how it goes, but it's been effective so far.
+- Kilani, with Golith assistance, collected as much Hulkar dung as could be found and created two lines to try to funnel the attack into a chokepoint. These were then coated with all the cooking oil/fat at hand
+	- These are on the battlemap as pencil-marked squares. They were not lit by the party, but were just accidentally lit by the Hobgoblins at the end of [[Irithiel/Irithiel, the Shattered World/49. Session Notes/2026-10-02, the Battle at Njardarheimr#Phase 2\|#Phase 2]]
 - Dis's trenches, in darker lines, are obscured by illusion. They are 20' wide and 20' deep. The initial deployment went the hobgoblins' way, so they haven't come into play yet.
 
 ## Your Forces
@@ -100,16 +100,16 @@ You begin under the canopy, which is being pelted by the ***Rain of Arrows***.
 
 ### Njardarheimr Allies
 
-- Dis conjures a Wind Wall in an area in front of the canopy. This allows 1d3-1 Goliath units to advance.
+- Dis conjures a *wind wall* in an area in front of the canopy. This allows 1d3-1 Goliath units to advance.
 - Jarl Yngvar is unable to advance.
-- Tryggvi wants to use his cavalry to charge the archers, as they will be easily knocked over, but he has to get past the infantry. He can go around, but it will take an extra phase to do so.
+- Tryggvi wants to use his cavalry to charge the archers, as they will be easily knocked over; but he has to get past the infantry. He can go around instead, but it will take an extra phase to do so.
 - Gudvaer awaits your cue.
 
 ### Options
-- It's noticed that the Southernmost infantry company has landed in a bit of disarray, as they teleported at the lip of the small cliff. They're forming up; an opportunity to get Tryggvi through the infantry to deal with ***The Archer Line*** exists but must be taken now. 
+- It's noticed that the Southernmost Infantry company has landed in a bit of disarray, as they teleported at the lip of the small cliff. They're forming up; an opportunity to get Tryggvi through the infantry to deal with ***The Archer Line*** exists but must be taken now. 
 - Assisting Dis, magically or otherwise, will free her up from ***The Rain of Arrows*** and will also allow more Goliath units to advance.
 - ***The Siegecraft*** are noted, and are currently unlimbering, preparing to fire, far back left of the battle line. 
-- A black cloud has appeared in the back right of the enemy lines. It must be magical. They are ***Summoning***.
+- A black cloud has appeared in the back right of the enemy lines. It must be magical. This is ***The Summoning***.
 
 ### Party Activity 
 
@@ -135,7 +135,8 @@ Glory and Haly are at Glory's trebuchet at the rear of the Canopy, the rest of t
 
 #### New
 - Now that the Goliath can advance, the portion of the party close to the Hobgoblin Infantry line can see that there are regularly spaced out soldiers holding wands. A magical shield, ***The Barrier***, is in place in front of the Infantry line, preventing the Goliath from closing. But as ***The Archer Line*** is being dealt with, they are not under arrow fire as well.
-- ***The Siegecraft*** have activated, and boulders begin to crash down on the canopy- still no damage to the canopy itself, but the wooden supports underneath it are beginning to crack and buckle.
+- ***The Siegecraft*** have activated, and boulders begin to crash down on the canopy
+	- There is still no damage to the canopy itself, but the wooden supports underneath it are beginning to crack and buckle.
 
 ### Score:
 
