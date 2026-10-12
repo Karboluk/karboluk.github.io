@@ -43,9 +43,9 @@
 				- **3. History and Myth**
 					- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/3. History and Myth/Shining Vale History\|Shining Vale History]]
 				- **4. Religions and Deities**
-					- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/Other recognized Deities\|Other recognized Deities]]
-					- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/Saints\|Saints]]
-					- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/The Old Gods\|The Old Gods]]
+					- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/1. Saints\|1. Saints]]
+					- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/2. The Old Gods\|2. The Old Gods]]
+					- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/3. Other recognized Deities\|3. Other recognized Deities]]
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]
 			- **2. Duchy Revanne**
 				- **Maps**
@@ -68,23 +68,26 @@
 
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Corwyn City\|Corwyn City]]
 				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]]
-		- **2. Others**
+		- **2. Subdurni**
+			- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Subdurni/Subdurni\|Subdurni]]
+			- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]]
+		- **3. The Trackless Waste**
+		- **4. Lorica**
+		- **5. The High Depths**
+		- **6. The Jade City**
+			- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/6. The Jade City/The Jade City\|The Jade City]]
+		- **99. Other Places, and Fallen Places**
 			- **1. The Luxan Empire**
 				- **Maps**
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/1. The Luxan Empire/The Luxan Empire\|The Luxan Empire]]
-			- **2. Subdurni**
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni\|Subdurni]]
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]]
-			- **3. The Jade City**
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/3. The Jade City/The Jade City\|The Jade City]]
-			- **4. Cimmeria**
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Cimmeria\|Cimmeria]]
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]]
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Isthariel the Channeler\|Isthariel the Channeler]]
-				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Quidun the Wise and Beneficent\|Quidun the Wise and Beneficent]]
+				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/1. The Luxan Empire/The Luxan Empire\|The Luxan Empire]]
+			- **2. Cimmeria**
+				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/2. Cimmeria/Cimmeria\|Cimmeria]]
+				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/2. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]]
+				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/2. Cimmeria/Isthariel the Channeler\|Isthariel the Channeler]]
+				- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/2. Cimmeria/Quidun the Wise and Beneficent\|Quidun the Wise and Beneficent]]
 			- **Maps**
-			- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/Sea Kingdom of Kilar\|Sea Kingdom of Kilar]]
-			- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/The Fernish Jungle\|The Fernish Jungle]]
+			- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/Sea Kingdom of Kilar\|Sea Kingdom of Kilar]]
+			- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/The Fernish Jungle\|The Fernish Jungle]]
 	- **19. Uncategorized Notes**
 		- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/19. Uncategorized Notes/C.A.L.I.S.T.O\|C.A.L.I.S.T.O]]
 		- [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/19. Uncategorized Notes/The Magesterium Panopticon\|The Magesterium Panopticon]]
@@ -93,6 +96,7 @@
 - **5. Religions and Deities**
 	- **Cultural Religious Practices**
 		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Cultural Religious Practices/Cimmerian Empire, its colonies and inheritors\|Cimmerian Empire, its colonies and inheritors]]
+		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Cultural Religious Practices/The Dwarven Pantheon\|The Dwarven Pantheon]]
 	- **Deities**
 		- **Elder Gods**
 			- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Elder Gods/Bahamut\|Bahamut]]
@@ -153,8 +157,9 @@
 		- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Nightwatchers\|Nightwatchers]]
 	- [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Ascent to Godhood\|Ascent to Godhood]]
 - **49. Session Notes**
-	- **Uploads for the Players**
-		- [[Irithiel/Irithiel, the Shattered World/49. Session Notes/Uploads for the Players/Session 72, 2026-09-29\|Session 72, 2026-09-29]]
+	- **Other Maps and Media**
+	- [[Irithiel/Irithiel, the Shattered World/49. Session Notes/2026-10-02, the Battle at Njardarheimr\|2026-10-02, the Battle at Njardarheimr]]
+	- [[Irithiel/Irithiel, the Shattered World/49. Session Notes/Session 72, 2026-09-29\|Session 72, 2026-09-29]]
 - **50. Appendix 1,  Rules**
 	- [[Irithiel/Irithiel, the Shattered World/50. Appendix 1,  Rules/Feat- Crafty\|Feat- Crafty]]
 	- [[Irithiel/Irithiel, the Shattered World/50. Appendix 1,  Rules/Piety - Optional Rule\|Piety - Optional Rule]]
@@ -162,8 +167,8 @@
 
 
 [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]
-[[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/Saints\|Saints]]
-[[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/Other recognized Deities\|Other recognized Deities]]
-[[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/The Old Gods\|The Old Gods]]
+[[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/1. Saints\|Saints]]
+[[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/3. Other recognized Deities\|Other recognized Deities]]
+[[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/4. Religions and Deities/2. The Old Gods\|The Old Gods]]
 
 
