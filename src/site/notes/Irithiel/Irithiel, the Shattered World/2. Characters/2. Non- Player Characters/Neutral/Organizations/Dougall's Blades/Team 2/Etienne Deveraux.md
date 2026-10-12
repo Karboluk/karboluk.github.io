@@ -18,7 +18,7 @@ Etienne is a callous and brutal person, who doesn't seem to care for the welfare
 ### Last Seen
 Etienne was last seen gathering marked coins before Team 3 defeated the Burning Man at the Ashen Candle Towers, on 372-08-20 in Timeline 1.
 
-![Etienne-Devereaux.jpg\|Etienne Devereaux.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Etienne-Devereaux.jpg)
+![Etienne-Devereaux.jpg\|Etienne Devereaux.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Team%202/Etienne-Devereaux.jpg)
 
 
 </div></div>

@@ -9,7 +9,7 @@ Chiriki is a Minor God.
 
 ###### Regional Names: 
 She Who Stalks and Pounces
-Atalanta ([[Thracia\|Thracia]]), Siki of Spear and Bow (Goliath of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]])
+Atalanta ([[Thracia\|Thracia]]), Siki of Spear and Bow (Goliath of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]])
 ###### Domains: 
 Nature, Trickery, War
 

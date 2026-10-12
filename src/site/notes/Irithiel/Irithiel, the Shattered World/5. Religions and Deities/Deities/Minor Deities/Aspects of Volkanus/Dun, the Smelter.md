@@ -10,7 +10,7 @@ Dun is a Minor God.
 
 ###### Regional Names: 
 He Who Prepares
-Furnace Master, the Crucible (dwarven cultural)
+Furnace Master, the Crucible ([[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Cultural Religious Practices/The Dwarven Pantheon\|dwarven cultural]])
 ###### Domains: 
 Forge, Order, War.
 

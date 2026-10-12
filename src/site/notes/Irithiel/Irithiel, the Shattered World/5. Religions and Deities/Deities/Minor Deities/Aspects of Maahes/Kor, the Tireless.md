@@ -14,11 +14,11 @@ St. Kor ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countr
 Tempest, War
 
 ###### Regional Worship: 
-There is organized worship in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]], but the Goliaths of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]] venerate his ideals alongside [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade\|The Fury]].
+There is organized worship in [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/5. Duchy Corwyn/Duchy Corwyn\|Duchy Corwyn]], but the Goliaths of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]] venerate his ideals alongside [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Maahes of Shield and Blade\|The Fury]].
 
 ## Nature:
 
-Kor was a long suffering human man, part of the original troupe of adventurers responsible for scouting [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] after the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]] and making it safe for settlement. He carries the weight of these adventures, and the heavy events that occurred, into his new duties. 
+Kor was a long suffering human man, part of the original troupe of adventurers responsible for scouting [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] after the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/2. Cimmeria/Fall of Cimmeria\|Fall of Cimmeria]] and making it safe for settlement. He carries the weight of these adventures, and the heavy events that occurred, into his new duties. 
 
 
 ## Associated Major Deity:

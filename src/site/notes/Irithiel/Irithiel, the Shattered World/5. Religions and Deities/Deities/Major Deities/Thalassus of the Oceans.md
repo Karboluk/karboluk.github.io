@@ -1,5 +1,5 @@
 ---
-{"aliases":["Thalassus","Argos","Thalassus of the Oceans"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/thalassus-of-the-oceans/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Thalassus","Argos","Thalassus of the Oceans"]}}
+{"aliases":["Thalassus","Argos","Dumathoin"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/thalassus-of-the-oceans/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Thalassus","Argos","Dumathoin"]}}
 ---
 
 *The old soggy King of the Depths knows a thing or two about patience. I wonder what he and the Earth Mother discussed when they were the only True Gods in this realm. He'd never tell, and she doesn't talk.
@@ -9,7 +9,7 @@ Thalassus is a Major God
 
 ###### Regional Names: 
 He Whose Depths Remember
-Argos ([[Thracia\|Thracia]]), The Drowning One, Wise Uncle
+Argos ([[Thracia\|Thracia]]), The Drowning One, Wise Uncle, Dumathoin ([[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Cultural Religious Practices/The Dwarven Pantheon\|Dwarven Cultural]])
 ###### Domains: 
 [[Domain-Knowledge\|Knowledge]],[[Domain-Nature\|Nature]],[[Domain-Tempest\|Tempest]]
 

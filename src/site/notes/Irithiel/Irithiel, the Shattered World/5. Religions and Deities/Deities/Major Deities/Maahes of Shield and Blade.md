@@ -1,5 +1,5 @@
 ---
-{"aliases":["Maahes","Polemos","Hargon","The Fury","Maahes of Shield and Blade"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/maahes-of-shield-and-blade/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Maahes","Polemos","Hargon","The Fury","Maahes of Shield and Blade"]}}
+{"aliases":["Maahes","Polemos","Hargon","The Fury","Clangeddin Silverbeard"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/major-deities/maahes-of-shield-and-blade/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Maahes","Polemos","Hargon","The Fury","Clangeddin Silverbeard"]}}
 ---
 
 *I don't think anyone has used Maahes original name in an age. I think I'll try to find some old Thracian relics where it's spelled out explicitly, and then found an organization of scholars and meditative monks to "pry open their secrets". That will really rile him up, and then we'll have some opportunities for profit.
@@ -9,13 +9,13 @@ Maahes is a Major God
 
 ###### Regional Names: 
 He Who Strives For Greatness
-Polemos ([[Thracia\|Thracia]]), Hargon ([[Sendria\|Sendria]]), The Fury ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/Subdurni\|Subdurni]])
+Polemos ([[Thracia\|Thracia]]), Hargon ([[Sendria\|Sendria]]), The Fury ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Subdurni/Subdurni\|Subdurni]]), Clangeddin Silverbeard ([[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Cultural Religious Practices/The Dwarven Pantheon\|Dwarven Cultural]])
 
 ###### Domains: 
 Forge, Life, Light, Order, War.
 
 ###### Regional Worship: 
-The [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn\|Battlesworn]] ([[Thracia\|Thracia]]), [[The Brotherhood of Mithril Skin\|The Brotherhood of Mithril Skin]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])) by way of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Maahes/Kor, the Tireless\|Kor]], and the Hobgoblins and Goliath both of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]]
+The [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Religions/Battlesworn\|Battlesworn]] ([[Thracia\|Thracia]]), [[The Brotherhood of Mithril Skin\|The Brotherhood of Mithril Skin]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]])) by way of [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Minor Deities/Aspects of Maahes/Kor, the Tireless\|Kor]], and the Hobgoblins and Goliath both of [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Subdurni/The Wastes of Subdurni\|The Wastes of Subdurni]]
 
 
 
@@ -34,7 +34,7 @@ Maahes reaches out to the mortals under his influence in visions, dreams, and ri
 
 ## Relations to other Deities:
 
-Maahes bears a particular resentment to the relatively new god [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm\|Zatar the Ravaging Storm]]. Although Maahes would have struck [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/4. Cimmeria/Cimmeria\|Cimmeria]] down, had he had the chance, the duplicitous way it was done and the harm it has caused the continent, particularly the relatively peaceful [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/2. Others/Sea Kingdom of Kilar\|Sea Kingdom of Kilar]], aggrieves him. 
+Maahes bears a particular resentment to the relatively new god [[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Deities/Major Deities/Zatar the Ravaging Storm\|Zatar the Ravaging Storm]]. Although Maahes would have struck [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/2. Cimmeria/Cimmeria\|Cimmeria]] down, had he had the chance, the duplicitous way it was done and the harm it has caused the continent, particularly the relatively peaceful [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/99. Other Places, and Fallen Places/Sea Kingdom of Kilar\|Sea Kingdom of Kilar]], aggrieves him. 
 
 ## Origins:
 

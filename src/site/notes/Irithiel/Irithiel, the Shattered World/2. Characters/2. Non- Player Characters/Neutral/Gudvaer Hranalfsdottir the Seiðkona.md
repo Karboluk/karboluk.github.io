@@ -10,7 +10,7 @@
 
 # Holder of the Giant's Mark
 
-![Gudvaer-Hranalfsdottir.jpg\|Gudvaer Hranalfsdottir.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Gudvaer-Hranalfsdottir.jpg)
+![Gudvaer-Hranalfsdottir.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Gudvaer-Hranalfsdottir.jpg)
 
 ## An Ancient Among Children
 Gudvaer is by far the oldest member of the [[Njardarheimr Goliath\|Njardarheimr Goliath]], who live in the wastes east of the [[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] circa VR-372.  Her old and hunched frame means she walks with a pronounced limp, but her pride means she will refuse any overt assistance. 

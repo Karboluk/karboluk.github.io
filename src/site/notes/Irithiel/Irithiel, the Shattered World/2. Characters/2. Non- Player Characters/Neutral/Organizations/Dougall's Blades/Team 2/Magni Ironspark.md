@@ -16,7 +16,7 @@ Magni is a Dwarven Rogue, who favors daggers and crossbows. He is obviously gree
 ### Last Seen 
 Magni was last seen gathering marked coins before Team 3 defeated the Burning Man at the Ashen Candle Towers, on 372-08-20 in Timeline 1.
 
-![Magni-Ironspark.jpg\|Magni Ironspark.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Magni-Ironspark.jpg)
+![Magni-Ironspark.jpg\|Magni Ironspark.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Team%202/Magni-Ironspark.jpg)
 
 
 

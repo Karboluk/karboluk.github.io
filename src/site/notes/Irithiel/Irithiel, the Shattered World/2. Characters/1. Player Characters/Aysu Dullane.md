@@ -52,9 +52,9 @@ Dad
 
 ## Concept/Inspirational Art
 
-![Aysu-1.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Aysu-1.jpg)
+![Aysu-1.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Players/Aysu-1.jpg)
 
-![Aysu-2.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Uncategorized%20Images/Aysu-2.jpg)
+![Aysu-2.jpg](/img/user/Irithiel/ZZZ.%20Private%20DM%20Info/50.%20Glossary%20and%20Administrative/Stored%20Images/Characters/Players/Aysu-2.jpg)
 
 
 

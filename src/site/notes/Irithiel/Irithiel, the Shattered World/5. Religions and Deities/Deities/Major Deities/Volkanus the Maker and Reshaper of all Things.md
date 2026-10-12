@@ -9,7 +9,7 @@ Volkanus is a Major God
 
 ###### Regional Names: 
 He Who Creates New From The Old
-Moradin (Dwarven Cultural), St. [[Isolde\|Isolde]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]), 
+Moradin ([[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Cultural Religious Practices/The Dwarven Pantheon\|Dwarven Cultural]]), St. [[Isolde\|Isolde]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]]), 
 ###### Domains: 
 Forge, Knowledge, War
 

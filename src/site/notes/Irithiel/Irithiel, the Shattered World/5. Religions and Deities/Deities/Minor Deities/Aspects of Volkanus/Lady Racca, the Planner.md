@@ -1,5 +1,5 @@
 ---
-{"aliases":["St. Aeonath","Lady Racca","Lady Racca, the Planner"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["St. Aeonath","Lady Racca","Lady Racca, the Planner"]}}
+{"aliases":["St. Aeonath","Lady Racca","Berronar Truesilver"],"dg-publish":true,"permalink":"/irithiel/irithiel-the-shattered-world/5-religions-and-deities/deities/minor-deities/aspects-of-volkanus/lady-racca-the-planner/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["St. Aeonath","Lady Racca","Berronar Truesilver"]}}
 ---
 
 
@@ -10,7 +10,7 @@ Lady Racca is a Minor God.
 
 ###### Regional Names: 
 She Who Thinks and Never Makes
-St. [[Aeonath\|Aeonath]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] 35-current), Berronar Truesilver (dwarven cultural)
+St. [[Aeonath\|Aeonath]] ([[Irithiel/Irithiel, the Shattered World/4. Geography, Lands and Countries/1. The Continent of the Shining Vale/1. Shining Vale/1. Shining Vale General/The Shining Vale\|The Shining Vale]] 35-current), Berronar Truesilver ([[Irithiel/Irithiel, the Shattered World/5. Religions and Deities/Cultural Religious Practices/The Dwarven Pantheon\|dwarven cultural]])
 ###### Domains: 
 Order, Peace, War
 
