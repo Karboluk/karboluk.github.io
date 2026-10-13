@@ -31,6 +31,7 @@
 					- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Organizations/Nobility/The Queen Mother Babette Revanne\|The Queen Mother Babette Revanne]]
 			- [[Irithiel/Irithiel, the Shattered World/2. Characters/2. Non- Player Characters/Neutral/Gudvaer Hranalfsdottir the Seiðkona\|Gudvaer Hranalfsdottir the Seiðkona]]
 - **3. Species and Culture**
+	- [[Irithiel/Irithiel, the Shattered World/3. Species and Culture/Dwarven Cultural Examples\|Dwarven Cultural Examples]]
 	- [[Irithiel/Irithiel, the Shattered World/3. Species and Culture/Species and Culture\|Species and Culture]]
 - **4. Geography, Lands and Countries**
 	- **1. The Continent of the Shining Vale**
