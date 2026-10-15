@@ -62,7 +62,7 @@ Fighters are the rank-and-file guard and warriors of any dwarven settlement. Sen
 Whether they specialize in strength of arms, deadly accuracy, or survivability; other than commoners, fighters are certainly the most common archetype that dwarves fall into.
 
 #### Guardsmen
-Dwarves don't have a great need to guard against thieves and pickpockets in their own settlements, as that sort of activity it exceedingly rare; but dwarves trading or mingling with human societies certainly do. Sharp eyed, quick footed, good at reading intent and subduing foes non-lethally, a dwarven guardsman takes his job seriously while happily assisting and interfacing with honest folk. In the mountainhome, guardsmen typically work as tunnel guards in excavation or mining operations. 
+Dwarves don't have a great need to guard against thieves and pickpockets in their own settlements, as that sort of activity is exceedingly rare; but dwarves trading or mingling with human societies certainly do. Sharp eyed, quick footed, good at reading intent and subduing foes non-lethally, a dwarven guardsman takes his job seriously while happily assisting and interfacing with honest folk. In the mountainhome, guardsmen typically work as tunnel guards in excavation or mining operations. 
 
 In urban settings, guardsmen are armed with blunt weapons; truncheons (clubs), maces and hammers; and with more exotic tools such as nets, manacles or polearms in stranger or more perilous situations.
 
@@ -130,7 +130,38 @@ Paladins of Hanseath share the good news, spread joy, and try to bridge gaps cau
 
 ### Monks
 
+#### Brawling
+As implied above, casual fighting is not only legal among dwarves, but is fairly common; it's used as a method for settling disputes, for demonstrating skill, and sometime just for blowing off steam. Non-lethal fighting is thought by the Elders to produce a stronger Clan of dwarves, and is essentially free training for those who are not already in a martial field. 
+
+So while monks, in the human or elven "meditation and calm" sense, are fairly rare, brawling unarmed fighters are reasonably common. Way of the Open Hand and Way of the Drunken Fist are well known to the Clan.
+
+
+#### Resilience
+Since the settling of the Shining Vale, the establishment of the human Kingdom, and the canonization of their Saints, a rare migration of human ideals has begun to pass back to the dwarven Clan there. The priests of St. Kor have begun espousing the Way of Mithril Skin, an unarmed fighting philosophy that focuses not on evasiveness, but on the virtues of resilience. unsurprisingly, this has resonated among many dwarves. Though the practice is more common in the portion of the Clan that lives near the Cathedral in Corwyn City, there are those in the Mountainhome that have begun to practice it as well.
+
+
+## Specialist Classes
+Dwarven adventurers, soldiers and other uncommon folk are always skilled- whether it's their profession, a crafting trade or more commonly both, expressions of skill are valued almost as much as the Clan. Dedicated specialists therefore naturally find themselves among the more active folk in the Clan as well.
 ### Rangers
+Whether on the surface or underground, there is always a need for those who can track or shadow threats, watchposts to be manned, and natural threats to be identified before they escalate. 
+
+#### Watchers
+Border Guards, Wall Guards or Cavern Guards, Watchers make sure that anything out of the ordinary is noted, and dealt with if possible. The first line of defense, warning the Clan if trouble is incoming that they can't deal with, Watchers are probably the Dwarves who spend the most time away from home. This has led to estrangement, resentment and cultural drift in the past, so the Elders, particularly the Priests of Berronar, go out of their way to make sure any Watchers are well taken care of. Gift baskets from home, new equipment, well wishes and celebrations when they return keep a Watcher tied to their family.
+
+#### Finders
+Rumours are often gathered from other civilizations, or from the gods themselves, and someone has to check them out. The role of the Finder is just that- voyage off into the wild, an expedition to determine the facts, location, and/or nature of anything the elders feel is important. It could be a new mine, a new threat, or a new home.
+
+#### Hunters
+Where Finders to to determine the nature of a threat, and Watchers report threats close to home, Hunters go to end it. A party of Dwarven Hunters, pets and friends in tow, can clear out anything from a nest of goblins to a large dragon, if they are careful enough. Sometimes, they clear out an enemy town; but action like this would be looked at as an option of last resort.
 
 ### Rogues
+Though pickpockets, burglars and con artists are uncommon in the Mountainhome, those are still skills to be honed and arts to perfect. A person who may have become a criminal in a human kingdom is a well-compensated professional in the Clan.
 
+#### Locksmiths
+Every part wants a rogue who can pick a lock, or so the common wisdom goes. Well what about one who picks them so well because she makes them? A locksmith is a mechanically-minded person with an eye for small details, small machines and potential hazards. It is quite common for Dwarven Locksmiths, once trained up at home, to venture out into the world to see what other folk craft to protect their valuables; the best way to make sure foreign thieves can't break into your vault is to see how theirs are crafted, after all, traps and all.
+
+#### Scouts
+Working with Watchers, Finders and Hunters, with Armies and with Spies, a good scout is invaluable. Someone who can get the lay of the land with no-one being the wiser can give you the intelligence you need to deploy the correct response. The correct response means a better and cleaner result, and less danger to the Dwarves that were sent.
+
+#### Ratcatchers
+The Clan guards its home with zeal, jealousy and no small amount of ferocity. They know that they have what others want. Thus, every large settlement will have a few Ratcatchers; a euphemistic name that gets laughs from foreigners who don't just don't get the joke. The rats dwarves care about are big. Goblins sized, human sized, sometimes bigger. Standing upright, and with sticky fingers. There are always stories about human troublemakers bragging in the local tavern, saying they're going to get one over on "those greedy dwarves", who just don't come home from  a trip one day. You can thank the Ratcatchers. 
